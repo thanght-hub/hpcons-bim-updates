@@ -1,5 +1,5 @@
 {
-  "version": "1.19.0",
+  "version": "1.20.0",
   "url": "",
-  "notes": "Sap xep lai Ribbon theo tab: HP CONS, SoLieuXPXD, TrienKhaiTongThe, TrienKhaiChiTiet, SanNen&DiaHinh. Bo 2 addin cat/tach dia hinh cu. Lien he IT/HPCONS de lay ban cai moi."
+  "notes": "Gom toan bo addin vao 1 tab HPCONS-DESIGNS (5 panel: HPCONS, SoLieuXPXD, TrienKhaiTongThe, TrienKhaiChiTiet, SanNen&DiaHinh). Bo 2 addin cat/tach dia hinh cu. Lien he IT/HPCONS de lay ban cai moi."
 }
