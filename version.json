@@ -1,5 +1,5 @@
 {
-  "version": "1.20.1",
+  "version": "1.20.2",
   "url": "",
-  "notes": "Doi ten hien thi HPCONS BIM -> HPCONS DESIGN ADDINS (About dialog + installer). Fix addin Topo tu Text/CAD con nam ngoai tab HPCONS-DESIGNS (ban cu bi Revit khoa file khi cai truoc). Lien he IT/HPCONS de lay ban cai moi."
+  "notes": "Dong bo mau icon toan bo addin theo logo HP CONS (xam #4B4F55 + xanh #0F69A7). Doi ten hien thi HPCONS BIM -> HPCONS DESIGN ADDINS. Lien he IT/HPCONS de lay ban cai moi."
 }
