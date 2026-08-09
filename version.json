@@ -1,5 +1,5 @@
 {
-  "version": "1.29.0",
+  "version": "1.30.0",
   "url": "",
-  "notes": "'Ban ve theo Room': mat bang chi tiet gio duoc tao bang CALLOUT tu mat bang dang mo (co o callout tren mat bang chinh tro den view chi tiet) khi view dang mo la mat bang cung tang voi Room; nguoc lai van tao mat bang doc lap nhu cu. Lien he IT/HPCONS de lay ban cai moi."
+  "notes": "'Ban ve theo Room': mat bang tao theo dung Floor Plan Type cua tung loai chi tiet (02-MBChiTiet_WC / 01-MBChiTiet_Thang / 03-MBChiTiet_Khac); fix nut 'Tao ban ve'/'Huy' bi che khuat (ghim cung day hop thoai). Lien he IT/HPCONS de lay ban cai moi."
 }
