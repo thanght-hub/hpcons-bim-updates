@@ -1,5 +1,5 @@
 {
-  "version": "1.24.0",
+  "version": "1.25.0",
   "url": "",
-  "notes": "Them addin moi 'Ban ve theo Room' (panel TrienKhaiChiTiet): chon cac Room roi tu dong tao 1 mat bang crop theo Room + 4 mat dung noi that + 2 mat cat qua tam Room, xep tat ca len 1 Sheet moi cho tung Room (tham khao Drawings By Rooms cua Ta.D Tools). Lien he IT/HPCONS de lay ban cai moi."
+  "notes": "'Ban ve theo Room' co them hop thoai thiet lap truoc khi tao: so/ten sheet theo mau {SO}/{TEN}, chon khung ten, ty le view, chon loai view (MB/MD/MC), va gan tham so sheet du an (1P13-BO MON, 1P13-GROUP SHEET, 1P14-SHEET NAME-ALL...). Lien he IT/HPCONS de lay ban cai moi."
 }
