@@ -1,5 +1,5 @@
 {
-  "version": "1.21.0",
+  "version": "1.22.0",
   "url": "",
-  "notes": "Thay toan bo icon addin bang bo icon thiet ke rieng HPCONS-DESIGNS (24 icon, dung mau #4b4f55/#0969a7/#60bb46, ro net tren Revit Ribbon). Lien he IT/HPCONS de lay ban cai moi."
+  "notes": "Them nut moi 'Truc 3D->2D' trong panel TrienKhaiChiTiet (addin RevitDimGrid): chon cac truc Grid roi chuyen kieu hien thi dau truc trong view hien tai tu 3D sang 2D, tuong tu tool 3D To 2D cua Ta.D Tools. Lien he IT/HPCONS de lay ban cai moi."
 }
