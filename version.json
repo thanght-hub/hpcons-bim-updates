@@ -1,5 +1,5 @@
 {
-  "version": "1.26.0",
+  "version": "1.27.0",
   "url": "",
-  "notes": "'Ban ve theo Room': them tuy chon tao MAT BANG TRAN (Reflected Ceiling Plan); bang tham so sheet chi con goi y cac param can dung (bo 1P15-SC AUTORUN, 1P16-SHEET TOTALS, 5T01-MUL TEXT-IT, 1P14-SHEET NAME-ALL, 1P14-SheetNameAll_Trans). Lien he IT/HPCONS de lay ban cai moi."
+  "notes": "Them nut xo xuong 'Hoan thien Room' (panel TrienKhaiChiTiet) voi 3 lenh moi: Tran hoan thien (Ceiling theo boundary Room), Nen san hoan thien (Floor theo boundary Room), Tuong vach hoan thien (tuong bam boundary, tu offset vao trong phong nua be day) - tham khao Rooms to Ceilings/Floors/Walls cua Ta.D Tools. Lien he IT/HPCONS de lay ban cai moi."
 }
