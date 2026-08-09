@@ -1,5 +1,5 @@
 {
-  "version": "1.22.0",
+  "version": "1.23.0",
   "url": "",
-  "notes": "Them nut moi 'Truc 3D->2D' trong panel TrienKhaiChiTiet (addin RevitDimGrid): chon cac truc Grid roi chuyen kieu hien thi dau truc trong view hien tai tu 3D sang 2D, tuong tu tool 3D To 2D cua Ta.D Tools. Lien he IT/HPCONS de lay ban cai moi."
+  "notes": "Them nut moi 'Level 3D->2D' trong panel TrienKhaiChiTiet (addin RevitDimLevel): chon cac Level roi chuyen kieu hien thi dau Level trong view hien tai tu 3D sang 2D, tuong tu tool 3D To 2D cua Ta.D Tools. Lien he IT/HPCONS de lay ban cai moi."
 }
