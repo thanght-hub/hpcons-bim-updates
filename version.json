@@ -1,5 +1,5 @@
 {
-  "version": "1.23.0",
+  "version": "1.24.0",
   "url": "",
-  "notes": "Them nut moi 'Level 3D->2D' trong panel TrienKhaiChiTiet (addin RevitDimLevel): chon cac Level roi chuyen kieu hien thi dau Level trong view hien tai tu 3D sang 2D, tuong tu tool 3D To 2D cua Ta.D Tools. Lien he IT/HPCONS de lay ban cai moi."
+  "notes": "Them addin moi 'Ban ve theo Room' (panel TrienKhaiChiTiet): chon cac Room roi tu dong tao 1 mat bang crop theo Room + 4 mat dung noi that + 2 mat cat qua tam Room, xep tat ca len 1 Sheet moi cho tung Room (tham khao Drawings By Rooms cua Ta.D Tools). Lien he IT/HPCONS de lay ban cai moi."
 }
