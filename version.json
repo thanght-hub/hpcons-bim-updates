@@ -1,5 +1,5 @@
 {
-  "version": "1.20.2",
+  "version": "1.20.3",
   "url": "",
-  "notes": "Dong bo mau icon toan bo addin theo logo HP CONS (xam #4B4F55 + xanh #0F69A7). Doi ten hien thi HPCONS BIM -> HPCONS DESIGN ADDINS. Lien he IT/HPCONS de lay ban cai moi."
+  "notes": "Fix loi RevitTranslationManager bao 'panel TrienKhaiChiTiet already exists' khi khoi dong Revit (thieu kiem tra panel co san). Lien he IT/HPCONS de lay ban cai moi."
 }
