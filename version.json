@@ -1,5 +1,5 @@
 {
-  "version": "1.25.0",
+  "version": "1.25.1",
   "url": "",
   "notes": "'Ban ve theo Room' co them hop thoai thiet lap truoc khi tao: so/ten sheet theo mau {SO}/{TEN}, chon khung ten, ty le view, chon loai view (MB/MD/MC), va gan tham so sheet du an (1P13-BO MON, 1P13-GROUP SHEET, 1P14-SHEET NAME-ALL...). Lien he IT/HPCONS de lay ban cai moi."
 }
