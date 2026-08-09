@@ -1,5 +1,5 @@
 {
-  "version": "1.30.0",
+  "version": "1.31.0",
   "url": "",
-  "notes": "'Ban ve theo Room': mat bang tao theo dung Floor Plan Type cua tung loai chi tiet (02-MBChiTiet_WC / 01-MBChiTiet_Thang / 03-MBChiTiet_Khac); fix nut 'Tao ban ve'/'Huy' bi che khuat (ghim cung day hop thoai). Lien he IT/HPCONS de lay ban cai moi."
+  "notes": "'Ban ve theo Room': mat cat tao theo dung Section Type cua tung loai chi tiet (03-MCChiTiet_WC / 02-MCChiTiet_Thang / 05-MCChiTiet_Khac), tuong tu Floor Plan Type. Lien he IT/HPCONS de lay ban cai moi."
 }
