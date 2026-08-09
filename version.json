@@ -1,5 +1,5 @@
 {
-  "version": "1.28.0",
+  "version": "1.29.0",
   "url": "",
-  "notes": "'Ban ve theo Room': them dropdown 'Loai chi tiet' (ve sinh / thang-bac cap / khac) - tu gan view template #A-TrKh2-MBChiTiet_* cho mat bang va #A-TrKh2-MCChiTiet_* cho mat cat theo loai da chon. Lien he IT/HPCONS de lay ban cai moi."
+  "notes": "'Ban ve theo Room': mat bang chi tiet gio duoc tao bang CALLOUT tu mat bang dang mo (co o callout tren mat bang chinh tro den view chi tiet) khi view dang mo la mat bang cung tang voi Room; nguoc lai van tao mat bang doc lap nhu cu. Lien he IT/HPCONS de lay ban cai moi."
 }
