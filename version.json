@@ -1,5 +1,5 @@
 {
-  "version": "1.27.0",
+  "version": "1.28.0",
   "url": "",
-  "notes": "Them nut xo xuong 'Hoan thien Room' (panel TrienKhaiChiTiet) voi 3 lenh moi: Tran hoan thien (Ceiling theo boundary Room), Nen san hoan thien (Floor theo boundary Room), Tuong vach hoan thien (tuong bam boundary, tu offset vao trong phong nua be day) - tham khao Rooms to Ceilings/Floors/Walls cua Ta.D Tools. Lien he IT/HPCONS de lay ban cai moi."
+  "notes": "'Ban ve theo Room': them dropdown 'Loai chi tiet' (ve sinh / thang-bac cap / khac) - tu gan view template #A-TrKh2-MBChiTiet_* cho mat bang va #A-TrKh2-MCChiTiet_* cho mat cat theo loai da chon. Lien he IT/HPCONS de lay ban cai moi."
 }
