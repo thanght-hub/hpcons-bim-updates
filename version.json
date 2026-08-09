@@ -1,5 +1,5 @@
 {
-  "version": "1.25.1",
+  "version": "1.26.0",
   "url": "",
-  "notes": "'Ban ve theo Room' co them hop thoai thiet lap truoc khi tao: so/ten sheet theo mau {SO}/{TEN}, chon khung ten, ty le view, chon loai view (MB/MD/MC), va gan tham so sheet du an (1P13-BO MON, 1P13-GROUP SHEET, 1P14-SHEET NAME-ALL...). Lien he IT/HPCONS de lay ban cai moi."
+  "notes": "'Ban ve theo Room': them tuy chon tao MAT BANG TRAN (Reflected Ceiling Plan); bang tham so sheet chi con goi y cac param can dung (bo 1P15-SC AUTORUN, 1P16-SHEET TOTALS, 5T01-MUL TEXT-IT, 1P14-SHEET NAME-ALL, 1P14-SheetNameAll_Trans). Lien he IT/HPCONS de lay ban cai moi."
 }
