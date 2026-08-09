@@ -1,5 +1,5 @@
 {
-  "version": "1.20.3",
+  "version": "1.21.0",
   "url": "",
-  "notes": "Fix loi RevitTranslationManager bao 'panel TrienKhaiChiTiet already exists' khi khoi dong Revit (thieu kiem tra panel co san). Lien he IT/HPCONS de lay ban cai moi."
+  "notes": "Thay toan bo icon addin bang bo icon thiet ke rieng HPCONS-DESIGNS (24 icon, dung mau #4b4f55/#0969a7/#60bb46, ro net tren Revit Ribbon). Lien he IT/HPCONS de lay ban cai moi."
 }
