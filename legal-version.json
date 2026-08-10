@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.3.0",
   "url": "",
-  "notes": "Thêm nút \"Điền GPXD từ Excel\" (Word): đọc file Excel \"Thông tin gửi phòng ban\" tự soạn Giấy phép xây dựng, có \"Xem nguồn\" soi đúng ô/dòng Excel + tô xanh (đã điền)/vàng (còn thiếu). OCR PDF scan cũng đọc chính xác hơn. Liên hệ IT/HPCONS để lấy bản cài mới."
+  "notes": "2 tính năng mới: \"Điền TB thẩm định NCKT\" (Word) — dán link Google Sheets \"Thông tin gửi phòng ban\" tự soạn Thông báo kết quả thẩm định Báo cáo NCKT chi tiết từng hạng mục; \"Tổng hợp dự án vào Excel\" (Excel) — chọn 1 hoặc nhiều file Excel XPXD, mỗi dự án thành 1 dòng bảng tổng hợp. Đều có tô xanh (đã điền)/vàng (còn thiếu). Liên hệ IT/HPCONS để lấy bản cài mới."
 }
