@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "url": "",
-  "notes": ""
+  "notes": "Thêm nút \"Điền GPXD từ Excel\" (Word): đọc file Excel \"Thông tin gửi phòng ban\" tự soạn Giấy phép xây dựng, có \"Xem nguồn\" soi đúng ô/dòng Excel + tô xanh (đã điền)/vàng (còn thiếu). OCR PDF scan cũng đọc chính xác hơn. Liên hệ IT/HPCONS để lấy bản cài mới."
 }
