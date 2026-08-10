@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/legal-v1.3.0/HPCONS-LEGAL-Setup-1.3.0.exe",
-  "notes": "2 tính năng mới: \"Điền TB thẩm định NCKT\" (Word) — dán link Google Sheets tự soạn Thông báo thẩm định Báo cáo NCKT; \"Tổng hợp dự án vào Excel\" (Excel) — gộp nhiều file Excel XPXD thành bảng tổng hợp. LƯU Ý khi tải: trình duyệt có thể cảnh báo \"isn't commonly downloaded\" vì file mới ít lượt tải — bấm ⋯ → Keep/Giữ lại (file do HPCONS phát hành, có mật khẩu cài đặt bảo vệ). Mật khẩu: liên hệ IT/HPCONS."
+  "version": "1.4.0",
+  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/legal-v1.4.0/HPCONS-LEGAL-Setup-1.4.0.exe",
+  "notes": "Mới: CHỌN SHEET SỐ LIỆU — cả 3 tính năng điền tự động (GPXD, TB thẩm định NCKT, Tổng hợp Excel) không còn khóa cứng sheet ThTin_XPXD, add-in tự dò mọi sheet có bảng hạng mục (XPXD/QH500..., kể cả sheet ẩn); file nhiều sheet thì chọn 1 (Word) hoặc tick nhiều (Tổng hợp — mỗi sheet 1 dòng). LƯU Ý khi tải: trình duyệt có thể cảnh báo file ít lượt tải — bấm ⋯ → Keep/Giữ lại. Mật khẩu cài: liên hệ IT/HPCONS."
 }
