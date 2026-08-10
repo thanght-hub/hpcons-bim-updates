@@ -1,5 +1,5 @@
 {
   "version": "1.3.0",
-  "url": "",
-  "notes": "2 tính năng mới: \"Điền TB thẩm định NCKT\" (Word) — dán link Google Sheets \"Thông tin gửi phòng ban\" tự soạn Thông báo kết quả thẩm định Báo cáo NCKT chi tiết từng hạng mục; \"Tổng hợp dự án vào Excel\" (Excel) — chọn 1 hoặc nhiều file Excel XPXD, mỗi dự án thành 1 dòng bảng tổng hợp. Đều có tô xanh (đã điền)/vàng (còn thiếu). Liên hệ IT/HPCONS để lấy bản cài mới."
+  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/legal-v1.3.0/HPCONS-LEGAL-Setup-1.3.0.exe",
+  "notes": "2 tính năng mới: \"Điền TB thẩm định NCKT\" (Word) — dán link Google Sheets \"Thông tin gửi phòng ban\" tự soạn Thông báo kết quả thẩm định Báo cáo NCKT chi tiết từng hạng mục; \"Tổng hợp dự án vào Excel\" (Excel) — chọn 1 hoặc nhiều file Excel XPXD, mỗi dự án thành 1 dòng bảng tổng hợp. Đều có tô xanh (đã điền)/vàng (còn thiếu). Mật khẩu cài đặt: liên hệ IT/HPCONS."
 }
