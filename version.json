@@ -1,5 +1,5 @@
 {
-  "version": "1.31.0",
+  "version": "1.35.4",
   "url": "",
-  "notes": "'Ban ve theo Room': mat cat tao theo dung Section Type cua tung loai chi tiet (03-MCChiTiet_WC / 02-MCChiTiet_Thang / 05-MCChiTiet_Khac), tuong tu Floor Plan Type. Lien he IT/HPCONS de lay ban cai moi."
+  "notes": "Them chi tiet Curtain Wall (icon, dim tu dong theo mat, mat dung Building Elevation offset 500mm, view template, sheet placement) va nhom lai cac lenh Room + lam moi icon ribbon. Lien he IT/HPCONS de lay ban cai moi."
 }
