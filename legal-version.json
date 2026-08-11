@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
-  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/legal-v1.4.0/HPCONS-LEGAL-Setup-1.4.0.exe",
-  "notes": "Mới: CHỌN SHEET SỐ LIỆU — cả 3 tính năng điền tự động (GPXD, TB thẩm định NCKT, Tổng hợp Excel) không còn khóa cứng sheet ThTin_XPXD, add-in tự dò mọi sheet có bảng hạng mục (XPXD/QH500..., kể cả sheet ẩn); file nhiều sheet thì chọn 1 (Word) hoặc tick nhiều (Tổng hợp — mỗi sheet 1 dòng). LƯU Ý khi tải: trình duyệt có thể cảnh báo file ít lượt tải — bấm ⋯ → Keep/Giữ lại. Mật khẩu cài: liên hệ IT/HPCONS."
+  "version": "1.5.0",
+  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/legal-v1.5.0/HPCONS-LEGAL-Setup-1.5.0.exe",
+  "notes": "Mới: FILE EXCEL NGUỒN NHẬN MỌI ĐỊNH DẠNG — .xlsx .xlsm .xlsb .xls .xltx .xltm .ods .csv (định dạng khác .xlsx được tự chuyển sang bản .xlsx tạm để đọc, thêm 1-2 giây/file rồi tự xóa) → KHÔNG PHẢI Save As tay nữa. Áp cho cả \"Điền GPXD từ Excel\" và \"Tổng hợp dự án vào Excel\". File nguồn có mật khẩu thì phải bỏ mật khẩu trước. LƯU Ý khi tải: trình duyệt có thể cảnh báo file ít lượt tải — bấm ⋯ → Keep/Giữ lại. Mật khẩu cài: liên hệ IT/HPCONS."
 }
