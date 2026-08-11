@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
-  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/autoexcel-v1.3.0/HPCONS-AutoExcel-Setup-1.3.0.exe",
-  "notes": "Sửa lỗi khó hiểu khi đứng sai sheet. Thông báo lỗi giờ ghi rõ: đang ghi vào SHEET nào, tiêu đề ở dòng mấy, các cột dò được, tiêu đề thực tế có trong file nguồn, kèm số phiên bản. Quan trọng nhất: add-in TỰ QUÉT các sheet khác trong file và gợi ý sheet đúng (ví dụ: sheet \"1Planner' data\" — khớp 10 cột → bấm sang sheet đó rồi chạy lại). LƯU Ý: add-in dò bảng trên SHEET ĐANG HIỂN THỊ, nên phải mở đúng sheet của bảng tổng hợp trước khi bấm nút. Khi tải: trình duyệt có thể cảnh báo file ít lượt tải — bấm ⋯ → Keep/Giữ lại. Mật khẩu cài: liên hệ IT/HPCONS."
+  "version": "1.4.0",
+  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/autoexcel-v1.4.0/HPCONS-AutoExcel-Setup-1.4.0.exe",
+  "notes": "Mới: FILE NGUỒN NHẬN MỌI ĐỊNH DẠNG EXCEL — .xlsx .xlsm .xlsb .xls .xltx .xltm .ods .csv (định dạng khác .xlsx được tự chuyển sang bản .xlsx tạm để đọc, thêm 1-2 giây/file rồi tự xóa) → KHÔNG PHẢI Save As tay sang .xlsx nữa. Cột ID SHIPMENTS vẫn lấy đúng tên thư mục chứa file gốc. Chẩn đoán lỗi + gợi ý sheet đúng vẫn hoạt động với file .xlsb. File nguồn có mật khẩu thì phải bỏ mật khẩu trước. LƯU Ý: add-in dò bảng trên SHEET ĐANG HIỂN THỊ, phải mở đúng sheet của bảng tổng hợp trước khi bấm nút. Khi tải: trình duyệt có thể cảnh báo file ít lượt tải — bấm ⋯ → Keep/Giữ lại. Mật khẩu cài: liên hệ IT/HPCONS."
 }
