@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/autoexcel-v1.2.0/HPCONS-AutoExcel-Setup-1.2.0.exe",
-  "notes": "Mới: TỰ ĐIỀN MÃ LÔ HÀNG — cột ID SHIPMENTS (hoặc Mã lô hàng / Shipment ID...) được tự điền bằng TÊN THƯ MỤC chứa file nguồn. Ví dụ file lịch xuất hàng nằm trong thư mục 260810 thì mọi dòng lấy từ file đó có ID SHIPMENTS = 260810. Giá trị ghi dạng chữ nên không bị cắt số 0 đầu; file nguồn có sẵn cột này thì giữ dữ liệu thật. LƯU Ý khi tải: trình duyệt có thể cảnh báo file ít lượt tải — bấm ⋯ → Keep/Giữ lại. Mật khẩu cài: liên hệ IT/HPCONS."
+  "version": "1.3.0",
+  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/autoexcel-v1.3.0/HPCONS-AutoExcel-Setup-1.3.0.exe",
+  "notes": "Sửa lỗi khó hiểu khi đứng sai sheet. Thông báo lỗi giờ ghi rõ: đang ghi vào SHEET nào, tiêu đề ở dòng mấy, các cột dò được, tiêu đề thực tế có trong file nguồn, kèm số phiên bản. Quan trọng nhất: add-in TỰ QUÉT các sheet khác trong file và gợi ý sheet đúng (ví dụ: sheet \"1Planner' data\" — khớp 10 cột → bấm sang sheet đó rồi chạy lại). LƯU Ý: add-in dò bảng trên SHEET ĐANG HIỂN THỊ, nên phải mở đúng sheet của bảng tổng hợp trước khi bấm nút. Khi tải: trình duyệt có thể cảnh báo file ít lượt tải — bấm ⋯ → Keep/Giữ lại. Mật khẩu cài: liên hệ IT/HPCONS."
 }
