@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
-  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/autoexcel-v1.6.0/HPCONS-AutoExcel-Setup-1.6.0.exe",
-  "notes": "Sửa 2 lỗi trên bảng có TIÊU ĐỀ NHIỀU TẦNG / Ô GỘP NGANG (gặp ở file Lịch xuất hàng Order 3645). (1) Cột có tên thật nằm ở TẦNG DƯỚI của ô gộp — ví dụ \"Price/ Tính giá\" gộp 2 cột, tên thật \"Unit Price\" và \"Total price\" ở dòng dưới — nay đọc được, không còn phải gõ tay. (2) Ô gộp ngang trải 2 cột (ví dụ \"Product code\" gồm cột mã chuẩn + cột mã sản phẩm) nay được điền ĐỦ CẢ 2 CỘT, ghép đúng thứ tự với 2 cột bên file nguồn; trước đây chỉ điền được 1 cột. Sửa thêm: tầng tiêu đề thứ 3 của file nguồn (\"IFS\", \"(pc)\", \"(USD)\") không còn bị bóc thành 1 dòng rác. LƯU Ý khi tải: trình duyệt có thể cảnh báo file ít lượt tải — bấm ⋯ → Keep/Giữ lại. Mật khẩu cài: liên hệ IT/HPCONS."
+  "version": "1.7.0",
+  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/autoexcel-v1.7.0/HPCONS-AutoExcel-Setup-1.7.0.exe",
+  "notes": "Cột thứ 2 của tiêu đề gộp (ví dụ \"Product code\" gồm cột mã chuẩn + cột mã sản phẩm) không còn BỎ TRẮNG khi file nguồn chỉ ghi MỘT mã. Các đơn hàng phụ kiện (rope, nut, screw…) chỉ có 1 mã nên trước đây cột thứ 2 bị trống, phải gõ tay từng dòng. Nay add-in điền cùng mã đó vào cả 2 cột — đúng như cách anh em vẫn làm tay (kiểm 1.073 dòng sẵn có của bảng thì 231 dòng ghi giống hệt ở cả 2 cột). An toàn: chỉ lặp khi 2 cột con là hai cách ghi của cùng một thứ; hai cột khác nghĩa (Đơn giá / Thành tiền) không bao giờ bị lặp. Nguồn có đủ 2 mã thì vẫn giữ 2 giá trị khác nhau. LƯU Ý khi tải: trình duyệt có thể cảnh báo file ít lượt tải — bấm ⋯ → Keep/Giữ lại. Mật khẩu cài: liên hệ IT/HPCONS."
 }
