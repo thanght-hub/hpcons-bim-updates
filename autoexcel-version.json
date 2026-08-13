@@ -1,5 +1,5 @@
 {
-    "version":  "1.5.1",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/autoexcel-v1.5.1/HPCONS-AutoExcel-Setup-1.5.1.exe",
-    "notes":  "Sửa lỗi giao diện hộp thoại xác nhận cột tên gần giống: máy đặt CỠ CHỮ LỚN (Windows 11 → Settings → Accessibility → Text size, hoặc scale 125–150%) khiến bảng gợi ý tự giãn rộng hơn cửa sổ nên CẮT MẤT cột \"Vì sao gợi ý\", và nút Hủy bị đẩy ra ngoài vùng nhìn. Đã chuyển sang layout tự giãn theo cửa sổ và không cho hàng nút bị ngắt dòng. Không đổi tính năng nào khác — ai đang dùng 1.5.0 trên màn hình 100% thì bản này không khác gì về cách dùng. Tính năng chính của dòng 1.5: cột tên GẦN GIỐNG (tiêu đề song ngữ QTY / Số lượng) được add-in gợi ý và hiện hộp cảnh báo để xác nhận từng cặp, add-in không tự ghép. Khi tải: trình duyệt có thể cảnh báo file ít lượt tải — bấm ⋯ → Keep/Giữ lại. Mật khẩu cài: liên hệ IT/HPCONS."
+  "version": "1.6.0",
+  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/autoexcel-v1.6.0/HPCONS-AutoExcel-Setup-1.6.0.exe",
+  "notes": "Sửa 2 lỗi trên bảng có TIÊU ĐỀ NHIỀU TẦNG / Ô GỘP NGANG (gặp ở file Lịch xuất hàng Order 3645). (1) Cột có tên thật nằm ở TẦNG DƯỚI của ô gộp — ví dụ \"Price/ Tính giá\" gộp 2 cột, tên thật \"Unit Price\" và \"Total price\" ở dòng dưới — nay đọc được, không còn phải gõ tay. (2) Ô gộp ngang trải 2 cột (ví dụ \"Product code\" gồm cột mã chuẩn + cột mã sản phẩm) nay được điền ĐỦ CẢ 2 CỘT, ghép đúng thứ tự với 2 cột bên file nguồn; trước đây chỉ điền được 1 cột. Sửa thêm: tầng tiêu đề thứ 3 của file nguồn (\"IFS\", \"(pc)\", \"(USD)\") không còn bị bóc thành 1 dòng rác. LƯU Ý khi tải: trình duyệt có thể cảnh báo file ít lượt tải — bấm ⋯ → Keep/Giữ lại. Mật khẩu cài: liên hệ IT/HPCONS."
 }
