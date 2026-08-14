@@ -1,5 +1,5 @@
 {
-  "version": "1.35.4",
+  "version": "1.36.0",
   "url": "",
-  "notes": "Them chi tiet Curtain Wall (icon, dim tu dong theo mat, mat dung Building Elevation offset 500mm, view template, sheet placement) va nhom lai cac lenh Room + lam moi icon ribbon. Lien he IT/HPCONS de lay ban cai moi."
+  "notes": "Them addin moi: Tra thuoc Lo Ban (tra cuu kich thuoc phong thuy Thong Thuy 52.2cm / Duong Trach 42.9cm / Am Phan 38.8cm) - nhap tay kich thuoc hoac do 2 diem trong model, tab HPCONS-DESIGNS panel TraCuu. Lien he IT/HPCONS de lay ban cai moi."
 }
