@@ -1,5 +1,5 @@
 {
-  "version": "1.36.6",
-  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.36.6/HPCONS-BIM-Setup-1.36.6.exe",
-  "notes": "Fix: tu don file addin ThuocLoBan cu o thu muc per-user (tung phat hanh standalone truoc khi gop) - tranh Revit nap nham ban cu, mat het tinh nang moi."
+  "version": "1.36.7",
+  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.36.7/HPCONS-BIM-Setup-1.36.7.exe",
+  "notes": "Tra thuoc Lo Ban: phong to thuoc truot, chu tu xuong dong thay vi cat \"...\", hien day du ten cung khong bi che."
 }
