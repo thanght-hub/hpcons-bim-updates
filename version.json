@@ -1,5 +1,5 @@
 {
-  "version": "1.36.5",
-  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.36.5/HPCONS-BIM-Setup-1.36.5.exe",
-  "notes": "Tra thuoc Lo Ban: them giao dien thuoc truot truc quan (cm + cung lon + tieu cung to mau tot/xau, bam/keo chon so gan do) va mo ta ngan cho tung loai thuoc."
+  "version": "1.36.6",
+  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.36.6/HPCONS-BIM-Setup-1.36.6.exe",
+  "notes": "Fix: tu don file addin ThuocLoBan cu o thu muc per-user (tung phat hanh standalone truoc khi gop) - tranh Revit nap nham ban cu, mat het tinh nang moi."
 }
