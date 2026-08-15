@@ -1,5 +1,5 @@
 {
-  "version": "1.36.7",
-  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.36.7/HPCONS-BIM-Setup-1.36.7.exe",
-  "notes": "Tra thuoc Lo Ban: phong to thuoc truot, chu tu xuong dong thay vi cat \"...\", hien day du ten cung khong bi che."
+  "version": "1.37.0",
+  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.37.0/HPCONS-BIM-Setup-1.37.0.exe",
+  "notes": "Them addin So tay thiet ke kien truc (panel TraCuu): danh sach tai lieu PDF + link Google Sheets dung chung, dong bo tu kho GitHub."
 }
