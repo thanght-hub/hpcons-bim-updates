@@ -1,5 +1,5 @@
 {
-  "version": "1.36.4",
-  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.36.4/HPCONS-BIM-Setup-1.36.4.exe",
-  "notes": "Gop addin Tra thuoc Lo Ban vao chung bo cai (bo ban cai rieng), khong con tu bao cap nhat rieng cho addin nay."
+  "version": "1.36.5",
+  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.36.5/HPCONS-BIM-Setup-1.36.5.exe",
+  "notes": "Tra thuoc Lo Ban: them giao dien thuoc truot truc quan (cm + cung lon + tieu cung to mau tot/xau, bam/keo chon so gan do) va mo ta ngan cho tung loai thuoc."
 }
