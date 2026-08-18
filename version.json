@@ -1,5 +1,5 @@
 {
-  "version": "1.37.0",
-  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.37.0/HPCONS-BIM-Setup-1.37.0.exe",
-  "notes": "Them addin So tay thiet ke kien truc (panel TraCuu): danh sach tai lieu PDF + link Google Sheets dung chung, dong bo tu kho GitHub."
+  "version": "1.38.0",
+  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.38.0/HPCONS-BIM-Setup-1.38.0.exe",
+  "notes": "Tab HPCONS-DESIGNS luon giu ngoai cung ben phai. Chuyen Tra khoang cach PCCC sang panel TraCuu. Them addin moi Thong ke PCCC hang muc."
 }
