@@ -1,5 +1,5 @@
 {
-  "version": "1.38.0",
-  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.38.0/HPCONS-BIM-Setup-1.38.0.exe",
-  "notes": "Tab HPCONS-DESIGNS luon giu ngoai cung ben phai. Chuyen Tra khoang cach PCCC sang panel TraCuu. Them addin moi Thong ke PCCC hang muc."
+  "version": "1.40.0",
+  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.40.0/HPCONS-BIM-Setup-1.40.0.exe",
+  "notes": "Doi ten nut 'Khoi luong Dao dap' thanh 'Tao topo thiet ke', them che do Mat phang xien. Toposolid tao moi mac dinh Type 02-DatSanNen, tu ghi 4 tham so S dao/S dap/V dao/V dap. Sua bang thong ke PCCC: het che chu, sua truc tiep tham so, them cot Ten hang muc."
 }
