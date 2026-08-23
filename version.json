@@ -1,5 +1,5 @@
 {
-  "version": "1.40.0",
-  "url": "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.40.0/HPCONS-BIM-Setup-1.40.0.exe",
-  "notes": "Doi ten nut 'Khoi luong Dao dap' thanh 'Tao topo thiet ke', them che do Mat phang xien. Toposolid tao moi mac dinh Type 02-DatSanNen, tu ghi 4 tham so S dao/S dap/V dao/V dap. Sua bang thong ke PCCC: het che chu, sua truc tiep tham so, them cot Ten hang muc."
+    "version":  "1.54.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.54.0/HPCONS-BIM-Setup-1.54.0.exe",
+    "notes":  "Addin MOI \u0027PA Tach Lo Dat\u0027: so do lo truc quan, cong thuc tu dong (khong phai dan tay lai khi them/xoa/gop lo), dich bang thong ke Gian the/Phon the/Anh, QA toan he. PCCC: sua loi khong chon duoc hang muc, doc dung tham so PCCC_txt_*, THEM \u0027Bang thuyet minh khoang cach PCCC\u0027 luu trong file .rvt - gop o theo cap, cot Ket luan Dat/Khong dat, ve duoc ra Drafting View. Icon moi cho 3 nut. Sua so phien ban trong hop About."
 }
