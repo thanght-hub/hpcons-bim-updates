@@ -1,5 +1,5 @@
 {
-    "version":  "1.54.1",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.54.1/HPCONS-BIM-Setup-1.54.1.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.54.1.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Co giai phap ngan chay thi ket luan chuyen thanh DAT: khi khoang cach thiet ke nho hon quy dinh nhung da ghi giai phap (vi du \"Tuong ngan chay REI 150\"), cot Ket luan doi tu \"Khong dat\" thanh \"Dat (co giai phap)\" - ghi ro de nguoi doc thuyet minh biet dat NHO GIAI PHAP, khong phai nho khoang cach. Can cu ghi chu Phu luc E QCVN 06: tuong ngan chay dac, khong lo mo thi khong quy dinh khoang cach PCCC."
+    "version":  "1.54.2",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.54.2/HPCONS-BIM-Setup-1.54.2.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.54.2.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Cot Ket luan chi ghi gon \"Dat\" / \"Khong dat\" (bo chu \"(co giai phap)\"). - Co giai phap ngan chay thi ket luan la DAT: khoang cach thiet ke nho hon quy dinh nhung da ghi giai phap (vi du \"Tuong ngan chay REI 150\") -\u003e Dat. Can cu ghi chu Phu luc E QCVN 06: tuong ngan chay dac, khong lo mo thi khong quy dinh khoang cach PCCC. - Sua o \"Khoang cach thiet ke\" HOAC \"Giai phap ngan chay\" -\u003e ket luan tu cap nhat ngay."
 }
