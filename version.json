@@ -1,5 +1,5 @@
 {
-    "version":  "1.54.2",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.54.2/HPCONS-BIM-Setup-1.54.2.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.54.2.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Cot Ket luan chi ghi gon \"Dat\" / \"Khong dat\" (bo chu \"(co giai phap)\"). - Co giai phap ngan chay thi ket luan la DAT: khoang cach thiet ke nho hon quy dinh nhung da ghi giai phap (vi du \"Tuong ngan chay REI 150\") -\u003e Dat. Can cu ghi chu Phu luc E QCVN 06: tuong ngan chay dac, khong lo mo thi khong quy dinh khoang cach PCCC. - Sua o \"Khoang cach thiet ke\" HOAC \"Giai phap ngan chay\" -\u003e ket luan tu cap nhat ngay."
+    "version":  "1.55.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.55.0/HPCONS-BIM-Setup-1.55.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.55.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). Trong \"Bang thuyet minh khoang cach PCCC\" co them nut \"Xuat ra Schedule\". - Tao ra mot bang thong ke THAT ten PCCC-BANG THUYET MINH KHOANG CACH, nam trong Project Browser \u003e Schedules/Quantities, keo thang len sheet nhu moi bang khac. - Du 11 cot, moi cap hang muc 2 dong, tu sap xep dung thu tu da nhap. - Nut \"Ve bang ra Revit\" (ve ra Drafting View) VAN GIU NGUYEN - dung cai nao tuy nhu cau."
 }
