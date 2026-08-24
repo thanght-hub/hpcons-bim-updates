@@ -1,5 +1,5 @@
 {
-    "version":  "1.54.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.54.0/HPCONS-BIM-Setup-1.54.0.exe",
-    "notes":  "Addin MOI \u0027PA Tach Lo Dat\u0027: so do lo truc quan, cong thuc tu dong (khong phai dan tay lai khi them/xoa/gop lo), dich bang thong ke Gian the/Phon the/Anh, QA toan he. PCCC: sua loi khong chon duoc hang muc, doc dung tham so PCCC_txt_*, THEM \u0027Bang thuyet minh khoang cach PCCC\u0027 luu trong file .rvt - gop o theo cap, cot Ket luan Dat/Khong dat, ve duoc ra Drafting View. Icon moi cho 3 nut. Sua so phien ban trong hop About."
+    "version":  "1.54.1",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.54.1/HPCONS-BIM-Setup-1.54.1.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.54.1.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Co giai phap ngan chay thi ket luan chuyen thanh DAT: khi khoang cach thiet ke nho hon quy dinh nhung da ghi giai phap (vi du \"Tuong ngan chay REI 150\"), cot Ket luan doi tu \"Khong dat\" thanh \"Dat (co giai phap)\" - ghi ro de nguoi doc thuyet minh biet dat NHO GIAI PHAP, khong phai nho khoang cach. Can cu ghi chu Phu luc E QCVN 06: tuong ngan chay dac, khong lo mo thi khong quy dinh khoang cach PCCC."
 }
