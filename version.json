@@ -1,5 +1,5 @@
 {
     "version":  "1.56.0",
     "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.56.0/HPCONS-BIM-Setup-1.56.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.56.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Them 2 cot \"Chieu cao PCCC (mm)\" va \"Chieu cao lon nhat (mm)\" â€” go so truc tiep vao o nhu 5 cot thong so (don vi mm, chap nhan ca dau phay thap phan; go chu rac bi chan). - O bi bo (Key Schedule) khoa thi van sua duoc â€” addin tu TACH BO rieng cho hang muc do, y het cac cot Bac chiu lua / Cap nguy hiem chay KC / Hang / Sprinkler. - SUA LOI QUAN TRONG cua v1.55.0: khi gia tri tren hang muc LECH voi dong bo (vi du"
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.56.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Them 2 cot \"Chieu cao PCCC (mm)\" va \"Chieu cao lon nhat (mm)\" - go so truc tiep vao o nhu 5 cot thong so (don vi mm, chap nhan ca dau phay thap phan; go chu rac bi chan). - O bi bo (Key Schedule) khoa thi van sua duoc - addin tu TACH BO rieng cho hang muc do, y het cac cot Bac chiu lua / Cap nguy hiem chay KC / Hang / Sprinkler. - SUA LOI QUAN TRONG cua v1.55.0: khi gia tri tren hang muc LECH voi dong bo (vi du"
 }
