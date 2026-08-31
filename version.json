@@ -1,5 +1,5 @@
 {
     "version":  "1.58.0",
     "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.58.0/HPCONS-BIM-Setup-1.58.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.58.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Them category moi Floor trong bang Mapping parameter - dich tham so Identity Data tren cac doi tuong Floor (hang muc), mac dinh tham so 3K03-CBD-TEN HANG MUC-IT -\u003e 3K03-CBD-TEN HANG MUC-IT-TRANS. - Bat checkbox \"Floor\" trong Options, Quet va xem truoc nhu binh thuong. Neu tham so dich da co san gia tri khac, addin se KHONG tu ghi de - tick \"Ghi de ban dich da co\" hoac tick"
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.58.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Chon (hoac pick) cac thang tren view mat bang roi bam nut - addin tu tao tron bo dim: chuoi dim tung bac (tu hien dang \"275 x 9 bac = 2475\"), dim chieu nghi di, dim CHIEU TOI (mep chieu nghi den hoac mat tuong doi dien trong pham vi 3m), dim tong, be rong ve va tong be ngang; kem TU DANH SO BAC (Riser/Odd/1.2mm) cung phia cho moi ve. - Ho tro 3 dang thang: chu U 2 ve, 3 ve co ve giua vuong goc, cac ve nam thang hang"
 }
