@@ -1,5 +1,5 @@
 {
-    "version":  "1.59.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.59.0/HPCONS-BIM-Setup-1.59.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.59.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Chon (hoac pick) cac thang tren view mat bang roi bam nut - addin tu tao tron bo dim: chuoi dim tung bac (tu hien dang \"275 x 9 bac = 2475\"), dim chieu nghi di, dim CHIEU TOI (mep chieu nghi den hoac mat tuong doi dien trong pham vi 3m), dim tong, be rong ve va tong be ngang; kem TU DANH SO BAC (Riser/Odd/1.2mm) cung phia cho moi ve. - Ho tro 3 dang thang: chu U 2 ve, 3 ve co ve giua vuong goc, cac ve nam thang hang"
+    "version":  "1.60.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.60.0/HPCONS-BIM-Setup-1.60.0.exe",
+    "notes":  "HPCONS DESIGN ADDINS v1.60.0 (2026-09-01) ADDIN MOI (thu 26): Ban Thang BTCT (panel TrienKhaiChiTiet) - Tu dong tao ban thang be tong cot thep tu thang ket cau da chon: chon (hoac pick) thang ket cau -\u003e nhap day ban (mac dinh 100mm) -\u003e addin tu dung khoi ban nghieng om sat mat duoi tung ve + ban chieu nghi (lay theo mat duoi chieu nghi kien truc, keo het pham vi chieu nghi,"
 }
