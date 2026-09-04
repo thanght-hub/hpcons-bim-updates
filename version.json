@@ -1,5 +1,5 @@
 {
-    "version":  "1.60.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.60.0/HPCONS-BIM-Setup-1.60.0.exe",
-    "notes":  "HPCONS DESIGN ADDINS v1.60.0 (2026-09-01) ADDIN MOI (thu 26): Ban Thang BTCT (panel TrienKhaiChiTiet) - Tu dong tao ban thang be tong cot thep tu thang ket cau da chon: chon (hoac pick) thang ket cau -\u003e nhap day ban (mac dinh 100mm) -\u003e addin tu dung khoi ban nghieng om sat mat duoi tung ve + ban chieu nghi (lay theo mat duoi chieu nghi kien truc, keo het pham vi chieu nghi,"
+    "version":  "1.60.1",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.60.1/HPCONS-BIM-Setup-1.60.1.exe",
+    "notes":  "HPCONS DESIGN ADDINS v1.60.1 (2026-09-04) ADDIN MOI (thu 27): Lan Can Thang - Tu dong tao lan can cau thang tu thang kien truc da chon, ho tro 3 dang: chu U 2 ve, 3 ve (2 chieu nghi goc), ve thang hang (chieu nghi giua). - Lan can GIENG om lo thang (bo goc R60, lan can bao ve mep chieu toi lui 70) + lan can TUONG quanh buong thang; ca 2 HOST vao thang de tu bam do doc ve."
 }
