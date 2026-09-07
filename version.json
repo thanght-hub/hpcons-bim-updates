@@ -1,5 +1,5 @@
 {
-    "version":  "1.61.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.61.0/HPCONS-BIM-Setup-1.61.0.exe",
-    "notes":  "HPCONS DESIGN ADDINS v1.61.0 (2026-09-07) THEM 2 ADDIN MOI - panel TrienKhaiTongThe (nang tong so len 26 addin): 1. San Duong Cay Xanh (RevitTaoSanDuongCayXanh) - Tu tao floor san duong + floor cay xanh trong co tu net layer CAD (Detail Item hoac CAD import truc tiep). - Chon layer ranh duong / ranh lo / ranh cay xanh, click 1 diem trong"
+    "version":  "1.62.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.62.0/HPCONS-BIM-Setup-1.62.0.exe",
+    "notes":  "HPCONS DESIGN ADDINS v1.62.0 (2026-09-07) THEM ADDIN MOI thu 27 - panel TrienKhaiTongThe: Mo Phong Xe Chay (RevitMoPhongXeChay) - mo phong duong xe chay kieu AutoTURN, gom 3 nut: 1. Mo Phong Xe Chay - chay theo duong dan ve san - Ve san duong dan (line/arc) theo tim lan xe tren mat bang, pick cac doan"
 }
