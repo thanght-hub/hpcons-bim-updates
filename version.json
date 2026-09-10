@@ -1,5 +1,5 @@
 {
-    "version":  "1.62.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.62.0/HPCONS-BIM-Setup-1.62.0.exe",
-    "notes":  "HPCONS DESIGN ADDINS v1.62.0 (2026-09-07) THEM ADDIN MOI thu 27 - panel TrienKhaiTongThe: Mo Phong Xe Chay (RevitMoPhongXeChay) - mo phong duong xe chay kieu AutoTURN, gom 3 nut: 1. Mo Phong Xe Chay - chay theo duong dan ve san - Ve san duong dan (line/arc) theo tim lan xe tren mat bang, pick cac doan"
+    "version":  "1.63.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.63.0/HPCONS-BIM-Setup-1.63.0.exe",
+    "notes":  "HPCONS DESIGN ADDINS v1.63.0 (2026-09-08) NANG CAP LON addin Mo Phong Xe Chay (RevitMoPhongXeChay) - them mo phong 3D kieu Autodesk Vehicle Tracking + xuat video: 1. Xe 3D chay hoat canh trong view 3D - Sau khi chay mo phong, xe 3D (than xanh, thung/mooc do, banh den) tu xuat hien va CHAY DOC TUYEN trong view 3D, banh truoc xoay theo goc lai,"
 }
