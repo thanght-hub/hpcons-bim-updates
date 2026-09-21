@@ -1,5 +1,5 @@
 {
-    "version":  "1.63.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.63.0/HPCONS-BIM-Setup-1.63.0.exe",
-    "notes":  "HPCONS DESIGN ADDINS v1.63.0 (2026-09-08) NANG CAP LON addin Mo Phong Xe Chay (RevitMoPhongXeChay) - them mo phong 3D kieu Autodesk Vehicle Tracking + xuat video: 1. Xe 3D chay hoat canh trong view 3D - Sau khi chay mo phong, xe 3D (than xanh, thung/mooc do, banh den) tu xuat hien va CHAY DOC TUYEN trong view 3D, banh truoc xoay theo goc lai,"
+    "version":  "1.64.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.64.0/HPCONS-BIM-Setup-1.64.0.exe",
+    "notes":  "HPCONS DESIGN ADDINS v1.64.0 (2026-09-21) Addin Cut/Fill Dia Hinh (RevitToposolidCutFill) - them nut \"Xuat CAD Luoi SN\" tren panel SanNen\u0026DiaHinh: 1. Xuat file CAD (DXF) cua view luoi san nen voi MOI LOAI so lieu mot layer rieng - Khung o vuong (LUOI_O_VUONG), vong tron + vach chia (O_SAN_LAP), dien tich (DIEN_TICH_O_SAN_LAP), the tich (THE_TICH_O_SAN_LAP),"
 }
