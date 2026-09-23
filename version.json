@@ -1,5 +1,5 @@
 {
-    "version":  "1.64.2",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.64.2/HPCONS-BIM-Setup-1.64.2.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.64.2.exe ben duoi, DONG Revit roi chay (can quyen Admin). - \"Khoang cach PCCC toi thieu\" gio hien thanh THE LON rieng (chu to, dam mau xanh) ngay tren khoi giai thich, thay vi lan trong dong chu dai phai khoanh do moi thay. - Them 2 the ben canh: \"Khoang cach thiet ke\" (do mep-mep tren mat bang) va \"Ket luan\" tu to mau: xanh la = Dat, do = Khong dat - dung mau da dung o Bang thuyet minh PCCC. Loi that gap tren file du an moi: 2 bang PA khong co muc D (dat cay xanh), TONG chi con"
+    "version":  "1.65.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.65.0/HPCONS-BIM-Setup-1.65.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.65.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). Tao floor DAT CAY XANH (Gen-Grn-CayXanh_TrongCo01) bang cach CLICK vao o trong giua cac floor san duong (02CBD-GTSBai_) va floor cong trinh (01CBD-CTrinh_HTang) - giong lenh BOUNDARY (BO) cua AutoCAD, khong phai ve tay tung canh. - Add-in doc canh bien (Sketch) cua MOI floor dang thay trong view (tick chon kieu floor tham gia), tuy chon them Ranh dat / Model Line / Detail Line; chon san floor truoc khi bam nut de chi dung"
 }
