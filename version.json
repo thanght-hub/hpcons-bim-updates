@@ -1,5 +1,5 @@
 {
-    "version":  "1.66.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.66.0/HPCONS-BIM-Setup-1.66.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.66.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). Tu dong bo goc (fillet) cac goc LOM tai giao lo cua floor san duong 02CBD-GTSBai_, sua sketch tai cho bang SketchEditScope nen floor GIU NGUYEN Id (dim, bo via, lien ket khong mat). Quy luat rut tu du an mau (47 cung tren 6 floor san duong): - Chi bo goc LOM (goc trong giao lo nhin tu long duong), cung tiep tuyen 2 canh. - Ban kinh theo cap duong: type co \"TNang\" -\u003e R 8000; con lai -\u003e R 3000; canh ke ngan -\u003e ha R 1500."
+    "version":  "1.67.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.67.0/HPCONS-BIM-Setup-1.67.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.67.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). Theo yeu cau Sep, cac nut lien quan duoc gom vao nhom (bam mui ten de xo danh sach): - SanDuongNoiBo: Create By Detail Item / Dat Cay Xanh / Bo Goc Duong / Tao Bo Via (thu tu theo luong viec: tao san duong + cay xanh -\u003e them dat cay xanh -\u003e bo goc giao lo -\u003e tao bo via). - MoPhongGiaoThong: Mo Phong Xe Chay / Lai Xe Theo Diem / Xoa Mo Phong. - GhiChuTongThe: Danh so hang muc / Dim Chon Hang Muc / Dim San Duong."
 }
