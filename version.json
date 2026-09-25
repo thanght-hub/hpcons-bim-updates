@@ -1,5 +1,5 @@
 {
-    "version":  "1.67.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.67.0/HPCONS-BIM-Setup-1.67.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.67.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). Theo yeu cau Sep, cac nut lien quan duoc gom vao nhom (bam mui ten de xo danh sach): - SanDuongNoiBo: Create By Detail Item / Dat Cay Xanh / Bo Goc Duong / Tao Bo Via (thu tu theo luong viec: tao san duong + cay xanh -\u003e them dat cay xanh -\u003e bo goc giao lo -\u003e tao bo via). - MoPhongGiaoThong: Mo Phong Xe Chay / Lai Xe Theo Diem / Xoa Mo Phong. - GhiChuTongThe: Danh so hang muc / Dim Chon Hang Muc / Dim San Duong."
+    "version":  "1.68.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.68.0/HPCONS-BIM-Setup-1.68.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.68.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). Tu tinh toan + bo tri cho dau XE MAY toi uu trong floor hang muc kien truc, theo quy tac thiet ke (tham khao QCVN 01:2021/BXD, QCVN 04:2021/BXD, QCVN 06:2022/BXD - kich thuoc o/loi di la KHUYEN NGHI). - Cach dung: mo mat bang -\u003e bam nut -\u003e chon thong so (hoac giu mac dinh) -\u003e click chon 1..n floor hang muc (hoac chon san floor truoc khi bam nut). Chon them cot/tuong truoc khi bam nut de addin tranh vat can. - Mac dinh (che do family): W 0,90, sau dai 1,70 (xien 60 do); cach tuong 0,30 m; loi di 1 chieu 1,5 m (phan du no toi 1,8 m)."
 }
