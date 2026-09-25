@@ -1,5 +1,5 @@
 {
-    "version":  "1.69.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.69.0/HPCONS-BIM-Setup-1.69.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.69.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Tab moi mac dinh \"Tinh co ban\" (3 buoc: dinh muc - cao diem su dung - yeu cau cong nghe): moi phan xuong / van phong nhap nam, nu CA DONG NHAT + khach/nha thau dung dong thoi, ket qua xi, tieu, voi rua tay, buong tam, noi de quan ao hien ngay; tinh rieng nam/nu, lam tron len tung khu, khong dung tieu thay xi. Vi du 260 nguoi: SX 10 xi / 6 tieu / 10 voi, van phong 4 / 2 / 4."
+    "version":  "1.70.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.70.0/HPCONS-BIM-Setup-1.70.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.70.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Hop thoai Mo Phong Xe Chay / Lai Xe Theo Diem: them hinh \"Kich thuoc tham khao cac loai xe\" o ben phai (giong hop thoai Bai Xe May), nut \u0027Thu gon / Mo rong hinh minh hoa\u0027 (nho trang thai cho lan sau), bam dup vao hinh de xem anh lon. - THU VIEN XE DOI THONG SO cho khop hinh (L / W / H / WB). Thay doi dang chu y: xe buyt 12 m WB 7,60 -\u003e 6,00, rong 2,60 -\u003e 2,50; xe tai don SU-9 WB 6,10 -\u003e 5,30;"
 }
