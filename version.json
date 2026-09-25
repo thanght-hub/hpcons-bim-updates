@@ -1,5 +1,5 @@
 {
-    "version":  "1.72.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.72.0/HPCONS-BIM-Setup-1.72.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.72.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Hop thoai Tra khoang cach PCCC: them khung hinh ben phai hien Bang E.1 (bang + chu thich 1-7) va Bang E.2 (bang + chu thich 1-3); 2 nut \u0027Bang E.1\u0027 / \u0027Bang E.2\u0027 de chuyen bang. - Bam \u0027Tinh khoang cach\u0027 xong, khung hinh TU CHUYEN sang dung bang vua tra. - Nut \u0027Thu gon / Mo rong hinh minh hoa\u0027 (giong hop thoai Bai Xe May), nho trang thai va be ngang khung cho lan sau; keo vach chia de noi rong/thu hep khung hinh."
+    "version":  "1.73.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.73.0/HPCONS-BIM-Setup-1.73.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.73.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nut \u0027Xoa tai lieu\u0027 (hoac phim Delete / chuot phai vao dong): xoa tai lieu dang chon khoi so tay, co hoi xac nhan truoc khi xoa. PDF / hinh anh: file tren kho chung cung duoc xoa. - Xoa xong tu chon dong ke tiep - xoa lien tiep nhieu tai lieu khong phai bam chon lai. Cai dat: tai file HPCONS-BIM-Setup-1.72.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Hop thoai Tra khoang cach PCCC: them khung hinh ben phai hien Bang E.1 (bang + chu thich 1-7)"
 }
