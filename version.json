@@ -1,5 +1,5 @@
 {
-    "version":  "1.71.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.71.0/HPCONS-BIM-Setup-1.71.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.71.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Them loai tai lieu HINH ANH (png, jpg, bmp, gif, webp, tif): nut \u0027Them hinh anh...\u0027. - KHUNG XEM TRUOC ben phai cua so: CHON (1 cu bam) vao ten tai lieu la xem anh ngay, nen TRANG; mo tab la tu chon dong dau. Zoom: nut Vua khung / 100% / - / +, lan chuot de zoom quanh con tro, keo chuot de di chuyen, bam dup vao anh doi vua khung \u003c-\u003e 100%; nut \u0027Mo ngoai\u0027 va \u0027Luu ban sao...\u0027. Anh chup dien thoai tu xoay dung chieu."
+    "version":  "1.72.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.72.0/HPCONS-BIM-Setup-1.72.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.72.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Hop thoai Tra khoang cach PCCC: them khung hinh ben phai hien Bang E.1 (bang + chu thich 1-7) va Bang E.2 (bang + chu thich 1-3); 2 nut \u0027Bang E.1\u0027 / \u0027Bang E.2\u0027 de chuyen bang. - Bam \u0027Tinh khoang cach\u0027 xong, khung hinh TU CHUYEN sang dung bang vua tra. - Nut \u0027Thu gon / Mo rong hinh minh hoa\u0027 (giong hop thoai Bai Xe May), nho trang thai va be ngang khung cho lan sau; keo vach chia de noi rong/thu hep khung hinh."
 }
