@@ -1,5 +1,5 @@
 {
-    "version":  "1.70.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.70.0/HPCONS-BIM-Setup-1.70.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.70.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Hop thoai Mo Phong Xe Chay / Lai Xe Theo Diem: them hinh \"Kich thuoc tham khao cac loai xe\" o ben phai (giong hop thoai Bai Xe May), nut \u0027Thu gon / Mo rong hinh minh hoa\u0027 (nho trang thai cho lan sau), bam dup vao hinh de xem anh lon. - THU VIEN XE DOI THONG SO cho khop hinh (L / W / H / WB). Thay doi dang chu y: xe buyt 12 m WB 7,60 -\u003e 6,00, rong 2,60 -\u003e 2,50; xe tai don SU-9 WB 6,10 -\u003e 5,30;"
+    "version":  "1.71.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.71.0/HPCONS-BIM-Setup-1.71.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.71.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Them loai tai lieu HINH ANH (png, jpg, bmp, gif, webp, tif): nut \u0027Them hinh anh...\u0027. - KHUNG XEM TRUOC ben phai cua so: CHON (1 cu bam) vao ten tai lieu la xem anh ngay, nen TRANG; mo tab la tu chon dong dau. Zoom: nut Vua khung / 100% / - / +, lan chuot de zoom quanh con tro, keo chuot de di chuyen, bam dup vao anh doi vua khung \u003c-\u003e 100%; nut \u0027Mo ngoai\u0027 va \u0027Luu ban sao...\u0027. Anh chup dien thoai tu xoay dung chieu."
 }
