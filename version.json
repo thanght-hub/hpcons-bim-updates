@@ -1,5 +1,5 @@
 {
-    "version":  "1.68.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.68.0/HPCONS-BIM-Setup-1.68.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.68.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). Tu tinh toan + bo tri cho dau XE MAY toi uu trong floor hang muc kien truc, theo quy tac thiet ke (tham khao QCVN 01:2021/BXD, QCVN 04:2021/BXD, QCVN 06:2022/BXD - kich thuoc o/loi di la KHUYEN NGHI). - Cach dung: mo mat bang -\u003e bam nut -\u003e chon thong so (hoac giu mac dinh) -\u003e click chon 1..n floor hang muc (hoac chon san floor truoc khi bam nut). Chon them cot/tuong truoc khi bam nut de addin tranh vat can. - Mac dinh (che do family): W 0,90, sau dai 1,70 (xien 60 do); cach tuong 0,30 m; loi di 1 chieu 1,5 m (phan du no toi 1,8 m)."
+    "version":  "1.68.1",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.68.1/HPCONS-BIM-Setup-1.68.1.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.68.1.exe ben duoi, DONG Revit roi chay (can quyen Admin). - LOI: che do dat family XeMay bi khoa o 60 do, chon mau o vuong goc 90 do van ra o xeo (vi du hang muc 15 x 7 m chi duoc 26 xe). Nguyen nhan: addin hieu nham tham so goc i cua family. - DA SUA: addin ghi goc vao tham so i cua family XeMay -\u003e dat duoc o 90 / 60 / 45 do. Cung hang muc 15 x 7 m nay ra 35 xe o vuong goc 90 do (3,00 m2/xe). - Mac dinh moi: \u0027Tu dong\u0027 thu ca 90 do (o 0,90 x 1,90) va 60 do (o 0,90 x 1,96 - sau dai 1,70),"
 }
