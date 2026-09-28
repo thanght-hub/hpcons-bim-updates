@@ -1,5 +1,5 @@
 {
-    "version":  "1.73.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.73.0/HPCONS-BIM-Setup-1.73.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.73.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nut \u0027Xoa tai lieu\u0027 (hoac phim Delete / chuot phai vao dong): xoa tai lieu dang chon khoi so tay, co hoi xac nhan truoc khi xoa. PDF / hinh anh: file tren kho chung cung duoc xoa. - Xoa xong tu chon dong ke tiep - xoa lien tiep nhieu tai lieu khong phai bam chon lai. Cai dat: tai file HPCONS-BIM-Setup-1.72.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Hop thoai Tra khoang cach PCCC: them khung hinh ben phai hien Bang E.1 (bang + chu thich 1-7)"
+    "version":  "1.74.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.74.0/HPCONS-BIM-Setup-1.74.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.74.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). Loi Sep gap 2026-09-28: click vao o trong nhung addin bao \"diem nam TRONG floor Gen-RanhDat\" va tao 0 floor. Nguyen nhan: model co floor Gen-RanhDat / TT-RanhDat phu toan bo khu dat, addin coi moi diem ben trong la \"da co floor\". - Add-in gio tu nhan dien floor NEN BAO (ten type co \"RanhDat\" va chua floor khac ben trong, hoac chua \u003e= 3 floor khac): van lay canh cua no lam ranh, nhung click ben trong van tao duoc dat cay xanh."
 }
