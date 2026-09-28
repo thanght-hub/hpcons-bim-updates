@@ -1,5 +1,5 @@
 {
-    "version":  "1.74.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.74.0/HPCONS-BIM-Setup-1.74.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.74.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). Loi Sep gap 2026-09-28: click vao o trong nhung addin bao \"diem nam TRONG floor Gen-RanhDat\" va tao 0 floor. Nguyen nhan: model co floor Gen-RanhDat / TT-RanhDat phu toan bo khu dat, addin coi moi diem ben trong la \"da co floor\". - Add-in gio tu nhan dien floor NEN BAO (ten type co \"RanhDat\" va chua floor khac ben trong, hoac chua \u003e= 3 floor khac): van lay canh cua no lam ranh, nhung click ben trong van tao duoc dat cay xanh."
+    "version":  "1.74.1",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.74.1/HPCONS-BIM-Setup-1.74.1.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.74.1.exe ben duoi, DONG Revit roi chay (can quyen Admin). Ban nay GOM LUON noi dung v1.74.0 (Dat Cay Xanh nhan dien floor nen bao Gen-RanhDat). Loi Sep gap 2026-09-28: floor cay xanh tao bang \"Dat Cay Xanh\" / \"Create By Detail Item\" bi dat o level THAP NHAT cua du an (vd -0.300_DuongKCN) du view dang o +0.000. Mat co lech 300 mm so voi mat duong nen \"Tao Bo Via\" bo qua toan bo ranh cua cac floor do (khong bao gi). - Dat Cay Xanh + Create By Detail Item: hop thoai mac dinh DUNG level cua view dang mo."
 }
