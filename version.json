@@ -1,5 +1,5 @@
 {
-    "version":  "1.74.1",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.74.1/HPCONS-BIM-Setup-1.74.1.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.74.1.exe ben duoi, DONG Revit roi chay (can quyen Admin). Ban nay GOM LUON noi dung v1.74.0 (Dat Cay Xanh nhan dien floor nen bao Gen-RanhDat). Loi Sep gap 2026-09-28: floor cay xanh tao bang \"Dat Cay Xanh\" / \"Create By Detail Item\" bi dat o level THAP NHAT cua du an (vd -0.300_DuongKCN) du view dang o +0.000. Mat co lech 300 mm so voi mat duong nen \"Tao Bo Via\" bo qua toan bo ranh cua cac floor do (khong bao gi). - Dat Cay Xanh + Create By Detail Item: hop thoai mac dinh DUNG level cua view dang mo."
+    "version":  "1.75.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.75.0/HPCONS-BIM-Setup-1.75.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.75.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Tick \u0027Nha xe tang 1 ho bien: xe vao truc tiep tu NGOAI\u0027 (muc 3. Huong hang xe): dai sat bien khong can loi di ben trong, o dat sat mep hang muc; dai ke ben trong van quay vao loi di trong. - Mau dai co them dang \u0027xe-xe-loi di-xe-xe-...-xe-xe\u0027 (2 dai ngoai cung tua bien), dai hep chi 1-2 hang deu vao tu ngoai. Vi du hang muc 15 x 7 m: 35 xe -\u003e 42 xe; 40 x 12 m: 182 -\u003e 195 xe. - Bao cao + ghi chu ghi ro so xe dau tu bien ngoai. Chi tick khi bien hang muc la mai che/khung ho, khong tuong bao."
 }
