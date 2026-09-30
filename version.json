@@ -1,5 +1,5 @@
 {
-    "version":  "1.75.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.75.0/HPCONS-BIM-Setup-1.75.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.75.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Tick \u0027Nha xe tang 1 ho bien: xe vao truc tiep tu NGOAI\u0027 (muc 3. Huong hang xe): dai sat bien khong can loi di ben trong, o dat sat mep hang muc; dai ke ben trong van quay vao loi di trong. - Mau dai co them dang \u0027xe-xe-loi di-xe-xe-...-xe-xe\u0027 (2 dai ngoai cung tua bien), dai hep chi 1-2 hang deu vao tu ngoai. Vi du hang muc 15 x 7 m: 35 xe -\u003e 42 xe; 40 x 12 m: 182 -\u003e 195 xe. - Bao cao + ghi chu ghi ro so xe dau tu bien ngoai. Chi tick khi bien hang muc la mai che/khung ho, khong tuong bao."
+    "version":  "1.76.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.76.0/HPCONS-BIM-Setup-1.76.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.76.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). Kiem tra loi ra thoat nan cua MOT gian phong (Room) theo QCVN 06:2022/BXD va Sua doi 1:2023: - Chon Room -\u003e addin tu doc dien tich, khoi tich, chieu cao, duong cheo lon nhat, cac cua cua phong (rong/cao, dan di dau; cua ra ngoai tu tick la loi thoat nan). - Thong so nha (nhom F, hang, bac, cap S, sprinkler) doc duoc tu Floor hang muc co tham so PCCC_txt_ hoac Project Information; nho theo du an."
 }
