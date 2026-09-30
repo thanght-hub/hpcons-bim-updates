@@ -1,5 +1,5 @@
 {
-    "version":  "1.76.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.76.0/HPCONS-BIM-Setup-1.76.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.76.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). Kiem tra loi ra thoat nan cua MOT gian phong (Room) theo QCVN 06:2022/BXD va Sua doi 1:2023: - Chon Room -\u003e addin tu doc dien tich, khoi tich, chieu cao, duong cheo lon nhat, cac cua cua phong (rong/cao, dan di dau; cua ra ngoai tu tick la loi thoat nan). - Thong so nha (nhom F, hang, bac, cap S, sprinkler) doc duoc tu Floor hang muc co tham so PCCC_txt_ hoac Project Information; nho theo du an."
+    "version":  "1.77.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.77.0/HPCONS-BIM-Setup-1.77.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.77.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Khung hinh minh hoa trich dan Bang G.1 / G.2a / G.2b / G.3 / G.4 / G.5 / G.7 / G.8 / G.9 (QCVN 06:2022/BXD ban gop Sua doi 1:2023): nut \"Mo rong / Thu gon hinh minh hoa\", bam dup xem lon, tinh xong tu chuyen toi bang da tra. - Giao dien: het cat chu o man hinh 150%; vach keo giua o nhap lieu va o ket qua; dau do + vien do o bat buoc; 6 nut nhom thuyet minh vien xanh la; tieu de bang tu cao theo chu. - Duong thoat nan gia lap HANH LANG VUONG GOC (vanh dai sat tuong + nhanh cua + hanh lang cat ngang), diem xa nhat"
 }
