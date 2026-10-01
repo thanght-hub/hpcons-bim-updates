@@ -1,5 +1,5 @@
 {
-    "version":  "1.78.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.78.0/HPCONS-BIM-Setup-1.78.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.78.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - SUA LOI: bam \"Chay\" tren bang dieu khien ma xe 3D dung yen, vi tri ket 0,0 m. Nguyen nhan: hoat canh (va xuat video) chay theo su kien Idling cua Revit, Revit chi phat Idling khi cua so Revit dang active - bang dieu khien giu focus sau khi bam nut nen khong co nhip. Da chuyen sang co che ExternalEvent (chay bat ke cua so nao co focus), bang dieu khien gan vao cua so Revit. Tu nay bam Chay la xe chay ngay, khong can click sang view Revit. Xuat video cung sua theo."
+    "version":  "1.79.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.79.0/HPCONS-BIM-Setup-1.79.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.79.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Dong bo tu dien truc tiep tu Google Sheets: dan link docs.google.com/spreadsheets/d/... vao o \"Tu dien\" -\u003e bam \"Tai tu link\" -\u003e chon sheet -\u003e \"Dong bo tu dien\". Sheet chi can share \"Bat ky ai co lien ket\" (Viewer). Moi lan bam Dong bo la tai ban moi nhat; luc mo addin dung cache. Van chon file .xlsx tren may nhu cu bang nut \"Chon Excel\". - Mau dich co cho trong {X} cho cau truc \"MAT DUNG TRUC + ky hieu\": ma duoc dat DUNG VI TRI"
 }
