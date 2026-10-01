@@ -1,5 +1,5 @@
 {
-    "version":  "1.77.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.77.0/HPCONS-BIM-Setup-1.77.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.77.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Khung hinh minh hoa trich dan Bang G.1 / G.2a / G.2b / G.3 / G.4 / G.5 / G.7 / G.8 / G.9 (QCVN 06:2022/BXD ban gop Sua doi 1:2023): nut \"Mo rong / Thu gon hinh minh hoa\", bam dup xem lon, tinh xong tu chuyen toi bang da tra. - Giao dien: het cat chu o man hinh 150%; vach keo giua o nhap lieu va o ket qua; dau do + vien do o bat buoc; 6 nut nhom thuyet minh vien xanh la; tieu de bang tu cao theo chu. - Duong thoat nan gia lap HANH LANG VUONG GOC (vanh dai sat tuong + nhanh cua + hanh lang cat ngang), diem xa nhat"
+    "version":  "1.78.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.78.0/HPCONS-BIM-Setup-1.78.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.78.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - SUA LOI: bam \"Chay\" tren bang dieu khien ma xe 3D dung yen, vi tri ket 0,0 m. Nguyen nhan: hoat canh (va xuat video) chay theo su kien Idling cua Revit, Revit chi phat Idling khi cua so Revit dang active - bang dieu khien giu focus sau khi bam nut nen khong co nhip. Da chuyen sang co che ExternalEvent (chay bat ke cua so nao co focus), bang dieu khien gan vao cua so Revit. Tu nay bam Chay la xe chay ngay, khong can click sang view Revit. Xuat video cung sua theo."
 }
