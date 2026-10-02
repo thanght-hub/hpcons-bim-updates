@@ -1,5 +1,5 @@
 {
-    "version":  "1.79.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.79.0/HPCONS-BIM-Setup-1.79.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.79.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Dong bo tu dien truc tiep tu Google Sheets: dan link docs.google.com/spreadsheets/d/... vao o \"Tu dien\" -\u003e bam \"Tai tu link\" -\u003e chon sheet -\u003e \"Dong bo tu dien\". Sheet chi can share \"Bat ky ai co lien ket\" (Viewer). Moi lan bam Dong bo la tai ban moi nhat; luc mo addin dung cache. Van chon file .xlsx tren may nhu cu bang nut \"Chon Excel\". - Mau dich co cho trong {X} cho cau truc \"MAT DUNG TRUC + ky hieu\": ma duoc dat DUNG VI TRI"
+    "version":  "1.80.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.80.0/HPCONS-BIM-Setup-1.80.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.80.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Tu dien chung cua cong ty tren Google Sheets la nguon MAC DINH: may chua cau hinh (cai moi, hoac o \"Tu dien\" dang trong) se tu dung link Google Sheets + sheet TRANSLATION_MASTER, va tu tai + dong bo ngay lan dau mo addin - khong can bam gi. May da chon file/link rieng thi giu nguyen. - Sau \"Tai tu link\" / \"Chon Excel\", neu sheet da cau hinh co trong workbook thi tu dong bo luon (truoc day chi tu chay khi workbook co dung 1 sheet)."
 }
