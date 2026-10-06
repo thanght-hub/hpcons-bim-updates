@@ -1,5 +1,5 @@
 {
-    "version":  "1.81.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.81.0/HPCONS-BIM-Setup-1.81.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.81.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - DE XUAT PHUONG AN DE DAT: duoi bang ket qua co bang \"De xuat phuong an\": moi hang muc chua dat duoc liet ke cac phuong an co so lieu cu the (bo sung bao nhieu cua, doi cua ra goc doi dien de dat phan tan, trang bi sprinkler de yeu cau giam con 1/3 duong cheo, tang rong/cao cua len nguong, them loi ra gan cho xa nhat, ha mat do bang tang dien tich duong thoat nan de khoang cach cho phep tang len, ap he so chieu cao, tang rong hanh lang...). Moi phuong an duoc MO PHONG tinh lai: ghi ro \"hang muc nay DAT, tong the con N muc\"."
+    "version":  "1.82.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.82.0/HPCONS-BIM-Setup-1.82.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.82.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Muc \"So nguoi tren 1 m chieu rong loi ra TU HANH LANG\" (Bang G.8 / G.2.1.1) chi con ap dung khi phong co cua dan vao hanh lang / buong thang. Neu moi cua deu thoat truc tiep ra ngoai thi muc nay thanh \"Khong ap dung\" (truoc day o \"Tong rong loi ra hanh lang\" nhap tu phien truoc lam ket luan KHONG DAT du da them cua). - Ghi chu muc nay noi ro so lieu lay tu nhom 6, khong phu thuoc so cua cua phong; nhom 6 co dong chu giai va KHONG con duoc nho qua phien."
 }
