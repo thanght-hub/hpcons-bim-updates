@@ -1,5 +1,5 @@
 {
-    "version":  "1.80.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.80.0/HPCONS-BIM-Setup-1.80.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.80.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Tu dien chung cua cong ty tren Google Sheets la nguon MAC DINH: may chua cau hinh (cai moi, hoac o \"Tu dien\" dang trong) se tu dung link Google Sheets + sheet TRANSLATION_MASTER, va tu tai + dong bo ngay lan dau mo addin - khong can bam gi. May da chon file/link rieng thi giu nguyen. - Sau \"Tai tu link\" / \"Chon Excel\", neu sheet da cau hinh co trong workbook thi tu dong bo luon (truoc day chi tu chay khi workbook co dung 1 sheet)."
+    "version":  "1.81.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.81.0/HPCONS-BIM-Setup-1.81.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.81.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - DE XUAT PHUONG AN DE DAT: duoi bang ket qua co bang \"De xuat phuong an\": moi hang muc chua dat duoc liet ke cac phuong an co so lieu cu the (bo sung bao nhieu cua, doi cua ra goc doi dien de dat phan tan, trang bi sprinkler de yeu cau giam con 1/3 duong cheo, tang rong/cao cua len nguong, them loi ra gan cho xa nhat, ha mat do bang tang dien tich duong thoat nan de khoang cach cho phep tang len, ap he so chieu cao, tang rong hanh lang...). Moi phuong an duoc MO PHONG tinh lai: ghi ro \"hang muc nay DAT, tong the con N muc\"."
 }
