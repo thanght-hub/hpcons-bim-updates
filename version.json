@@ -1,5 +1,5 @@
 {
-    "version":  "1.83.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.83.0/HPCONS-BIM-Setup-1.83.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.83.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Hang tab trang doi thanh CAY THU MUC ben trai (cay | danh sach | khung xem anh): trang co the nam trong trang khac (vd PCCC \u003e Khoang chay nha SX). Chon trang cha = xem ca tai lieu cua cac trang con; so trong ngoac = tong tai lieu ca nhanh; trang trong chu xam. - Them trang: chon \u0027Nam trong trang\u0027 (mac dinh = trang dang chon). \u0027Doi ten trang\u0027 doi thanh \u0027Sua trang...\u0027 (doi ten + chuyen sang trang cha khac). Chuot phai / F2 / Delete tren cay."
+    "version":  "1.84.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.84.0/HPCONS-BIM-Setup-1.84.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.84.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Ve 1 Filled Region hinh bao khung cot keo tren MAT CAT (ca vong lo giua keo - dam - cot), bam nut -\u003e addin sinh 1 family Structural Framing tiet dien VAT dung hinh (bung extrude hinh bao day tw, ban canh theo mep ngoai/mep trong rong bf day tf), nap vao du an va dat 1 khung tai moi truc tick chon (mac dinh bo truc dau va truc cuoi). Chay lai cung ten family = ghi de, khung da dat tu cap nhat. - Long family chan cot (mac dinh ChanCot trong du an) tai moi chan cot, cao do = cot giao voi floor"
 }
