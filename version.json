@@ -1,5 +1,5 @@
 {
-    "version":  "1.82.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.82.0/HPCONS-BIM-Setup-1.82.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.82.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Muc \"So nguoi tren 1 m chieu rong loi ra TU HANH LANG\" (Bang G.8 / G.2.1.1) chi con ap dung khi phong co cua dan vao hanh lang / buong thang. Neu moi cua deu thoat truc tiep ra ngoai thi muc nay thanh \"Khong ap dung\" (truoc day o \"Tong rong loi ra hanh lang\" nhap tu phien truoc lam ket luan KHONG DAT du da them cua). - Ghi chu muc nay noi ro so lieu lay tu nhom 6, khong phu thuoc so cua cua phong; nhom 6 co dong chu giai va KHONG con duoc nho qua phien."
+    "version":  "1.83.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.83.0/HPCONS-BIM-Setup-1.83.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.83.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Hang tab trang doi thanh CAY THU MUC ben trai (cay | danh sach | khung xem anh): trang co the nam trong trang khac (vd PCCC \u003e Khoang chay nha SX). Chon trang cha = xem ca tai lieu cua cac trang con; so trong ngoac = tong tai lieu ca nhanh; trang trong chu xam. - Them trang: chon \u0027Nam trong trang\u0027 (mac dinh = trang dang chon). \u0027Doi ten trang\u0027 doi thanh \u0027Sua trang...\u0027 (doi ten + chuyen sang trang cha khac). Chuot phai / F2 / Delete tren cay."
 }
