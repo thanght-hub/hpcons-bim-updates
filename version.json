@@ -1,5 +1,5 @@
 {
-    "version":  "1.84.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.84.0/HPCONS-BIM-Setup-1.84.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.84.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Ve 1 Filled Region hinh bao khung cot keo tren MAT CAT (ca vong lo giua keo - dam - cot), bam nut -\u003e addin sinh 1 family Structural Framing tiet dien VAT dung hinh (bung extrude hinh bao day tw, ban canh theo mep ngoai/mep trong rong bf day tf), nap vao du an va dat 1 khung tai moi truc tick chon (mac dinh bo truc dau va truc cuoi). Chay lai cung ten family = ghi de, khung da dat tu cap nhat. - Long family chan cot (mac dinh ChanCot trong du an) tai moi chan cot, cao do = cot giao voi floor"
+    "version":  "1.85.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.85.0/HPCONS-BIM-Setup-1.85.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.85.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nut \"Khung keo thep\" doi vao nhom dropdown Fast Design (khong con dung rieng). - Them 2 addin vao bo cai: \"Tao luoi truc\" (pick 2 truc bien, tu sinh truc giua theo nhip \u003c= 8 m + dim) va \"Bo tri cua so theo truc\" (chon tuong, tu dat cua so canh giua moi doan giua 2 truc). - Tuy chon \"Tao KHUNG DAU HOI\" (mac dinh bat): family rieng \"\u003cten\u003e_DauHoi\" dat tai 2 truc chon (mac dinh truc dau va cuoi). Keo chay theo mep tren mai cua khung chinh (cao 300, chinh duoc); cot tai MOI truc cat ngang, bung cot vuong goc"
 }
