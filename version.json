@@ -1,5 +1,5 @@
 {
-    "version":  "1.85.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.85.0/HPCONS-BIM-Setup-1.85.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.85.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nut \"Khung keo thep\" doi vao nhom dropdown Fast Design (khong con dung rieng). - Them 2 addin vao bo cai: \"Tao luoi truc\" (pick 2 truc bien, tu sinh truc giua theo nhip \u003c= 8 m + dim) va \"Bo tri cua so theo truc\" (chon tuong, tu dat cua so canh giua moi doan giua 2 truc). - Tuy chon \"Tao KHUNG DAU HOI\" (mac dinh bat): family rieng \"\u003cten\u003e_DauHoi\" dat tai 2 truc chon (mac dinh truc dau va cuoi). Keo chay theo mep tren mai cua khung chinh (cao 300, chinh duoc); cot tai MOI truc cat ngang, bung cot vuong goc"
+    "version":  "1.86.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.86.0/HPCONS-BIM-Setup-1.86.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.86.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nhom moi \"4b. Vat can\": chon phan tu trong view (Filled Region, Room, Floor, family, tuong...) hoac ve vung can hinh chu nhat 2 diem; bang liet ke loai + dien tich; bo tung cai / bo het. Vat can khai bao theo phong. - Co vat can -\u003e diem xa nhat va duong thoat nan tinh theo LUOI O VUONG tranh vat can (o \u003c= 0,5 m, co dem nua be rong dai de dai 1,2 m lot qua): lan truyen tu moi loi ra, o xa nhat = cho lam viec xa nhat; duong di keo thang thanh it doan nhat, chi di thang va re vuong goc, noi vao tam cua cung vuong goc."
 }
