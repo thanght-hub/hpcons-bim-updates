@@ -1,5 +1,5 @@
 {
-    "version":  "1.86.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.86.0/HPCONS-BIM-Setup-1.86.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.86.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nhom moi \"4b. Vat can\": chon phan tu trong view (Filled Region, Room, Floor, family, tuong...) hoac ve vung can hinh chu nhat 2 diem; bang liet ke loai + dien tich; bo tung cai / bo het. Vat can khai bao theo phong. - Co vat can -\u003e diem xa nhat va duong thoat nan tinh theo LUOI O VUONG tranh vat can (o \u003c= 0,5 m, co dem nua be rong dai de dai 1,2 m lot qua): lan truyen tu moi loi ra, o xa nhat = cho lam viec xa nhat; duong di keo thang thanh it doan nhat, chi di thang va re vuong goc, noi vao tam cua cung vuong goc."
+    "version":  "1.87.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.87.0/HPCONS-BIM-Setup-1.87.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.87.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - LOI: hang muc rat dai (vi du 72 x 8 m) -\u003e addin khong phan hoi, Revit treo (Sep bao 2026-10-09). Nguyen nhan: thuat toan liet ke MOI chuoi \u0027xe / loi di\u0027 theo kieu vet can, so to hop tang theo cap so mu khi chieu sau xep dai lon (hang theo canh ngan cua hang muc 72 m). - DA SUA: sinh mau dai co cau truc (giua 2 loi di la dai doi, toi da 1 dai don) -\u003e 72 x 8 m tinh xong 0,5 giay (208 xe; ho bien 237 xe), hang muc 120 x 60 m ~2 giay. Them gioi han 15 giay: het gio thi lay phuong an"
 }
