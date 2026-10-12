@@ -1,5 +1,5 @@
 {
-    "version":  "1.88.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.88.0/HPCONS-BIM-Setup-1.88.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.88.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Tinh toan, kiem tra KHOANG CHAY theo QCVN 06:2022/BXD + Sua doi 1:2023 (TT 09/2023/TT-BXD), Phu luc H, cho 5 loai nha: nha san xuat (Bang H.9), nha kho (Bang H.11, nha xe tinh nhu kho), nha kho chua go thanh pham (Bang H.12), nha cong cong (Bang H.2, ke ca nha hanh chinh - phu tro F4.3), nha o va ky tuc xa kieu can ho (Bang H.1). - Chon hang muc (Floor hang muc tong the co PCCC_txt_ tu dien thong so nha; Floor san / Room / Area / Filled Region lay dien tich + ranh) -\u003e kiem tra: to hop bac - cap - hang co trong bang, so tang, chieu cao nha, dien tich mot tang"
+    "version":  "1.89.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.89.0/HPCONS-BIM-Setup-1.89.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.89.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - LOI: bang thuyet minh ve ra Drafting View co chu khong boc theo o, tran len nhau (Sep gui anh 2026-10-12). Nguyen nhan: be rong boc chu cua TextNote trong Revit tinh theo don vi GIAY, addin truyen theo mo hinh (nhan ty le view) nen vuot muc cho phep -\u003e Revit tu choi, addin tao chu khong boc. Them nua addin chon kieu chu nho nhat cua du an (1,0 mm) nen chu lech ty le voi bang. - DA SUA: be rong boc chu dung theo mm giay cua tung o; kieu chu chon gan 2,0 mm (uu tien Arial-H..., bold cho"
 }
