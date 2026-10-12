@@ -1,5 +1,5 @@
 {
-    "version":  "1.90.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.90.0/HPCONS-BIM-Setup-1.90.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.90.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - LOI: nut \"Dua vao bang thuyet minh\" luu mot ban chup ket qua tai thoi diem bam vao file .rvt; nut \"Ve bang + ghi chu\" chi ve lai cac dong da luu, khong so voi ket qua dang tinh. Sau khi doi cua / vat can / he so ma khong bam luu lai, bang van giu dong cu (DAT) trong khi form bao KHONG DAT (Sep gui anh 2026-10-12). - DA SUA: \"Ve bang + ghi chu\" tu cap nhat dong cua gian phong dang tinh tu ket qua moi nhat truoc khi ve."
+    "version":  "1.91.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.91.0/HPCONS-BIM-Setup-1.91.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.91.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). Quan ly ky hieu va ghi chu vat lieu cho cac bang BANG GHI CHU VAT LIEU TUONG VACH / NEN SAN / KHAC (Material Takeoff), moi ky hieu co 2 che do noi dung: BAO GIA (cau tao lop) va BOQ (noi dung cong viec). - Mot cua so liet ke moi vat lieu co ky hieu (loc theo nhom Tuong vach / Nen san / Khac, tim nhanh, chi dang dung); sua ky hieu, hang muc, noi dung Bao gia / BOQ + ban dich; Ap dung ghi 1 transaction. - Du lieu luu o 9 shared parameter chuan 5T05-VLieu- (HangMuc, NoiDung_BaoGia, NoiDung_BOQ, NoiDung_HienThi + _Trans,"
 }
