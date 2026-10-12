@@ -1,5 +1,5 @@
 {
-    "version":  "1.91.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.91.0/HPCONS-BIM-Setup-1.91.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.91.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). Quan ly ky hieu va ghi chu vat lieu cho cac bang BANG GHI CHU VAT LIEU TUONG VACH / NEN SAN / KHAC (Material Takeoff), moi ky hieu co 2 che do noi dung: BAO GIA (cau tao lop) va BOQ (noi dung cong viec). - Mot cua so liet ke moi vat lieu co ky hieu (loc theo nhom Tuong vach / Nen san / Khac, tim nhanh, chi dang dung); sua ky hieu, hang muc, noi dung Bao gia / BOQ + ban dich; Ap dung ghi 1 transaction. - Du lieu luu o 9 shared parameter chuan 5T05-VLieu- (HangMuc, NoiDung_BaoGia, NoiDung_BOQ, NoiDung_HienThi + _Trans,"
+    "version":  "1.92.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.92.0/HPCONS-BIM-Setup-1.92.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.92.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nut Them mau... trong khung Thu vien mau: lay dong vat lieu dang chon (hang muc, tien to ky hieu, noi dung + ban dich cua che do dang xem) hoac go moi, roi: Luu thang vao So tay thiet ke kien truc (Google Sheets, tab Ghi chu vat lieu) - mac dinh. Addin gui qua Apps Script Web App da trien khai san; script chen dong moi vao cuoi bang tuong ung (NEN SAN / TUONG VACH / MAI / TRAN / KHAC), chep dinh dang dong tren, ghi chu o noi dung ai them luc nao; noi dung trung bi tu choi. Khong can cau hinh gi tren may."
 }
