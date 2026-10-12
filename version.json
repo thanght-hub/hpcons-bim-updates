@@ -1,5 +1,5 @@
 {
-    "version":  "1.89.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.89.0/HPCONS-BIM-Setup-1.89.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.89.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - LOI: bang thuyet minh ve ra Drafting View co chu khong boc theo o, tran len nhau (Sep gui anh 2026-10-12). Nguyen nhan: be rong boc chu cua TextNote trong Revit tinh theo don vi GIAY, addin truyen theo mo hinh (nhan ty le view) nen vuot muc cho phep -\u003e Revit tu choi, addin tao chu khong boc. Them nua addin chon kieu chu nho nhat cua du an (1,0 mm) nen chu lech ty le voi bang. - DA SUA: be rong boc chu dung theo mm giay cua tung o; kieu chu chon gan 2,0 mm (uu tien Arial-H..., bold cho"
+    "version":  "1.90.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.90.0/HPCONS-BIM-Setup-1.90.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.90.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - LOI: nut \"Dua vao bang thuyet minh\" luu mot ban chup ket qua tai thoi diem bam vao file .rvt; nut \"Ve bang + ghi chu\" chi ve lai cac dong da luu, khong so voi ket qua dang tinh. Sau khi doi cua / vat can / he so ma khong bam luu lai, bang van giu dong cu (DAT) trong khi form bao KHONG DAT (Sep gui anh 2026-10-12). - DA SUA: \"Ve bang + ghi chu\" tu cap nhat dong cua gian phong dang tinh tu ket qua moi nhat truoc khi ve."
 }
