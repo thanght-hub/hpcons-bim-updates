@@ -1,5 +1,5 @@
 {
-    "version":  "1.93.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.93.0/HPCONS-BIM-Setup-1.93.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.93.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Mot cua so quan ly toan bo type cua di / cua so: ky hieu (9C01-KY HIEU CUA), loai cua (5T04-MO TA-TP + dich), noi dung BAO GIA (GD1) va BOQ (GD2) kem ban dich (9T01-Text_GhiChu), co Khong thong ke (9S01). Khong them tham so, khong doi bang thong ke - du an thieu tham so thi addin tu bind cho Doors + Windows. - Che do du an BAO GIA / BOQ = global parameter GiaiDoan_BaoGia1-BOQ2 (cach template HPCONS dang dung); Ap dung gan luon cac type cua chua gan vao GP. Doi che do ma family bao loi (vd quat hut khoi) thi huy, bao ten family, khong de"
+    "version":  "1.94.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.94.0/HPCONS-BIM-Setup-1.94.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.94.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Mo file MAU (MAU-A01-...) lam file dang hoat dong, mo them file tong the, bam nut, chon hang muc xuong (floor 01CBD-CTrinh_HTang; floor dang chon trong file tong the duoc tick san), XEM TRUOC roi CAP NHAT FILE MAU. - Doc tu file tong the: ranh floor (kich thuoc, huong), DetailLine kieu \"Grid\" trong view mat bang tong the (vi tri truc), detail item MC-Xuong_NGioTrThong (H_Chan -\u003e SAN DUONG, H_tang1 -\u003e MAI, DoDocMai), san duong 02CBD-GTSBai_ tiep giap (nhip cua cuon)."
 }
