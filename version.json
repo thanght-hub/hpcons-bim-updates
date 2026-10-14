@@ -1,5 +1,5 @@
 {
-    "version":  "1.94.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.94.0/HPCONS-BIM-Setup-1.94.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.94.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Mo file MAU (MAU-A01-...) lam file dang hoat dong, mo them file tong the, bam nut, chon hang muc xuong (floor 01CBD-CTrinh_HTang; floor dang chon trong file tong the duoc tick san), XEM TRUOC roi CAP NHAT FILE MAU. - Doc tu file tong the: ranh floor (kich thuoc, huong), DetailLine kieu \"Grid\" trong view mat bang tong the (vi tri truc), detail item MC-Xuong_NGioTrThong (H_Chan -\u003e SAN DUONG, H_tang1 -\u003e MAI, DoDocMai), san duong 02CBD-GTSBai_ tiep giap (nhip cua cuon)."
+    "version":  "1.95.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.95.0/HPCONS-BIM-Setup-1.95.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.95.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Xoa level cua file mau khong co trong file tong the (TANG 2, TANG 3), giu SAN DUONG / TANG 1 / MAI / DINH MAI. - View MAT CAT A: doi marker vao giua nha neu nam ngoai, crop theo be rong / dinh mai, tao lai dim level (chuoi + tong, ben phai) va dim truc (chuoi + tong, duoi san duong), Filled Region khung keo (Info_KeoThep) ve lai theo bien dang co ban tham so (cot ngoai cach truc 250, chan 500, dinh cot 1400, nach 1200, keo 425, canh tren thap hon day mai 150), Spot Slope co san cua mau duoc doi / nhan ban len mai moi (API khong tao duoc Spot Slope - file mau can co san 1 cai)."
 }
