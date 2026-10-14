@@ -1,5 +1,5 @@
 {
-    "version":  "1.96.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.96.0/HPCONS-BIM-Setup-1.96.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.96.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Doc H_tang1..H_tang6 cua detail item MC-Xuong_NGioTrThong: TANG 2 = H_tang1, TANG 3 = H_tang1 + H_tang2, ..., MAI = tong cac tang, DINH MAI = MAI + (W/2 + 30) x do doc. Level TANG 2 / TANG 3 co san trong file mau duoc tai dung (dat lai cao do), thieu thi tao moi; level khong dung van bi xoa. - Moi tang tren: san Cor-BTCT-t150 phu ca mat bang (mep = mat trong tuong gach), cua so W0-3000x1200 lap lai cung vi tri voi be +1000 tren level tang do. Mat cat A dim level du cac tang (300 / 6000 / 6000 / 4200 + tong)."
+    "version":  "1.97.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.97.0/HPCONS-BIM-Setup-1.97.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.97.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Hop thoai co muc \"He ket cau\": Ket cau thep, vach tole/panel (nhu truoc) hoac Khung BTCT. - Khung BTCT: cot Structural Columns (chon type, mac dinh 300 x 400) tai moi giao truc; truc bien mat ngoai cot trung truc, truc giua can tam. Chan cot TANG 1. - Mai tole: cot toi tang tren cung, khung keo thep (mat cat A) dat tu tang tren cung len mai. - Mai BTCT: cot toi MAI, mai phang MAI-BTCT tai MAI, tuong ton dung tai MAI (khong dau hoi), bo diem / khung keo / spot slope,"
 }
