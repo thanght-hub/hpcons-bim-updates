@@ -1,5 +1,5 @@
 {
-    "version":  "1.99.1",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.99.1/HPCONS-BIM-Setup-1.99.1.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.99.1.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Xuong tu 2 tang + chi Tuong dac: khong tao tuong dai cao 1 m (ngan chay, chong va dap) o cac tang tren; san tang 2 tro len bang mep truc bien (ca san deck + dam thep: dam bien mat ngoai trung mep truc); khung thep trong mat cat A: mep ngoai cot thep ngoai cung bang mep truc. - Xuong 1 tang + chi Tuong dac: cot thep van lui vao trong, mep ngoai cach truc 250."
+    "version":  "1.99.2",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.99.2/HPCONS-BIM-Setup-1.99.2.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.99.2.exe ben duoi, DONG Revit roi chay (can quyen Admin). - File .hpv xuat ra co them luoi truc (ten + vi tri) va cao do tang (ten + cao do nhu Revit). - Tren https://hpcons-bim-viewer.vercel.app: nut \"Truc / Cao do\" tren thanh cong cu duoi de an/hien luoi truc (bong truc 2 dau) va khung cao do tang kem nhan (+8.000 ...). - File .hpv xuat bang ban cu van mo duoc, chi khong co truc / cao do -\u003e xuat lai de co. Cai dat: tai file HPCONS-BIM-Setup-1.99.1.exe ben duoi, DONG Revit roi chay (can quyen Admin)."
 }
