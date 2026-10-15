@@ -1,5 +1,5 @@
 {
-    "version":  "1.99.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.99.0/HPCONS-BIM-Setup-1.99.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.99.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nut \"Xuat BIM Viewer\" xuat mo hinh ra 1 file .hpv, mo trang https://hpcons-bim-viewer.vercel.app roi KEO THA file vao trang de xem (tuong tu Autodesk Viewer: xoay, do, cat, explode, cay mo hinh, thuoc tinh, xem sheet 2D). KHONG can xuat IFC. File .hpv KHONG bi tai len may chu: trang web chi doc file ngay tren may cua ban. - Hop thoai: chon view 3D (hinh hoc lay dung an/hien + section box cua view), muc chi tiet Thap / Trung binh / Cao, tick cac sheet can xuat PDF (mac dinh chon het), noi luu file (mac dinh canh file .rvt)."
+    "version":  "1.99.1",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.99.1/HPCONS-BIM-Setup-1.99.1.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.99.1.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Xuong tu 2 tang + chi Tuong dac: khong tao tuong dai cao 1 m (ngan chay, chong va dap) o cac tang tren; san tang 2 tro len bang mep truc bien (ca san deck + dam thep: dam bien mat ngoai trung mep truc); khung thep trong mat cat A: mep ngoai cot thep ngoai cung bang mep truc. - Xuong 1 tang + chi Tuong dac: cot thep van lui vao trong, mep ngoai cach truc 250."
 }
