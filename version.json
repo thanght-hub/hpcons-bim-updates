@@ -1,5 +1,5 @@
 {
-    "version":  "1.97.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.97.0/HPCONS-BIM-Setup-1.97.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.97.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Hop thoai co muc \"He ket cau\": Ket cau thep, vach tole/panel (nhu truoc) hoac Khung BTCT. - Khung BTCT: cot Structural Columns (chon type, mac dinh 300 x 400) tai moi giao truc; truc bien mat ngoai cot trung truc, truc giua can tam. Chan cot TANG 1. - Mai tole: cot toi tang tren cung, khung keo thep (mat cat A) dat tu tang tren cung len mai. - Mai BTCT: cot toi MAI, mai phang MAI-BTCT tai MAI, tuong ton dung tai MAI (khong dau hoi), bo diem / khung keo / spot slope,"
+    "version":  "1.98.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.98.0/HPCONS-BIM-Setup-1.98.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.98.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Tuong vach bao che (tuong bao che ngoai), 3 che do: Tuong dac + Vach nhe / Tuong dac / Vach nhe. Tuong dac chon type \"Bri-\" hoac \"Cor-\", vach nhe chon type \"Tol-\" hoac \"PaW-\". Moi loai khai bao Base Constraint, Base Offset, Top Constraint, Top Offset (Top \"(Khong noi)\" = Unconnected, cao = Top Offset). Mac dinh: dac TANG 1 +0 -\u003e TANG 1 +1000, nhe TANG 1 +1000 -\u003e MAI (nhu file mau); 1 loai: TANG 1 -\u003e MAI. - Tuong dac mat ngoai trung truc; vach nhe mat trong loi trung truc (Core Face: Interior); be day lay theo type."
 }
