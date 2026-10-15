@@ -1,5 +1,5 @@
 {
-    "version":  "1.99.2",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.99.2/HPCONS-BIM-Setup-1.99.2.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.99.2.exe ben duoi, DONG Revit roi chay (can quyen Admin). - File .hpv xuat ra co them luoi truc (ten + vi tri) va cao do tang (ten + cao do nhu Revit). - Tren https://hpcons-bim-viewer.vercel.app: nut \"Truc / Cao do\" tren thanh cong cu duoi de an/hien luoi truc (bong truc 2 dau) va khung cao do tang kem nhan (+8.000 ...). - File .hpv xuat bang ban cu van mo duoc, chi khong co truc / cao do -\u003e xuat lai de co. Cai dat: tai file HPCONS-BIM-Setup-1.99.1.exe ben duoi, DONG Revit roi chay (can quyen Admin)."
+    "version":  "1.99.3",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.99.3/HPCONS-BIM-Setup-1.99.3.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.99.3.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Thay muc \"He ket cau\" bang cau hinh tung tang (1 tang: chi Mai + Tang 1): Mai: Cot khung keo / Khung keo (Thep / BTCT / BTCT DUL) + Mai/San mai (Tole / Deck-Bondeck / BTCT / BTCT DUL / Tuy chon). Tang n: Cot / Dam (Thep / BTCT / BTCT DUL) + San (Deck-Bondeck / BTCT / BTCT DUL / Tuy chon). Tang 1: Cot (Thep / BTCT / BTCT DUL) + Nen (Be tong / BTCT / Tuy chon). Moi tang co o \"Mep cot - truc\" (trong = tu dong). Nut dat nhanh: Toan thep / Khung BTCT + mai tole / Toan BTCT."
 }
