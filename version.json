@@ -1,5 +1,5 @@
 {
-    "version":  "1.98.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.98.0/HPCONS-BIM-Setup-1.98.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.98.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Tuong vach bao che (tuong bao che ngoai), 3 che do: Tuong dac + Vach nhe / Tuong dac / Vach nhe. Tuong dac chon type \"Bri-\" hoac \"Cor-\", vach nhe chon type \"Tol-\" hoac \"PaW-\". Moi loai khai bao Base Constraint, Base Offset, Top Constraint, Top Offset (Top \"(Khong noi)\" = Unconnected, cao = Top Offset). Mac dinh: dac TANG 1 +0 -\u003e TANG 1 +1000, nhe TANG 1 +1000 -\u003e MAI (nhu file mau); 1 loai: TANG 1 -\u003e MAI. - Tuong dac mat ngoai trung truc; vach nhe mat trong loi trung truc (Core Face: Interior); be day lay theo type."
+    "version":  "1.99.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.99.0/HPCONS-BIM-Setup-1.99.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.99.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nut \"Xuat BIM Viewer\" xuat mo hinh ra 1 file .hpv, mo trang https://hpcons-bim-viewer.vercel.app roi KEO THA file vao trang de xem (tuong tu Autodesk Viewer: xoay, do, cat, explode, cay mo hinh, thuoc tinh, xem sheet 2D). KHONG can xuat IFC. File .hpv KHONG bi tai len may chu: trang web chi doc file ngay tren may cua ban. - Hop thoai: chon view 3D (hinh hoc lay dung an/hien + section box cua view), muc chi tiet Thap / Trung binh / Cao, tick cac sheet can xuat PDF (mac dinh chon het), noi luu file (mac dinh canh file .rvt)."
 }
