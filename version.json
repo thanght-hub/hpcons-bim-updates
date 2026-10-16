@@ -1,5 +1,5 @@
 {
-    "version":  "1.99.3",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.99.3/HPCONS-BIM-Setup-1.99.3.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.99.3.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Thay muc \"He ket cau\" bang cau hinh tung tang (1 tang: chi Mai + Tang 1): Mai: Cot khung keo / Khung keo (Thep / BTCT / BTCT DUL) + Mai/San mai (Tole / Deck-Bondeck / BTCT / BTCT DUL / Tuy chon). Tang n: Cot / Dam (Thep / BTCT / BTCT DUL) + San (Deck-Bondeck / BTCT / BTCT DUL / Tuy chon). Tang 1: Cot (Thep / BTCT / BTCT DUL) + Nen (Be tong / BTCT / Tuy chon). Moi tang co o \"Mep cot - truc\" (trong = tu dong). Nut dat nhanh: Toan thep / Khung BTCT + mai tole / Toan BTCT."
+    "version":  "1.99.4",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.99.4/HPCONS-BIM-Setup-1.99.4.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.99.4.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Hop thoai chia 4 the: Cau hinh ket cau theo tang / Tuong vach bao che / Tuy chon dung / Thong tin khac. - Moi tang co muc \"Thong tin (de trong = khong ghi chu)\": Mai: Lap pin NLMT (Co/Khong), Tai trong san mai (kg/m2), Ghi chu khac. Tang n: Tai trong san (kg/m2), Hoan thien san, Dam cau truc - tai trong, Xe nang - tai trong, Ghi chu khac. Tang 1: nhu tang n, ghi \"nen\" thay \"san\"."
 }
