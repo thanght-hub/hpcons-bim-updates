@@ -1,5 +1,5 @@
 {
-    "version":  "1.99.4",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.99.4/HPCONS-BIM-Setup-1.99.4.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.99.4.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Hop thoai chia 4 the: Cau hinh ket cau theo tang / Tuong vach bao che / Tuy chon dung / Thong tin khac. - Moi tang co muc \"Thong tin (de trong = khong ghi chu)\": Mai: Lap pin NLMT (Co/Khong), Tai trong san mai (kg/m2), Ghi chu khac. Tang n: Tai trong san (kg/m2), Hoan thien san, Dam cau truc - tai trong, Xe nang - tai trong, Ghi chu khac. Tang 1: nhu tang n, ghi \"nen\" thay \"san\"."
+    "version":  "1.99.5",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.99.5/HPCONS-BIM-Setup-1.99.5.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.99.5.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Tu dong thiet ke khu WC nha xuong theo so nguoi va so khu WC tung tang (gan khu chuc nang -\u003e WC, hoac nhap tay), xem truoc mat bang, chon 2 diem tren Revit (bam goc theo truc) roi dung that thanh Model Group. - Bo cuc tu chon dien tich nho nhat: lung tua lung / noi tiep / xoay khoi 90 do; buong xi giu module (kho nhan phan du), WC nu dang cot; tieu nam: thang, chu L hoac chu U, tu chon gon nhat; tu loi vao khong nhin thang toi tieu; thong thuy truoc tieu 1200 (2 nguoi tranh nhau)."
 }
