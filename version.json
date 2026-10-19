@@ -1,5 +1,5 @@
 {
-    "version":  "1.100.0",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.100.0/HPCONS-BIM-Setup-1.100.0.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.100.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - MCP server chay thang trong Revit, KHONG can cai Node.js: moi may cai bo addin deu noi duoc voi Claude. - Claude Code: claude mcp add --scope user --transport http hpcons-revit http://127.0.0.1:8765/mcp (hoac bam nut \"Cau hinh Claude\" \u003e \"Cau hinh Claude Code\"). - Claude Desktop: nut \"Cau hinh Claude\" \u003e \"Cau hinh Claude Desktop\" (them server qua HpconsMcpBridge.exe), dong han Claude Desktop roi mo lai."
+    "version":  "2.0.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.0/HPCONS-BIM-Setup-2.0.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - MCP server chay thang trong Revit, KHONG can cai Node.js: moi may cai bo addin deu noi duoc voi Claude. - Claude Code: claude mcp add --scope user --transport http hpcons-revit http://127.0.0.1:8765/mcp (hoac bam nut \"Cau hinh Claude\" \u003e \"Cau hinh Claude Code\"). - Claude Desktop: nut \"Cau hinh Claude\" \u003e \"Cau hinh Claude Desktop\" (them server qua HpconsMcpBridge.exe), dong han Claude Desktop roi mo lai."
 }
