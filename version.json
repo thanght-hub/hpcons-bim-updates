@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.2",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.2/HPCONS-BIM-Setup-2.0.2.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.2.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nut \"DAT THEO TRUC\" (thay cho chon 2 diem): chon 2 truc vuong goc, goc ngoai buong thang dat tai giao truc, chieu dai thang hang voi truc; xoay 90 do / lat long buong truoc khi dung. Tick \"Keo dai\" ma chua nhap \"Dai toi da\" -\u003e tu do truc ke tiep va keo toi do. - Che do \"dai buong = nhip 2 truc\": chon 2 truc song song (tim tuong canh ngan trung truc) + 1 truc vuong goc (tim tuong ngoai), phuong an tu tinh lai (keo het nhip khi tick \"Keo dai\", khong tick = chieu dai toi thieu); o \"mep canh ngan cach truc\" (che do 2 truc thuong) va \"mep tuong ngoai cach truc bien\" (ca 2 che do). - Tuy chon \"Tao chieu..."
+    "version":  "2.0.3",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.3/HPCONS-BIM-Setup-2.0.3.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.3.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Icon \"Cong tac MCP\" ve lai dang cong tac gat: xam gat trai = tat, xanh gat phai = dang bat; icon tu doi theo trang thai khi bam bat/tat. - Icon \"Cau hinh AI\" = banh rang + chu AI. - Ham dung lai thang trong buong da co (tuong/cua con, Stairs bi xoa): doc tuong theo tag, tu khop be rong ve voi long buong (giam khe 2 ve -\u003e khe ve-tuong -\u003e be rong ve), don lo san trung, dung lai Stairs + chieu toi + lo san. Hien chi goi qua MCP (send_code_to_revit), chua co nut tren giao dien."
 }
