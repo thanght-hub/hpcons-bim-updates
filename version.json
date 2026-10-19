@@ -1,5 +1,5 @@
 {
-    "version":  "1.99.5",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.99.5/HPCONS-BIM-Setup-1.99.5.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.99.5.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Tu dong thiet ke khu WC nha xuong theo so nguoi va so khu WC tung tang (gan khu chuc nang -\u003e WC, hoac nhap tay), xem truoc mat bang, chon 2 diem tren Revit (bam goc theo truc) roi dung that thanh Model Group. - Bo cuc tu chon dien tich nho nhat: lung tua lung / noi tiep / xoay khoi 90 do; buong xi giu module (kho nhan phan du), WC nu dang cot; tieu nam: thang, chu L hoac chu U, tu chon gon nhat; tu loi vao khong nhin thang toi tieu; thong thuy truoc tieu 1200 (2 nguoi tranh nhau)."
+    "version":  "1.100.0",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v1.100.0/HPCONS-BIM-Setup-1.100.0.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-1.100.0.exe ben duoi, DONG Revit roi chay (can quyen Admin). - MCP server chay thang trong Revit, KHONG can cai Node.js: moi may cai bo addin deu noi duoc voi Claude. - Claude Code: claude mcp add --scope user --transport http hpcons-revit http://127.0.0.1:8765/mcp (hoac bam nut \"Cau hinh Claude\" \u003e \"Cau hinh Claude Code\"). - Claude Desktop: nut \"Cau hinh Claude\" \u003e \"Cau hinh Claude Desktop\" (them server qua HpconsMcpBridge.exe), dong han Claude Desktop roi mo lai."
 }
