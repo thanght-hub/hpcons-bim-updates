@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.4",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.4/HPCONS-BIM-Setup-2.0.4.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.4.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nhom moi \"0. Buong thang da co trong mo hinh\" dau cot trai: liet ke cac buong thang addin da dung (theo Comments HPCONS-BuongThang-\u003cten\u003e). - TAO MOI: dat ten trong ke tiep (T1, T2...), giu thong so dang nhap, tinh phuong an ngay -\u003e bam \"TAO MOI - DAT THEO TRUC\". - Nap thong so: nap lai toan bo thong so da dung khi dung buong do vao cua so (buong dung tu ban 2.0.4 tro di). - CAP NHAT buong nay: xoa va dung lai buong dang chon TAI VI TRI CU theo phuong an dang chon (tick Keo dai / nhip 2 truc = giu chieu dai cu; co the lat long buong). Buong dung bang ban cu (khong co thong tin luu kem) van cap nhat..."
+    "version":  "2.0.5",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.5/HPCONS-BIM-Setup-2.0.5.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.5.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Buong thang dung ra duoc gop thanh 1 Model Group ten \"HPCONS-BuongThang-\u003cten\u003e\" (tuong, cua, thang + lan can, lo san); checkbox \"Gop buong thanh Group\" (mac dinh bat). CAP NHAT / XOA buong se xoa ca group va GroupType cu. - Sua loi cua vao / cua thoat bi day ra ngoai dau buong khi chieu dai buong theo huong am (vd buong dua vao tuong co san, dat theo truc tu phai sang trai). Da kiem tra 4 huong x 2 ben long buong. Cai dat: tai file HPCONS-BIM-Setup-2.0.4.exe ben duoi, DONG Revit roi chay (can quyen Admin)."
 }
