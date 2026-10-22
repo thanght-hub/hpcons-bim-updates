@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.8",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.8/HPCONS-BIM-Setup-2.0.8.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.8.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Ten nut, ten nhom dropdown, tooltip va huong dan cua 46 addin tren tab HPCONS-DESIGNS chuyen sang tieng Viet co dau. - Ten panel moi: \"Trien khai chi tiet\", \"Trien khai tong the\", \"Tra cuu\", \"So lieu XPXD\", \"San nen \u0026 Dia hinh\" (giu AI, BIMViewer, HPCONS). - Icon moi cho \"Bo tri ve sinh\" (mat bang khu WC nam / nu) trong nhom Fast Design. - Bo cai xoa manifest + DLL ban cu trong thu muc addin rieng cua tung may (AppData) cua 13 addin (Dim truc, Dim level, Chi tiet cua, Chi tiet dien hinh, Topo, Ky hieu cua di/so, Dim hang muc, Dim san duong, Danh so hang muc, Cong thuc san tang, Sao chep cong thuc,"
+    "version":  "2.0.9",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.9/HPCONS-BIM-Setup-2.0.9.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.9.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Khoi chon view/sheet dung chung nhu hop Select Views/Sheets cua Revit: view/sheet dang mo, bo In-Session, bo da luu (chon bo la nap ngay), tick tay co loc/tim; nut Nhan ban / Tao moi / Sua ten / Xoa bo; sua tick tren bo co ten thi hoi luu. - Xuat tung file nhu Revit: dung export setup cua du an; dat ten file theo kieu Revit / \"A101 - Ten sheet\" / \"A101\" / \"\u003ctien to\u003e-A101\" / mau tuy chinh. - Gop nhieu sheet -\u003e 1 file DWG (khong can AutoCAD): moi sheet mot Layout giu nguyen viewport, hoac tat ca vao Model space"
 }
