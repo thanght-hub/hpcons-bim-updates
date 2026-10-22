@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.7",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.7/HPCONS-BIM-Setup-2.0.7.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.7.exe ben duoi, DONG Revit roi chay (can quyen Admin). - MODULE THONG DUNG (checkbox \"Module thong dung\", mac dinh bat): gap dung ca da duyet thi dung thang theo so do mau, bo qua bo tim kiem. - M01: tang 1 loi vao phia truc bien, nam 4-6 xom + 4-6 tieu (tieu cum goc trong: 2 tuong loi vao + con lai tuong chung), nu 1-2 buong + kho, lavabo chung ngoai, phu bi ~7,6-9,2 x 3,6-4,8 m, hop gen goc loi vao phia nam (canh buong thang). - M02 / M03: khu nho nam 1-3 xom + 1-3 tieu, nu 1 bet (co hoac khong kho), lavabo chung, sau 3,4-4,6 m; buong thang phia nu -\u003e M02 (hop gen trong kho / o goc sau nu), buong thang phia nam -\u003e M03 (hop gen goc sau nam dau day tieu..."
+    "version":  "2.0.8",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.8/HPCONS-BIM-Setup-2.0.8.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.8.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Ten nut, ten nhom dropdown, tooltip va huong dan cua 46 addin tren tab HPCONS-DESIGNS chuyen sang tieng Viet co dau. - Ten panel moi: \"Trien khai chi tiet\", \"Trien khai tong the\", \"Tra cuu\", \"So lieu XPXD\", \"San nen \u0026 Dia hinh\" (giu AI, BIMViewer, HPCONS). - Icon moi cho \"Bo tri ve sinh\" (mat bang khu WC nam / nu) trong nhom Fast Design. - Bo cai xoa manifest + DLL ban cu trong thu muc addin rieng cua tung may (AppData) cua 13 addin (Dim truc, Dim level, Chi tiet cua, Chi tiet dien hinh, Topo, Ky hieu cua di/so, Dim hang muc, Dim san duong, Danh so hang muc, Cong thuc san tang, Sao chep cong thuc,"
 }
