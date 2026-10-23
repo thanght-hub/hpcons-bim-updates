@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.9",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.9/HPCONS-BIM-Setup-2.0.9.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.9.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Khoi chon view/sheet dung chung nhu hop Select Views/Sheets cua Revit: view/sheet dang mo, bo In-Session, bo da luu (chon bo la nap ngay), tick tay co loc/tim; nut Nhan ban / Tao moi / Sua ten / Xoa bo; sua tick tren bo co ten thi hoi luu. - Xuat tung file nhu Revit: dung export setup cua du an; dat ten file theo kieu Revit / \"A101 - Ten sheet\" / \"A101\" / \"\u003ctien to\u003e-A101\" / mau tuy chinh. - Gop nhieu sheet -\u003e 1 file DWG (khong can AutoCAD): moi sheet mot Layout giu nguyen viewport, hoac tat ca vao Model space"
+    "version":  "2.0.10",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.10/HPCONS-BIM-Setup-2.0.10.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.10.exe ben duoi, DONG Revit roi chay (can quyen Admin). - File mo bang app HPCONS BIM Viewer (cai qua Chrome / Edge) hay bi hien icon TRANG: moi lan app cap nhat, Chrome ghi de icon rong. - Bo cai them chuong trinh nho C:\\Program Files\\HPCONS\\IconFix\\HpconsIconFix.exe: tu chay khi dang nhap (moi nguoi dung tren may), chay nen khong cua so, gan lai icon ngay khi Chrome / Edge ghi de (khong can chay script tay nua). Icon moi cho file .xmind. - Go bo cai thi chuong trinh duoc go theo."
 }
