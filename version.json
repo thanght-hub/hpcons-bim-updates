@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.15",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.15/HPCONS-BIM-Setup-2.0.15.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.15.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Gop addin Bai Xe May vao Thiet ke nha xe: buoc 2 \"Bo tri xe may\" (o 0,90x1,90 / xeo 60 do, loi di 1-2 chieu, ho bien...) tinh truoc, hang cot dat tai ranh gioi 2 dai xe dau lung (khong bao gio trong loi di), tu chon khung Ngang/Doc + loi xe, dung kien truc, roi bo tri lai xe voi chan cot lam vat can; dat family XeMay + mui ten + ghi chu len mat bang TANG 1. - Huong khung DOC (xoay 90 do): 3 bo tri cot (1 hang giua canh buom / 2 hang mep / 2 hang lui vao), nhip cot doc nhap rieng, loi xe ra vao (2 canh dai / 1 canh dai / dau hoi) - cot khong vuong loi xe."
+    "version":  "2.0.16",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.16/HPCONS-BIM-Setup-2.0.16.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.16.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Khong co dai xe dau lung (vd nha xe 6 m, 2 dai ke 1 loi di giua): van dung khung DOC - 2 hang cot dat TRONG dai xe sat mep loi di (moi cot chiem 1 o, loi di khong bi chan), mang xoi tai hang cot, noc tren loi di giua, mep ngoai mai cao. O tuy chon o buoc 2, tat = khung NGANG cot mep A/C nhu B104."
 }
