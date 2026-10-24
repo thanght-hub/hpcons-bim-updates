@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.14",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.14/HPCONS-BIM-Setup-2.0.14.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.14.exe ben duoi, DONG Revit roi chay (can quyen Admin). - The Ban ve: o \"An sheet khong chon\" (nhu \"Hide un-checked views/sheets\" cua Revit) duoi o Loc. - Sua giao dien bi che chu: 4 nut bo (Luu thanh / Tao moi / Sua ten / Xoa) xep 2x2 hien du chu, danh sach sheet co thanh cuon ngang, combo bo ghi gon \u003cIn-Session\u003e, khung tuy chon ben phai cuon doc va tu xuong dong khi cua so hep; nhan the Nhan su canh tren theo o chon. - The Nhan su: o Chu tri / Thiet ke Dien - Nuoc hien ten nguoi doc tu family khung ten (vd KS. NGUYEN TRONG TAI, KS. PHAM DINH HUY) thay cho \"(slot 1)\"."
+    "version":  "2.0.15",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.15/HPCONS-BIM-Setup-2.0.15.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.15.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Gop addin Bai Xe May vao Thiet ke nha xe: buoc 2 \"Bo tri xe may\" (o 0,90x1,90 / xeo 60 do, loi di 1-2 chieu, ho bien...) tinh truoc, hang cot dat tai ranh gioi 2 dai xe dau lung (khong bao gio trong loi di), tu chon khung Ngang/Doc + loi xe, dung kien truc, roi bo tri lai xe voi chan cot lam vat can; dat family XeMay + mui ten + ghi chu len mat bang TANG 1. - Huong khung DOC (xoay 90 do): 3 bo tri cot (1 hang giua canh buom / 2 hang mep / 2 hang lui vao), nhip cot doc nhap rieng, loi xe ra vao (2 canh dai / 1 canh dai / dau hoi) - cot khong vuong loi xe."
 }
