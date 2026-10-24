@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.11",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.11/HPCONS-BIM-Setup-2.0.11.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.11.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Kiem soat du lieu khung ten A2PrintA3HP cua template HPCONS, hop thoai 4 the. - Thong tin du an: Project Name / Address / Number / Issue Date, 1P01 Chu dau tu, 1P02 Dia chi CDT, 1P03 Dai dien, 1P07 Giai doan, muc dich phat hanh (1P08/1P09, o chon ghi \"I\"), 1P10/1P11 Hang muc + ky hieu, 3 truong -BIA, 4 lan phat hanh (1P91/92/93). Lay du lieu tu Google Sheets \"MDA-Thong tin phap ly\" (tab ThongTinDA, chon cot ho so QH 1/500 / TKKT / Tham tra; sheet phai share \"Anyone with the link\" hoac dan file .xlsx) hoac tu app Cuoc hop ttcuochop.hpcore.vn (so ma du an; can khoa Cong lien ket"
+    "version":  "2.0.12",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.12/HPCONS-BIM-Setup-2.0.12.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.12.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Panel Trien khai chi tiet: nhom \"Chi Tiet Cua\" (Chi tiet cua / Ky hieu cua di / Ky hieu cua so / Ghi chu cua); nhom \"Chi Tiet Thang\" (ten moi cua Cau Thang); nhom \"Fast Design\" them nut \"Bai/ nha xe 2 banh\" va nut moi \"Thiet ke nha xe\". - Panel Tra cuu: nhom \"PCCC\" (Tra khoang cach PCCC, Bang thuyet minh khoang cach, Kiem tra khoang chay, Tinh loi thoat nan, Thong ke PCCC hang muc); Translation Manager doi sang panel nay. - Panel San nen \u0026 Dia hinh: nhom \"San nen / Dia hinh\" (CutFill, Thuyet minh san nen, Topo tu Text, Topo tu CAD, Fix Text CAD)."
 }
