@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.16",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.16/HPCONS-BIM-Setup-2.0.16.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.16.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Khong co dai xe dau lung (vd nha xe 6 m, 2 dai ke 1 loi di giua): van dung khung DOC - 2 hang cot dat TRONG dai xe sat mep loi di (moi cot chiem 1 o, loi di khong bi chan), mang xoi tai hang cot, noc tren loi di giua, mep ngoai mai cao. O tuy chon o buoc 2, tat = khung NGANG cot mep A/C nhu B104."
+    "version":  "2.0.17",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.17/HPCONS-BIM-Setup-2.0.17.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.17.exe ben duoi, DONG Revit roi chay (can quyen Admin). - The Kiem tra: o \"Chi sheet dang chon\" (mac dinh bat) - chi bao loi cua cac sheet dang tick o the Ban ve; thong tin du an + nhan su khung ten van kiem du; tong so ban ve (1P16) van dem ca group. - Hang nut the Kiem tra tu xuong dong khi cua so hep."
 }
