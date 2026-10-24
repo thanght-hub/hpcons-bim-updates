@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.12",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.12/HPCONS-BIM-Setup-2.0.12.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.12.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Panel Trien khai chi tiet: nhom \"Chi Tiet Cua\" (Chi tiet cua / Ky hieu cua di / Ky hieu cua so / Ghi chu cua); nhom \"Chi Tiet Thang\" (ten moi cua Cau Thang); nhom \"Fast Design\" them nut \"Bai/ nha xe 2 banh\" va nut moi \"Thiet ke nha xe\". - Panel Tra cuu: nhom \"PCCC\" (Tra khoang cach PCCC, Bang thuyet minh khoang cach, Kiem tra khoang chay, Tinh loi thoat nan, Thong ke PCCC hang muc); Translation Manager doi sang panel nay. - Panel San nen \u0026 Dia hinh: nhom \"San nen / Dia hinh\" (CutFill, Thuyet minh san nen, Topo tu Text, Topo tu CAD, Fix Text CAD)."
+    "version":  "2.0.13",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.13/HPCONS-BIM-Setup-2.0.13.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.13.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Combo \"Bo (print set)\" nhu hop Select Views/Sheets cua Revit, dung chung bo voi Print / PDF Export / DWG Export: \u003cIn-Session\u003e (sheet dang tick trong hop Print/Export) hoac bo da luu trong du an; chon bo la tick ngay cac sheet. - 4 nut Nhan ban / Tao moi / Sua ten / Xoa bo (ViewSheetSet cua Revit); doi tick tren bo co ten -\u003e hoi luu khi chuyen bo, bam Ghi vao Revit hay dong hop. Bo co view (khong phai sheet) thi giu nguyen cac view do khi luu."
 }
