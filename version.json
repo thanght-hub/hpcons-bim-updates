@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.17",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.17/HPCONS-BIM-Setup-2.0.17.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.17.exe ben duoi, DONG Revit roi chay (can quyen Admin). - The Kiem tra: o \"Chi sheet dang chon\" (mac dinh bat) - chi bao loi cua cac sheet dang tick o the Ban ve; thong tin du an + nhan su khung ten van kiem du; tong so ban ve (1P16) van dem ca group. - Hang nut the Kiem tra tu xuong dong khi cua so hep."
+    "version":  "2.0.18",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.18/HPCONS-BIM-Setup-2.0.18.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.18.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Khung cot theo cao do MAI + do doc mai: (a) \"Tao khung tu dong\" - cot hop, 2 canh bam mat duoi mai, thanh chong; (b) \"Theo family trong file mau\" - addin tu sinh bien the family \"Khung nha xe - 01 H\u003cMAI\u003e D\u003cdoc\u003e\" (canh xoay theo doc, cot cao theo MAI, giu dang mau). - Family khung doi ten \"Khung nha xe - 01\" (ten cu KHUNG NHA XE V2 van nhan). Bo tri cot: A (1 hang giua) / B (2 hang, khoang lui tu truc A,C; 0 = tai truc); khoang lui nhap tay duoc giu dung so. Radio \"Ngang nha\" / \"Doc nha\"; Ngang nha = khung tai moi truc so, cot tai A/C. - Tuy chon X mai vuon ngoai truc cot; 5 hinh minh hoa thong so..."
 }
