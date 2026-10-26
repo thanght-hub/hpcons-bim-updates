@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.20",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.20/HPCONS-BIM-Setup-2.0.20.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.20.exe ben duoi, DONG Revit roi chay (can quyen Admin). - The Nhan su khung ten: bo 2 nut \"Khop theo Google Sheet\" / \"Dat lai nhu trong Revit\". - Mo hop thoai: neu da luu link Google Sheet thi tu nap sheet, tu dien thong tin du an va TU KHOP nhan su (doi cot ho so cung tu khop lai); ket qua ghi o dau the Nhan su, ten khong co trong family khung ten thi bao mau cam va giu nhu trong Revit."
+    "version":  "2.0.21",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.21/HPCONS-BIM-Setup-2.0.21.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.21.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Family \"Khung nha xe - 02\" (Cot 2 canh, 1 mai): chon family nao thi mai, xa go, mang, up noc tu sinh bam he khung do (01 = mai buom; 02 = 1 mai / 2 mai gap nhau tai noc / rang cua Ngang nha); bien the family theo cao do MAI + doc cho ca 2 family. - 3 quy tac cao do: xa go gac tren canh keo (mai tren xa go), level MAI = diem thap nhat cua mai, DINH MAI = diem cao nhat cua mai. - Truc bien dat ten A-Z va 1-99; mep cot tu dong bang mep truc bien (cot bien lui nua de 250, o \"de cot\" de doi). - Mac dinh moi: Doc nha, A. 1 hang cot giua, mep nen 0 (nen = ranh), console dau hoi 100."
 }
