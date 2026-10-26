@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.22",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.22/HPCONS-BIM-Setup-2.0.22.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.22.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Tu dong dung TUONG / VACH, COT, CUA DI, CUA SO, SAN tu net CAD import hoac Detail Item tren mat bang: gan vai tro cho tung layer (tu goi y theo ten layer), bam PHAN TICH xem so luong roi DUNG VAO MODEL. - Tuong net doi -\u003e tim + do day (loai tuong co san dung do day, thieu thi tu tao CAD-Tuong-\u003ct\u003e); tuong net don = net tim; tu noi qua o cua, keo dai toi tim tuong giao de Revit join goc. - Cot chu nhat (co xoay) / tron theo hinh khep kin; type theo kich thuoc (b/h, Width/Depth, d), thieu thi tu tao."
+    "version":  "2.0.23",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.23/HPCONS-BIM-Setup-2.0.23.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.23.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Ban ve CAD khong quan ly layer tot (tuong / cot / cua nam trong block, INSERT dat sai layer) van dung duoc: hop thoai doi sang \"Block / cum net -\u003e vai tro\", moi cum co chu ky hinh hoc (vd \"52 o kin 400x300, 52 co hatch dac\") va vai tro doan san theo HINH \u003e ten block \u003e layer; Sep chi sua cho sai roi PHAN TICH. - Tuy chon \"Doc thang file DWG\" (giu ten block, hatch, chu): duong dan tu lay tu CAD link, hoac Chon file...; net DWG tu doi ve dung vi tri CAD import trong model."
 }
