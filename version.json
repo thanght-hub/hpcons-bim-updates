@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.18",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.18/HPCONS-BIM-Setup-2.0.18.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.18.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Khung cot theo cao do MAI + do doc mai: (a) \"Tao khung tu dong\" - cot hop, 2 canh bam mat duoi mai, thanh chong; (b) \"Theo family trong file mau\" - addin tu sinh bien the family \"Khung nha xe - 01 H\u003cMAI\u003e D\u003cdoc\u003e\" (canh xoay theo doc, cot cao theo MAI, giu dang mau). - Family khung doi ten \"Khung nha xe - 01\" (ten cu KHUNG NHA XE V2 van nhan). Bo tri cot: A (1 hang giua) / B (2 hang, khoang lui tu truc A,C; 0 = tai truc); khoang lui nhap tay duoc giu dung so. Radio \"Ngang nha\" / \"Doc nha\"; Ngang nha = khung tai moi truc so, cot tai A/C. - Tuy chon X mai vuon ngoai truc cot; 5 hinh minh hoa thong so..."
+    "version":  "2.0.19",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.19/HPCONS-BIM-Setup-2.0.19.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.19.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Icon nut moi: bieu tuong cho dau xe 2 banh (bien xanh, chu P, xe may). - Khong noi mai tai noc: khung keo doi xung 2 ben cot (moi canh = X mai vuon), mai + xa go + diem bam theo canh khung (moi hang cot / truc so 1 mai buom, khong up noc) - ca Doc nha lan Ngang nha. Tu them truc + khung + mai khi dai xe thieu mai che (chi che dai xe, loi di duoc ho). - Mai vuon Ngang nha: 2 o nhap (ngoai truc dau hoi / ngoai truc A, C); khung dau hoi canh ngoai = mai vuon. - Xe bam bien ngoai nha xe: canh nao mai vuon \u003e= sau dai xe (truc A / C hoac dau hoi) thi them dai lung tua ranh, xe vao tu ngoai."
 }
