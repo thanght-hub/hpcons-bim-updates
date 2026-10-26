@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.21",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.21/HPCONS-BIM-Setup-2.0.21.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.21.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Family \"Khung nha xe - 02\" (Cot 2 canh, 1 mai): chon family nao thi mai, xa go, mang, up noc tu sinh bam he khung do (01 = mai buom; 02 = 1 mai / 2 mai gap nhau tai noc / rang cua Ngang nha); bien the family theo cao do MAI + doc cho ca 2 family. - 3 quy tac cao do: xa go gac tren canh keo (mai tren xa go), level MAI = diem thap nhat cua mai, DINH MAI = diem cao nhat cua mai. - Truc bien dat ten A-Z va 1-99; mep cot tu dong bang mep truc bien (cot bien lui nua de 250, o \"de cot\" de doi). - Mac dinh moi: Doc nha, A. 1 hang cot giua, mep nen 0 (nen = ranh), console dau hoi 100."
+    "version":  "2.0.22",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.22/HPCONS-BIM-Setup-2.0.22.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.22.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Tu dong dung TUONG / VACH, COT, CUA DI, CUA SO, SAN tu net CAD import hoac Detail Item tren mat bang: gan vai tro cho tung layer (tu goi y theo ten layer), bam PHAN TICH xem so luong roi DUNG VAO MODEL. - Tuong net doi -\u003e tim + do day (loai tuong co san dung do day, thieu thi tu tao CAD-Tuong-\u003ct\u003e); tuong net don = net tim; tu noi qua o cua, keo dai toi tim tuong giao de Revit join goc. - Cot chu nhat (co xoay) / tron theo hinh khep kin; type theo kich thuoc (b/h, Width/Depth, d), thieu thi tu tao."
 }
