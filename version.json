@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.23",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.23/HPCONS-BIM-Setup-2.0.23.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.23.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Ban ve CAD khong quan ly layer tot (tuong / cot / cua nam trong block, INSERT dat sai layer) van dung duoc: hop thoai doi sang \"Block / cum net -\u003e vai tro\", moi cum co chu ky hinh hoc (vd \"52 o kin 400x300, 52 co hatch dac\") va vai tro doan san theo HINH \u003e ten block \u003e layer; Sep chi sua cho sai roi PHAN TICH. - Tuy chon \"Doc thang file DWG\" (giu ten block, hatch, chu): duong dan tu lay tu CAD link, hoac Chon file...; net DWG tu doi ve dung vi tri CAD import trong model."
+    "version":  "2.0.24",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.24/HPCONS-BIM-Setup-2.0.24.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.24.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Cua 2 canh: tu ghep 2 cung mo ke nhau thanh 1 cua 2 canh, co o chon family cua 2 canh rieng. - Tuong la 1 doi tuong lien qua o cua, cua nam tren tuong (khong ngat tuong tai cua); tuong noi qua o cua / cot. - Tu nhan dang CAU THANG (bac thang + bubble so) -\u003e dung Stairs Revit (ve + chieu nghi, loai thang chon trong form); cau thang tuyet doi khong tu tao tuong, bo tuong nhan nham trong hop bao ve thang. - Tuong lung / lan can: dai 2 net song song ~100 o mep hanh lang / ban cong / gieng troi / quanh thang tu nhan theo ngu canh; dung bang"
 }
