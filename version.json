@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.24",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.24/HPCONS-BIM-Setup-2.0.24.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.24.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Cua 2 canh: tu ghep 2 cung mo ke nhau thanh 1 cua 2 canh, co o chon family cua 2 canh rieng. - Tuong la 1 doi tuong lien qua o cua, cua nam tren tuong (khong ngat tuong tai cua); tuong noi qua o cua / cot. - Tu nhan dang CAU THANG (bac thang + bubble so) -\u003e dung Stairs Revit (ve + chieu nghi, loai thang chon trong form); cau thang tuyet doi khong tu tao tuong, bo tuong nhan nham trong hop bao ve thang. - Tuong lung / lan can: dai 2 net song song ~100 o mep hanh lang / ban cong / gieng troi / quanh thang tu nhan theo ngu canh; dung bang"
+    "version":  "2.0.25",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.25/HPCONS-BIM-Setup-2.0.25.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.25.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Hinh minh hoa \"Loi di / rong min - max\" = anh MO PHONG NGUOI DAT XE MAY (o 0,90 m, xe nho / co SH, dau 90 / 60 do; rong sat quy dao 1,2-2,0 m, de xuat co phan du 1,4-2,2 m). - Fix cua so hinh minh hoa nhay sang man hinh khac: cua so hinh luon dat tren CUNG man hinh voi hop thoai (sat ben phai, het cho thi sang ben trai, van het thi de mep phai); hop thoai phong to / sat day man van giu hinh trong man."
 }
