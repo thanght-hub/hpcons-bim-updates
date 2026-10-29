@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.25",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.25/HPCONS-BIM-Setup-2.0.25.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.25.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Hinh minh hoa \"Loi di / rong min - max\" = anh MO PHONG NGUOI DAT XE MAY (o 0,90 m, xe nho / co SH, dau 90 / 60 do; rong sat quy dao 1,2-2,0 m, de xuat co phan du 1,4-2,2 m). - Fix cua so hinh minh hoa nhay sang man hinh khac: cua so hinh luon dat tren CUNG man hinh voi hop thoai (sat ben phai, het cho thi sang ben trai, van het thi de mep phai); hop thoai phong to / sat day man van giu hinh trong man."
+    "version":  "2.0.26",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.26/HPCONS-BIM-Setup-2.0.26.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.26.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Doc tu file tong the: ranh floor 01CBD-CTrinh_HTang, duong kieu Grid (vi tri truc), detail item MC-Xuong_MaiDoc1Phia (H_Chan, cao do MAI = H_tang1, do doc; CANH CAO doc tu hinh dang detail item), san duong 02CBD tiep giap -\u003e goi y canh cua di. - Dung vao file mau: truc (1..n, 99 / A, Z), level SAN DUONG / TANG 1 / MAI (diem thap nhat mai) / DINH MAI, tuong gach chan 1000 + ton (hoac chi dac / chi nhe), tuong ngan phong moi n nhip (mac dinh 2) dinh theo mat duoi mai, nen Cor-BeTong01, mai tole 1 doc (hoac 2 doc), cua di 2 canh 3000x3000 giua nhip dau moi phong o canh cao (gan tuong gach, khoet ton..."
 }
