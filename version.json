@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.28",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.28/HPCONS-BIM-Setup-2.0.28.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.28.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Bo preset O dau \"Chuan HPCONS: 0,90 x 1,90 m, vuong goc 90\" (trung voi Tu dong) va huong hang \"Vuong goc canh loi vao (click chon)\". Bo setting cu da luu trong file mau tu chuyen ve Tuy chinh / Tu dong. - Hinh minh hoa \"O dau\" = anh \"02 - O DAU XE MAY: so sanh 90 vuong goc (o 0,90 x 1,90, buoc 0,90) va 60 xien (o 0,90 x 1,96, buoc 1,04, sau dai 1,70)\". - Moi truong du lieu co hinh minh hoa duoc danh so \"(n)\" phia sau nhan (vd \"O dau (2):\", \"2 BO TRI XE MAY ... (2)\"); cua so hinh ghi"
+    "version":  "2.0.29",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.29/HPCONS-BIM-Setup-2.0.29.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.29.exe ben duoi, DONG Revit roi chay (can quyen Admin). - The \"Tuong vach bao che\": muc moi \"Tu dong bo tri tole sang\" (chi vach tole type Tol-; vach PaW- / tuong dac khong bo tri). - Moi nhip truc 1 dai tole sang rong 1000 (sua duoc), cao bang vach tole. Vi tri: Giua nhip / Cach truc dau nhip (mep tole sang cach truc, mac dinh 500) / Theo tim cua so. - Khong bo cua: dai trung cua so thi ngat qua cua so tung tang; nhip co cua cuon chi co tole sang phia tren cua. - Type Tol-ToleSangVach tu chon cung so song voi vach tole (5Song / 6Song), chon tay duoc."
 }
