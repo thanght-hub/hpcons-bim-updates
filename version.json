@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.26",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.26/HPCONS-BIM-Setup-2.0.26.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.26.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Doc tu file tong the: ranh floor 01CBD-CTrinh_HTang, duong kieu Grid (vi tri truc), detail item MC-Xuong_MaiDoc1Phia (H_Chan, cao do MAI = H_tang1, do doc; CANH CAO doc tu hinh dang detail item), san duong 02CBD tiep giap -\u003e goi y canh cua di. - Dung vao file mau: truc (1..n, 99 / A, Z), level SAN DUONG / TANG 1 / MAI (diem thap nhat mai) / DINH MAI, tuong gach chan 1000 + ton (hoac chi dac / chi nhe), tuong ngan phong moi n nhip (mac dinh 2) dinh theo mat duoi mai, nen Cor-BeTong01, mai tole 1 doc (hoac 2 doc), cua di 2 canh 3000x3000 giua nhip dau moi phong o canh cao (gan tuong gach, khoet ton..."
+    "version":  "2.0.27",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.27/HPCONS-BIM-Setup-2.0.27.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.27.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Doi ten nut \"Cap nhat xuong theo tong the\" -\u003e \"Nha xuong/Nha may\" (icon moi: xuong 2 mai doc + noc gio + cua cuon), \"Thiet ke nha xe 2 banh\" -\u003e \"Nha xe 2 banh\". Ten noi bo nut giu nguyen (phim tat khong doi). - NHO HANG MUC cho Nha xuong/Nha may va Nha xe 2 banh (giong Hang muc phu 2.0.26): khi bam Cap nhat / Dung, hop thoai luu file tong the, hang muc, view tong the va MOI lua chon (xuong: ca cau hinh ket cau tung tang, bao che, tuy chon; nha xe: o dau, loi di, khung, mai...) vao file mau -\u003e lan sau mo hop thoai (hoac doi file mau) tu chon lai, khong phai chon lai tu dau."
 }
