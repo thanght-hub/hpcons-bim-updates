@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.29",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.29/HPCONS-BIM-Setup-2.0.29.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.29.exe ben duoi, DONG Revit roi chay (can quyen Admin). - The \"Tuong vach bao che\": muc moi \"Tu dong bo tri tole sang\" (chi vach tole type Tol-; vach PaW- / tuong dac khong bo tri). - Moi nhip truc 1 dai tole sang rong 1000 (sua duoc), cao bang vach tole. Vi tri: Giua nhip / Cach truc dau nhip (mep tole sang cach truc, mac dinh 500) / Theo tim cua so. - Khong bo cua: dai trung cua so thi ngat qua cua so tung tang; nhip co cua cuon chi co tole sang phia tren cua. - Type Tol-ToleSangVach tu chon cung so song voi vach tole (5Song / 6Song), chon tay duoc."
+    "version":  "2.0.30",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.30/HPCONS-BIM-Setup-2.0.30.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.30.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Goi .hpv xuat them phep chieu mo hinh -\u003e giay cho moi viewport mat bang / mat cat / mat dung / chi tiet tren sheet, kem danh sach cau kien thay trong tung view. - Tren web HPCONS BIM Viewer: chon cau kien trong view 3D (ca khi chia doi man hinh 3D | ban ve) thi hinh chieu cua no duoc to xanh dung vi tri tren ban ve dang mo. - Link mo viewer sau khi xuat doi sang https://hpcons-bimviewer.hpcore.vn"
 }
