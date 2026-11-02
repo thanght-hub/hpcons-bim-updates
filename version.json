@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.33",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.33/HPCONS-BIM-Setup-2.0.33.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.33.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Khung keo trong MAT CAT A (Filled Region Info_KeoThep) tu cap nhat theo mai vuon: loai 1 = canh keo vuon ra roi be chan dung toi mat tren diem chan mai; loai 2 = canh keo keo theo doc toi cach mep mai 150. Ap dung khung 1 tang, khung thep nhieu tang, keo thep tren cot BTCT. - MAT CAT A luon o giua chieu dai nha, MAT CAT B luon o giua be rong nha (truoc day lenh doi mat cat khong co tac dung). - \"Hide at scales coarser than\" cua MAT CAT A / B mac dinh 1 : 1000."
+    "version":  "2.0.34",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.34/HPCONS-BIM-Setup-2.0.34.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.34.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Moi lan dung tu file tong the, addin luu cau hinh hang muc (kich thuoc, truc, chieu cao tang, doc mai, MC, san duong tiep giap) vao file mau. Lan sau o \"File tong the\" co muc \"(Du lieu tong the da luu trong file mau)\" - tu chon khi khong mo file tong the: chon hang muc da luu, doi tuy chon roi Xem truoc / Cap nhat ma khong can file tong the. Tong the co thay doi thi mo lai file tong the. - File mau cu can dung tu file tong the 1 lan bang ban nay thi moi co du lieu luu. - Tole sang cat qua cua so duoi mai vuon (0PW-LUDG_0C0F0B_IT_Loai1) tu ha dinh toi chan cua so."
 }
