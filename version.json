@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.31",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.31/HPCONS-BIM-Setup-2.0.31.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.31.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Tuy chon moi \"Duoi mai vuon ra, vuon (mm)\" (the Tuy chon dung, mac dinh tat, 1700): moi canh dai 1 duoi mai cung type mai chinh, bat dau ngoai mep mang xoi, nam tren mat mai chinh keo dai, bo tron R400 roi mep dung 642 (theo Xuong 2B). - Vach bit 2 dau duoi mai (type vach tole), diem chan mai (nhom xam, chu U day 50). - Diem dau hoi mai chinh + duoi mai la 1 diem lien tuc: tu noc -\u003e mep mai -\u003e qua khe mang xoi -\u003e duoi -\u003e cung bo -\u003e mep dung. Khi bat duoi mai, diem dau hoi la khoi Generic Model (khong chinh bang thuoc tinh Fascia)."
+    "version":  "2.0.32",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.32/HPCONS-BIM-Setup-2.0.32.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.32.exe ben duoi, DONG Revit roi chay (can quyen Admin). - O \"Duoi mai vuon ra\" doi vao khung MAI (the Cau hinh ket cau theo tang), them chon loai: Loai 1 = bo tron + mep dung (nhu 2.0.31); Loai 2 = mai chinh vuon thang theo mat doc, khong bo / khong ngoat xuong, mang xoi doi ra mep mai vuon. - Loai 2: ong xoi dung family G-OngXoiTole-2 (addin tu sinh tu G-OngXoiTole-1): tu day mang dung xuong, be xien 45 do ve sat tuong roi noi ong dung; doan xien cung bien dang ong (vat goc + gan). Ong nam trong canopy cua duoc doi ra ngoai"
 }
