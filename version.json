@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.32",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.32/HPCONS-BIM-Setup-2.0.32.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.32.exe ben duoi, DONG Revit roi chay (can quyen Admin). - O \"Duoi mai vuon ra\" doi vao khung MAI (the Cau hinh ket cau theo tang), them chon loai: Loai 1 = bo tron + mep dung (nhu 2.0.31); Loai 2 = mai chinh vuon thang theo mat doc, khong bo / khong ngoat xuong, mang xoi doi ra mep mai vuon. - Loai 2: ong xoi dung family G-OngXoiTole-2 (addin tu sinh tu G-OngXoiTole-1): tu day mang dung xuong, be xien 45 do ve sat tuong roi noi ong dung; doan xien cung bien dang ong (vat goc + gan). Ong nam trong canopy cua duoc doi ra ngoai"
+    "version":  "2.0.33",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.33/HPCONS-BIM-Setup-2.0.33.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.33.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Khung keo trong MAT CAT A (Filled Region Info_KeoThep) tu cap nhat theo mai vuon: loai 1 = canh keo vuon ra roi be chan dung toi mat tren diem chan mai; loai 2 = canh keo keo theo doc toi cach mep mai 150. Ap dung khung 1 tang, khung thep nhieu tang, keo thep tren cot BTCT. - MAT CAT A luon o giua chieu dai nha, MAT CAT B luon o giua be rong nha (truoc day lenh doi mat cat khong co tac dung). - \"Hide at scales coarser than\" cua MAT CAT A / B mac dinh 1 : 1000."
 }
