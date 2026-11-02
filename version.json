@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.30",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.30/HPCONS-BIM-Setup-2.0.30.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.30.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Goi .hpv xuat them phep chieu mo hinh -\u003e giay cho moi viewport mat bang / mat cat / mat dung / chi tiet tren sheet, kem danh sach cau kien thay trong tung view. - Tren web HPCONS BIM Viewer: chon cau kien trong view 3D (ca khi chia doi man hinh 3D | ban ve) thi hinh chieu cua no duoc to xanh dung vi tri tren ban ve dang mo. - Link mo viewer sau khi xuat doi sang https://hpcons-bimviewer.hpcore.vn"
+    "version":  "2.0.31",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.31/HPCONS-BIM-Setup-2.0.31.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.31.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Tuy chon moi \"Duoi mai vuon ra, vuon (mm)\" (the Tuy chon dung, mac dinh tat, 1700): moi canh dai 1 duoi mai cung type mai chinh, bat dau ngoai mep mang xoi, nam tren mat mai chinh keo dai, bo tron R400 roi mep dung 642 (theo Xuong 2B). - Vach bit 2 dau duoi mai (type vach tole), diem chan mai (nhom xam, chu U day 50). - Diem dau hoi mai chinh + duoi mai la 1 diem lien tuc: tu noc -\u003e mep mai -\u003e qua khe mang xoi -\u003e duoi -\u003e cung bo -\u003e mep dung. Khi bat duoi mai, diem dau hoi la khoi Generic Model (khong chinh bang thuoc tinh Fascia)."
 }
