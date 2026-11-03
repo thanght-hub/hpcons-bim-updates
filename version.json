@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.36",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.36/HPCONS-BIM-Setup-2.0.36.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.36.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Kiem tra va cham giua cac bo mon Kien truc / Ket cau / Dieu hoa-Thong gio / Dien / Nuoc / PCCC / Ha tang, trong model hien tai va trong cac link Revit; bo mon tu dinh nghia theo category + loc theo type / he thong. - Ma tran cap bo mon voi dung sai xuyen (mm) va khoang ho (mm); tu bo qua phan tu host-long, da join, noi connector, bao on. - Ket qua: muc do (Nghiem trong / Lon / Nho), tang, truc, phan tu A/B, trang thai Moi / Dang xu ly / Da duyet / Da xu ly / Bo qua / Da het giu qua cac lan chay lai (luu file \u003cten model\u003e.vacham.xml canh file .rvt), giao viec + ghi chu."
+    "version":  "2.0.37",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.37/HPCONS-BIM-Setup-2.0.37.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.37.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Xet che chan giua cac khoi nhanh hon nhieu: do tia bang BVH rieng chay song song tren moi nhan CPU thay ReferenceIntersector. Model that (nha xuong 100 x 100 m + khoi van phong): truoc ~6 phut va form \"Not Responding\", nay 6-9 s. Cua di, cua so, thiet bi MEP, noi that khong tinh la vat che nang. - Chu giai mau hien tren view 3D (ban truoc bi an do kich thuoc dai mau = 0): ten ket qua + don vi, gia tri tung nac, dong mo ta che do; dat ben phai cong trinh, keo duoc."
 }
