@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.34",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.34/HPCONS-BIM-Setup-2.0.34.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.34.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Moi lan dung tu file tong the, addin luu cau hinh hang muc (kich thuoc, truc, chieu cao tang, doc mai, MC, san duong tiep giap) vao file mau. Lan sau o \"File tong the\" co muc \"(Du lieu tong the da luu trong file mau)\" - tu chon khi khong mo file tong the: chon hang muc da luu, doi tuy chon roi Xem truoc / Cap nhat ma khong can file tong the. Tong the co thay doi thi mo lai file tong the. - File mau cu can dung tu file tong the 1 lan bang ban nay thi moi co du lieu luu. - Tole sang cat qua cua so duoi mai vuon (0PW-LUDG_0C0F0B_IT_Loai1) tu ha dinh toi chan cua so."
+    "version":  "2.0.35",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.35/HPCONS-BIM-Setup-2.0.35.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.35.exe ben duoi, DONG Revit roi chay (can quyen Admin). - So lieu khi hau 69 diem Viet Nam (63 tinh ly cu + Sa Pa, Moc Chau, Mong Cai, Vung Tau, Phu Quoc, Con Dao) nhung san, tai phan tich ERA5 2020-2024 (Open-Meteo, CC BY 4.0); hoac tai online ERA5 dung toa do du an, hoac nap file EPW. - 8 the: dia diem \u0026 so lieu, khi hau theo thang, mat troi \u0026 bong do, gio (hoa gio theo thang nong / thang lanh), nhiet - am, buc xa mat dung/mai (to mau AVF), huong toi uu (so sanh xoay 0-355 do, KHONG sua model), de xuat \u0026 bao cao HTML. - Ve bong do, hoa gio, bieu do mat troi len mat bang; nut Xoa chi xoa doi tuong ten HPC_KH_."
 }
