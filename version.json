@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.35",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.35/HPCONS-BIM-Setup-2.0.35.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.35.exe ben duoi, DONG Revit roi chay (can quyen Admin). - So lieu khi hau 69 diem Viet Nam (63 tinh ly cu + Sa Pa, Moc Chau, Mong Cai, Vung Tau, Phu Quoc, Con Dao) nhung san, tai phan tich ERA5 2020-2024 (Open-Meteo, CC BY 4.0); hoac tai online ERA5 dung toa do du an, hoac nap file EPW. - 8 the: dia diem \u0026 so lieu, khi hau theo thang, mat troi \u0026 bong do, gio (hoa gio theo thang nong / thang lanh), nhiet - am, buc xa mat dung/mai (to mau AVF), huong toi uu (so sanh xoay 0-355 do, KHONG sua model), de xuat \u0026 bao cao HTML. - Ve bong do, hoa gio, bieu do mat troi len mat bang; nut Xoa chi xoa doi tuong ten HPC_KH_."
+    "version":  "2.0.36",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.36/HPCONS-BIM-Setup-2.0.36.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.36.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Kiem tra va cham giua cac bo mon Kien truc / Ket cau / Dieu hoa-Thong gio / Dien / Nuoc / PCCC / Ha tang, trong model hien tai va trong cac link Revit; bo mon tu dinh nghia theo category + loc theo type / he thong. - Ma tran cap bo mon voi dung sai xuyen (mm) va khoang ho (mm); tu bo qua phan tu host-long, da join, noi connector, bao on. - Ket qua: muc do (Nghiem trong / Lon / Nho), tang, truc, phan tu A/B, trang thai Moi / Dang xu ly / Da duyet / Da xu ly / Bo qua / Da het giu qua cac lan chay lai (luu file \u003cten model\u003e.vacham.xml canh file .rvt), giao viec + ghi chu."
 }
