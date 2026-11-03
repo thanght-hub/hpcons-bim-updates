@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.37",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.37/HPCONS-BIM-Setup-2.0.37.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.37.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Xet che chan giua cac khoi nhanh hon nhieu: do tia bang BVH rieng chay song song tren moi nhan CPU thay ReferenceIntersector. Model that (nha xuong 100 x 100 m + khoi van phong): truoc ~6 phut va form \"Not Responding\", nay 6-9 s. Cua di, cua so, thiet bi MEP, noi that khong tinh la vat che nang. - Chu giai mau hien tren view 3D (ban truoc bi an do kich thuoc dai mau = 0): ten ket qua + don vi, gia tri tung nac, dong mo ta che do; dat ben phai cong trinh, keo duoc."
+    "version":  "2.0.38",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.38/HPCONS-BIM-Setup-2.0.38.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.38.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Dropdown \"Mo phong giao thong\" doi ten thanh \"Mo phong\", gom: Chay theo duong dan / Chay theo diem / Xoa mo phong va Phan tich khi hau (truoc la nut rieng). Phim tat da dat cho cac nut van giu nguyen."
 }
