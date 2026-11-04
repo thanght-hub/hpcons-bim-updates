@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.38",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.38/HPCONS-BIM-Setup-2.0.38.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.38.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Dropdown \"Mo phong giao thong\" doi ten thanh \"Mo phong\", gom: Chay theo duong dan / Chay theo diem / Xoa mo phong va Phan tich khi hau (truoc la nut rieng). Phim tat da dat cho cac nut van giu nguyen."
+    "version":  "2.0.39",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.39/HPCONS-BIM-Setup-2.0.39.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.39.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Chieu cao nha doc tu hang muc: nha san xuat / nha kho / kho go (Bang H.9, H.11) lay PCCC_ChieuCaoLonNhat (san tang 1 -\u003e tran tang tren cung, dung chu thich 1 cua bang); nha cong cong / nha o (Bang H.1, H.2) lay PCCC_ChieuCaoPCCC. Truoc day lay nham chieu cao PCCC cho moi loai. Doi loai nha thi o chieu cao doi theo. - Nha 1 tang van TRICH gia tri chieu cao o cot (2) cua bang (vi du kho hang C bac III S0 = 24 m) de so sanh; chu thich 1 (khong quy dinh chieu cao nha 1 tang bac I-III S0 / nha SX cap S0-S1) chi ghi kem, vuot gia tri"
 }
