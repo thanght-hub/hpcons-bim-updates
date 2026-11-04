@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.40",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.40/HPCONS-BIM-Setup-2.0.40.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.40.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nhom xe moi \"Xe nang hang\": 8 preset theo datasheet hang (xe nang tay dien EPT20, stacker ES12, reach truck Linde R14, Toyota 8FBE15 3 banh, 8FD25 / 8FD35N / 8FD50N / 8FD80N). Thong so rieng: khoang cach tam tai x, chieu dai cang, kich thuoc tai (pallet), goc lai banh sau; hinh minh hoa rieng; chieu rong loi di xep hang Ast tinh theo VDI 2198 (Ast = Wa + x + l6 + 0,2) hien ngay tren hop thoai. - Dong hoc xe nang: truc truoc (banh tai) bam duong, LAI BANH SAU -\u003e duoi doi trong vang ra ngoai cua;"
+    "version":  "2.0.41",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.41/HPCONS-BIM-Setup-2.0.41.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.41.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Tinh xong, anh trich dan bang (E.1/E.2; G.1-G.9) tu khoanh khung XANH tai hang/o da tra va tu cuon toi hang do, giong addin Kiem tra khoang chay: Bang E.1 khoanh ca 2 chieu tra cuu + o tieu de cot; Bang E.2 khoanh o gia tri + nhan hang/cot (hang D, E -\u003e o \"khong quy dinh\"); Bang G: hang da tra toi dung cot mat do / khoi tich (2 hang khi noi suy G.3, G.7) + cac o gop (khoi tich, hang, vi tri cua, loai gian phong), G.9 dong he so da chon, G.8 dong loi ra hanh lang. - Khung DO = chu thich dang ap dung: CHU THICH 3 Bang E.2 khi giam 9 m -\u003e 6 m nho chua chay tu dong; chu thich"
 }
