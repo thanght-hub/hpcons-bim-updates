@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.39",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.39/HPCONS-BIM-Setup-2.0.39.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.39.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Chieu cao nha doc tu hang muc: nha san xuat / nha kho / kho go (Bang H.9, H.11) lay PCCC_ChieuCaoLonNhat (san tang 1 -\u003e tran tang tren cung, dung chu thich 1 cua bang); nha cong cong / nha o (Bang H.1, H.2) lay PCCC_ChieuCaoPCCC. Truoc day lay nham chieu cao PCCC cho moi loai. Doi loai nha thi o chieu cao doi theo. - Nha 1 tang van TRICH gia tri chieu cao o cot (2) cua bang (vi du kho hang C bac III S0 = 24 m) de so sanh; chu thich 1 (khong quy dinh chieu cao nha 1 tang bac I-III S0 / nha SX cap S0-S1) chi ghi kem, vuot gia tri"
+    "version":  "2.0.40",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.40/HPCONS-BIM-Setup-2.0.40.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.40.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nhom xe moi \"Xe nang hang\": 8 preset theo datasheet hang (xe nang tay dien EPT20, stacker ES12, reach truck Linde R14, Toyota 8FBE15 3 banh, 8FD25 / 8FD35N / 8FD50N / 8FD80N). Thong so rieng: khoang cach tam tai x, chieu dai cang, kich thuoc tai (pallet), goc lai banh sau; hinh minh hoa rieng; chieu rong loi di xep hang Ast tinh theo VDI 2198 (Ast = Wa + x + l6 + 0,2) hien ngay tren hop thoai. - Dong hoc xe nang: truc truoc (banh tai) bam duong, LAI BANH SAU -\u003e duoi doi trong vang ra ngoai cua;"
 }
