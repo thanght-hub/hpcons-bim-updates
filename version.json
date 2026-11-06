@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.41",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.41/HPCONS-BIM-Setup-2.0.41.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.41.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Tinh xong, anh trich dan bang (E.1/E.2; G.1-G.9) tu khoanh khung XANH tai hang/o da tra va tu cuon toi hang do, giong addin Kiem tra khoang chay: Bang E.1 khoanh ca 2 chieu tra cuu + o tieu de cot; Bang E.2 khoanh o gia tri + nhan hang/cot (hang D, E -\u003e o \"khong quy dinh\"); Bang G: hang da tra toi dung cot mat do / khoi tich (2 hang khi noi suy G.3, G.7) + cac o gop (khoi tich, hang, vi tri cua, loai gian phong), G.9 dong he so da chon, G.8 dong loi ra hanh lang. - Khung DO = chu thich dang ap dung: CHU THICH 3 Bang E.2 khi giam 9 m -\u003e 6 m nho chua chay tu dong; chu thich"
+    "version":  "2.0.42",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.42/HPCONS-BIM-Setup-2.0.42.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.42.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Lat (mirror) TOAN BO hang muc quanh 1 truc, hoac quanh duong giua 2 truc song song: mo hinh 3D, ghi chu 2D, mat bang / mat dung / mat cat / view 3D. Truc vuong goc truc lat giu nguyen; truc song song lat sang vi tri doi xung. - Tu dat lai ten truc theo thu tu cu (truc chinh va truc phu C\u0027, D\u0027... xep rieng), co bang xem truoc sua tay duoc. - Bang \"Giu nguyen\": mai + khoi in-place, mac dinh tick doi tuong doi xung qua truc lat. - CHAY THU (commit roi hoan tac, model khong doi) bao truoc loi; LAT HANG MUC gop 1 lenh Undo, lat tren file dang mo."
 }
