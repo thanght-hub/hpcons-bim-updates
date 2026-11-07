@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.42",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.42/HPCONS-BIM-Setup-2.0.42.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.42.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Lat (mirror) TOAN BO hang muc quanh 1 truc, hoac quanh duong giua 2 truc song song: mo hinh 3D, ghi chu 2D, mat bang / mat dung / mat cat / view 3D. Truc vuong goc truc lat giu nguyen; truc song song lat sang vi tri doi xung. - Tu dat lai ten truc theo thu tu cu (truc chinh va truc phu C\u0027, D\u0027... xep rieng), co bang xem truoc sua tay duoc. - Bang \"Giu nguyen\": mai + khoi in-place, mac dinh tick doi tuong doi xung qua truc lat. - CHAY THU (commit roi hoan tac, model khong doi) bao truoc loi; LAT HANG MUC gop 1 lenh Undo, lat tren file dang mo."
+    "version":  "2.0.43",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.43/HPCONS-BIM-Setup-2.0.43.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.43.exe ben duoi, DONG Revit roi chay (can quyen Admin). - The \"Bo tri xe tren floor bat ky\" them nut \"TAO NHA XE TREN FLOOR DANG CHON / CLICK CHON\": dung du truc, khung cot, mai, xa go, mang xoi, up noc, diem + bo tri xe ngay tai vi tri floor trong FILE DANG MO (khong can file tong the / file mau rieng). Nut \"BO TRI XE ...\" (chi xe) giu nguyen. - Ranh floor = truc bien (canh dai = truc so, nha xe xoay theo floor); level = level cua floor; nen = chinh floor da chon. Bo tri xe, luoi truc, cao do, cau kien, mang - noc - diem lay dung cac buoc 2-5 cua the \"Nha xe 2 banh theo tong the\" (type / family phai co trong file dang mo). - Truc dat ten theo Mark cua ..."
 }
