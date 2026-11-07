@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.44",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.44/HPCONS-BIM-Setup-2.0.44.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.44.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Mo bang co cau su dung dat (schedule Floors) roi bam: lam tron dien tich + ty le 2 chu so de cong bang mat khop tong khu dat va 100,00 % (truoc day co the ra 99,99). - Dien tich tung dong lam tron 0,01 m2; % nhom A, B, C lam tron chuan; dat cay xanh = phan con lai; % tung dong chia theo phan du lon nhat de cac dong cong dung % nhom (moi dong lech toi da 0,01). Mat do XD (A + B) giu dung so lam tron chuan. - Ghi vao 2 tham so moi 3K03-CBD_DienTich_LamTron / 3K03-CBD_TyLe_LamTron (tu tao); tuy chon thay 2 cot \"Dien tich XD\" /"
+    "version":  "2.0.45",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.45/HPCONS-BIM-Setup-2.0.45.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.45.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Vach son 3D / Model Line dat dung tren MAT floor (level + Height Offset From Level), khong con noi / chim khi floor co offset hay Project Base Point khac 0. - The 3 co bang cau hinh rieng: buoc 1 FLOOR \u0026 LEVEL (chon level dung nha xe, mac dinh = level cua floor; nen van la floor da chon), buoc 2-5 dung chung gia tri voi the 1, type mai / xa go / family khung lay tu FILE DANG MO (khong can chon file mau). - Cot theo LUOI TRUC co san (Huong khung Ngang nha): truc so = Grid cat qua floor vuong goc canh dai, hang cot giua = Grid song song canh dai trong ranh; dung lai truc co san (khong tao truc trun..."
 }
