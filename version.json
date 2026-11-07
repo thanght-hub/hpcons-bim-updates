@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.43",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.43/HPCONS-BIM-Setup-2.0.43.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.43.exe ben duoi, DONG Revit roi chay (can quyen Admin). - The \"Bo tri xe tren floor bat ky\" them nut \"TAO NHA XE TREN FLOOR DANG CHON / CLICK CHON\": dung du truc, khung cot, mai, xa go, mang xoi, up noc, diem + bo tri xe ngay tai vi tri floor trong FILE DANG MO (khong can file tong the / file mau rieng). Nut \"BO TRI XE ...\" (chi xe) giu nguyen. - Ranh floor = truc bien (canh dai = truc so, nha xe xoay theo floor); level = level cua floor; nen = chinh floor da chon. Bo tri xe, luoi truc, cao do, cau kien, mang - noc - diem lay dung cac buoc 2-5 cua the \"Nha xe 2 banh theo tong the\" (type / family phai co trong file dang mo). - Truc dat ten theo Mark cua ..."
+    "version":  "2.0.44",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.44/HPCONS-BIM-Setup-2.0.44.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.44.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Mo bang co cau su dung dat (schedule Floors) roi bam: lam tron dien tich + ty le 2 chu so de cong bang mat khop tong khu dat va 100,00 % (truoc day co the ra 99,99). - Dien tich tung dong lam tron 0,01 m2; % nhom A, B, C lam tron chuan; dat cay xanh = phan con lai; % tung dong chia theo phan du lon nhat de cac dong cong dung % nhom (moi dong lech toi da 0,01). Mat do XD (A + B) giu dung so lam tron chuan. - Ghi vao 2 tham so moi 3K03-CBD_DienTich_LamTron / 3K03-CBD_TyLe_LamTron (tu tao); tuy chon thay 2 cot \"Dien tich XD\" /"
 }
