@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.46",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.46/HPCONS-BIM-Setup-2.0.46.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.46.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nhip truc khong du cho phuong an: addin TU NOI dan trong gioi han quy chuan thay vi bao loi - tang so ve toi da (toi 6), giam be rong ve (khong duoi rong cua vao), ha khoang cach khung cua toi tuong dau (200 -\u003e 100 -\u003e 0), cuoi cung noi buoc di 2h+b (625 -\u003e 640/660/700, van giu h \u003c= 220, b \u003e= 250). Hop xac nhan ghi ro da noi gi. Vi du nhip 6000, tang 6500: 4 ve 8+8+8+8, h 203, b 250. - Sua loi thang khong du bac (desired 37 / actual 32) khi cao bac vuot \"bac toi da\" cua loai thang: doi loai thang nhan ban SAU khi dong StairsEditScope, dat lai so bac va dinh tung ve."
+    "version":  "2.0.47",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.47/HPCONS-BIM-Setup-2.0.47.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.47.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Copy doi tuong tu model Revit Link sang model hien tai: chon truc tiep trong link (pick) hoac theo category; giu nguyen kich thuoc, type va tham so instance; LUON tao type moi tu link (hau to \"(Link)\") de sua tham so / vat lieu trong model minh khong anh huong type san co. - Phan loai de quan ly rieng: 3 tham so CL_Nguon / CL_IdGoc / CL_NgayCopy (Identity Data) tren ban copy + Selection Set + View Filter \"CopyLink - \u003cten link\u003e\" (to mau cam trong view dang mo; dung duoc trong Schedule / Filter). - Kiem tra va cham: (A) doi tuong model minh (chon / da copy / ca model theo category) \u003c-\u003e (B) doi tuon..."
 }
