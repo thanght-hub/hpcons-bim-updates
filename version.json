@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.45",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.45/HPCONS-BIM-Setup-2.0.45.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.45.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Vach son 3D / Model Line dat dung tren MAT floor (level + Height Offset From Level), khong con noi / chim khi floor co offset hay Project Base Point khac 0. - The 3 co bang cau hinh rieng: buoc 1 FLOOR \u0026 LEVEL (chon level dung nha xe, mac dinh = level cua floor; nen van la floor da chon), buoc 2-5 dung chung gia tri voi the 1, type mai / xa go / family khung lay tu FILE DANG MO (khong can chon file mau). - Cot theo LUOI TRUC co san (Huong khung Ngang nha): truc so = Grid cat qua floor vuong goc canh dai, hang cot giua = Grid song song canh dai trong ranh; dung lai truc co san (khong tao truc trun..."
+    "version":  "2.0.46",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.46/HPCONS-BIM-Setup-2.0.46.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.46.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nhip truc khong du cho phuong an: addin TU NOI dan trong gioi han quy chuan thay vi bao loi - tang so ve toi da (toi 6), giam be rong ve (khong duoi rong cua vao), ha khoang cach khung cua toi tuong dau (200 -\u003e 100 -\u003e 0), cuoi cung noi buoc di 2h+b (625 -\u003e 640/660/700, van giu h \u003c= 220, b \u003e= 250). Hop xac nhan ghi ro da noi gi. Vi du nhip 6000, tang 6500: 4 ve 8+8+8+8, h 203, b 250. - Sua loi thang khong du bac (desired 37 / actual 32) khi cao bac vuot \"bac toi da\" cua loai thang: doi loai thang nhan ban SAU khi dong StairsEditScope, dat lai so bac va dinh tung ve."
 }
