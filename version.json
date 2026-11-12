@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.50",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.50/HPCONS-BIM-Setup-2.0.50.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.50.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Khi bam Dim Level tren mat dung / mat cat, neu view chua co vung che nen thi addin tu tao vung hatch che phan am: kieu vung to SOLID- W (masking trang), canh tren net \"7\", canh ben va day net an, be ngang + day theo khung crop cua view. - Mat dung: dinh phang tai level nen duong (SAN DUONG). - Mat cat: trong pham vi nha bi cat (san nen + tuong / cot 2 dau) dinh nang len cote nen hoan thien"
+    "version":  "2.0.51",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.51/HPCONS-BIM-Setup-2.0.51.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.51.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Sua loi ban 2.0.50: canh tren cua hatch che nen khong hien net dam \"7\". View da tao vung che bang 2.0.50: bam nut Che nen am de tao lai. - Dau level: tu chuyen sang 2D va giong thang hang; level thap nhat (SAN DUONG) them elbow xuong, level cao nhat (DINH MAI) them elbow len. - Bo cuc neo theo mep cong trinh: chuoi dim cach mep nha 8 mm (tren giay), dim tong cach 5 mm, dau level"
 }
