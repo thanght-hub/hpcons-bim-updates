@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.65",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.65/HPCONS-BIM-Setup-2.0.65.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.65.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Truoc day: lat hang muc co mai tick \"Giu\" + khoi in-place (mang xoi, diem mai...) bam canh mai thi bao loi \"Can\u0027t regenerate Family ...\" va \"Spot Dimension references are no longer valid\", khong lat duoc. - Nguyen nhan: net sketch mai bam vao mat tuong bien; khi 2 tuong doi dien doi cho thi 2 net mai cung bi keo doi cho. - Nay addin tu lat nguoc rieng mai va tra tung net sketch ve dung vi tri cu ngay trong luc lat -\u003e mai + khoi in-place giu nguyen vi tri, cot do doc o mat cat van dung."
+    "version":  "2.0.66",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.66/HPCONS-BIM-Setup-2.0.66.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.66.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Dim tong cach dau truc 3 mm giay, dim chuoi cach dau truc 9 mm giay (cach dim tong 6 mm), ve phia cong trinh; nhan theo ty le view (1/150 -\u003e 450 mm / 1350 mm). Khong con dim de len / trung / nam ngoai ky hieu dau truc. - Keo dau truc (2D hoac 3D) tren mat bang, mat dung, mat cat -\u003e dim truc tu doi theo ngay trong lenh keo (1 lan Undo). - Bam lai nut Dim truc (hoac Mat bang chinh / Mat dung chinh): dim truc da co duoc doi ve dung vi tri, khong tao trung. - Chi doi dim ma moi diem do deu la truc; dim lan tuong / cot giu nguyen."
 }
