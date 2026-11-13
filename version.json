@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.53",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.53/HPCONS-BIM-Setup-2.0.53.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.53.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nut moi Ky hieu mat dung, mat cat... tren thanh cong cu cua cua so Ghi chu vat lieu. - Moi vat lieu NHIN THAY trong view (mat tuong, tam vach, mat mai quay ve phia nguoi nhin, khong bi che) duoc dat 1 ky hieu #TM-Material : 03KyHieu_TuongMaiTran: cham dau dan nam tren mat vat lieu, ky hieu nam thang phia tren. - Pham vi: view dang mo (neu la sheet: moi mat dung, mat cat tren sheet do) hoac tat ca mat dung, mat cat da dat len sheet. - Tu dat ten ky hieu cho vat lieu chua co ky hieu theo quy uoc HPCONS: tuong / tam vach WE (ngoai) hoac WI (trong) - xet ten"
+    "version":  "2.0.54",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.54/HPCONS-BIM-Setup-2.0.54.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.54.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Sua loi ban 2.0.42 khi truc lat nam o mep nha: cot do doc trong mat cat bay ra ngoai, tag phong bi bat leader cheo dai, tag cua / tag vat lieu lech 1 nhip, dau level va dau truc vuong goc nam lai phia cu, kich thuoc truc trong mat dung vuong goc bi lat len dinh. - Ghi vi tri moi ghi chu truoc khi lat, sau khi lat dua ve dung anh lat (tag: dau tag, dau leader, khuy, bat/tat leader nhu cu); lat ca phan keo dai 3D + 2D cua level va truc vuong goc truc lat."
 }
