@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.62",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.62/HPCONS-BIM-Setup-2.0.62.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.62.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Khong ky hieu tole mat trong: vat lieu co ten chua \"MatTrong\" (vd Tol-VachTole_MatTrong_SongDung) duoc bo qua khi tu ky hieu. - Ma mau lien tuc, moi vat lieu mot ma: ma mau (M1, M2, ...) trong noi dung ghi chu duoc danh lai lien tuc, tang dan; hai vat lieu khac ky hieu thi ma mau khac nhau (vd WE2 son nuoc M1, WE3 tole M2). Chay tu dong sau khi tu ky hieu, va co nut moi \"Danh lai ma mau\" (xem truoc) tren form Ghi chu vat lieu. Chi vat lieu co ky hieu dang dung; ma gach / ma da giu nguyen. - Sua loi dat them ky hieu trung o mat dung / mat cat khong phai view dang mo."
+    "version":  "2.0.63",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.63/HPCONS-BIM-Setup-2.0.63.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.63.exe ben duoi, DONG Revit roi chay (can quyen Admin). Moi lan bam lenh, ky hieu va ghi chu vat lieu duoc CAP NHAT theo quy tac: - Tole mat trong khong co ky hieu, khong ghi chu: vat lieu ten chua \"MatTrong\" bi bo ky hieu (khong con dong trong bang ghi chu), tag cua no tren ban ve duoc xoa. - Tuong / vach nam trong nha ky hieu WI: vach dang mang WE ma nam han trong nha (vd vach luoi B40 ngan phong) duoc doi sang WI. - Ky hieu duoc danh so lai cho lien sau khi bo / doi (vd WE2 -\u003e WE1, WE3 -\u003e WE2); vat lieu cung ky hieu van dung chung."
 }
