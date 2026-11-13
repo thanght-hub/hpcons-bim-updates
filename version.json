@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.54",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.54/HPCONS-BIM-Setup-2.0.54.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.54.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Sua loi ban 2.0.42 khi truc lat nam o mep nha: cot do doc trong mat cat bay ra ngoai, tag phong bi bat leader cheo dai, tag cua / tag vat lieu lech 1 nhip, dau level va dau truc vuong goc nam lai phia cu, kich thuoc truc trong mat dung vuong goc bi lat len dinh. - Ghi vi tri moi ghi chu truoc khi lat, sau khi lat dua ve dung anh lat (tag: dau tag, dau leader, khuy, bat/tat leader nhu cu); lat ca phan keo dai 3D + 2D cua level va truc vuong goc truc lat."
+    "version":  "2.0.55",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.55/HPCONS-BIM-Setup-2.0.55.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.55.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Sau khi lat, ky hieu vat lieu (FG1, FG2...) nam trong khung cot cao do (o \"FG2 | +0.000\") giu nguyen vi tri tuong doi voi cot, khong con van ra ngoai khung. - Ky hieu vat lieu khong leader doc vat lieu tai diem dat: neu sau khi lat roi ra ngoai doi tuong gan (hien \"?\") thi tu doi ca cum cot + ky hieu vao trong."
 }
