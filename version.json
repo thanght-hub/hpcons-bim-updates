@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.51",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.51/HPCONS-BIM-Setup-2.0.51.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.51.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Sua loi ban 2.0.50: canh tren cua hatch che nen khong hien net dam \"7\". View da tao vung che bang 2.0.50: bam nut Che nen am de tao lai. - Dau level: tu chuyen sang 2D va giong thang hang; level thap nhat (SAN DUONG) them elbow xuong, level cao nhat (DINH MAI) them elbow len. - Bo cuc neo theo mep cong trinh: chuoi dim cach mep nha 8 mm (tren giay), dim tong cach 5 mm, dau level"
+    "version":  "2.0.52",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.52/HPCONS-BIM-Setup-2.0.52.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.52.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Sua loi khung hang giua \"khong join vao nen\": chan khung chi cham mat nen nen Join Geometry khong co tac dung, tren mat bang khung hang giua hien ca keo nhin tu tren xuong thay vi bi cat nhu cot hang bien. - Khi dung nha xe, chan khung nay duoc ha 2 mm vao nen va nen cat chan khung: moi cot deu hien kieu bi cat tren mat bang. - Nha xe da dung bang ban cu: dung lai (hoac ha khung 2 mm, Join Geometry roi Switch Join Order de nen cat khung)."
 }
