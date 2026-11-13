@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.60",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.60/HPCONS-BIM-Setup-2.0.60.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.60.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Mat bang mai tu danh do doc mai: moi mat mai doc chua co ky hieu do doc duoc dat ky hieu (kieu TrKh-Arial-H2.0-W0.8), khoang 16 m mot ky hieu, o giua chieu doc. Mat mai da co ky hieu thi giu nguyen. - Danh lai ky hieu cua di, cua so lien tuc trong tung nhom tien to (vd WL3 -\u003e WL1), xep theo be rong; tinh tren moi loai cua dang dat trong du an, ten type doi theo ky hieu moi. - Sua truong hop ky hieu vat lieu nen trong o cao do bi rong chu."
+    "version":  "2.0.61",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.61/HPCONS-BIM-Setup-2.0.61.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.61.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Tu dung lop tuong hoan thien trong nha, co che giong nut ngoai: chon loai tuong hoan thien (mac dinh loai \"Mor-\" co Function = Interior), tick loai tuong chinh duoc phu, pham vi tuong dang chon / trong view / ca du an. - Chi phu mat nam trong nha: ca hai mat tuong ngan va mat trong cua tuong bao; mat ngoai that duoc bo qua. - Day theo tuong chinh (khong keo xuong Level SAN DUONG). Tu Join voi tuong chinh, cua cat xuyen, tu noi goc. - Giu nguyen / cap nhat / xoa lop cu; nut ngoai va nut trong khong xoa nham lop cua nhau."
 }
