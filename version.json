@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.66",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.66/HPCONS-BIM-Setup-2.0.66.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.66.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Dim tong cach dau truc 3 mm giay, dim chuoi cach dau truc 9 mm giay (cach dim tong 6 mm), ve phia cong trinh; nhan theo ty le view (1/150 -\u003e 450 mm / 1350 mm). Khong con dim de len / trung / nam ngoai ky hieu dau truc. - Keo dau truc (2D hoac 3D) tren mat bang, mat dung, mat cat -\u003e dim truc tu doi theo ngay trong lenh keo (1 lan Undo). - Bam lai nut Dim truc (hoac Mat bang chinh / Mat dung chinh): dim truc da co duoc doi ve dung vi tri, khong tao trung. - Chi doi dim ma moi diem do deu la truc; dim lan tuong / cot giu nguyen."
+    "version":  "2.0.67",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.67/HPCONS-BIM-Setup-2.0.67.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.67.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Bam lai Dim truc: xoa moi dim truc cu cua view (ke ca dim cu lan diem do vao cot) roi tao lai 1 chuoi + 1 dim tong moi cum truc, khong con chong nhieu hang. Cum truc tinh theo duong truc dang hien tren view. - Bam lai Mat bang chinh: xoa tag phong, ky hieu cua, o cao do tren san, ky hieu vat lieu nen, ky hieu do doc mai, tag vach kinh cu roi tao lai. Tag da keo chinh tay se ve vi tri mac dinh. - File thieu loai tag \"#TM-Material : 01KyHieu_NenSan_MB\" thi tu tao (o ben trai cao do khong con trong)."
 }
