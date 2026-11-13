@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.57",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.57/HPCONS-BIM-Setup-2.0.57.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.57.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Mo mot mat bang (hoac sheet co dat mat bang) roi bam: addin tu dat dim truc, tag phong, o cao do nen kem ky hieu vat lieu nen, ky hieu cua di / cua so va ky hieu vat lieu mai (mat bang mai) trong 1 lan bam, 1 lan Undo. - Cua co ky hieu ve san trong family (tham so 9C01-HienThi_KHCua_) khong dat tag trung; dang tat thi bat phia trong. - Thanh phan da co trong view duoc giu nguyen. Nen chua co ky hieu vat lieu: chi dat o cao do (dat ky hieu o nut Ghi chu vat lieu). - Chua co: ky hieu do doc mai, dim noi bo phong, o cao do kieu dung, chu ghi chu."
+    "version":  "2.0.58",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.58/HPCONS-BIM-Setup-2.0.58.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.58.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Sua loi ban 2.0.57: nhan nut tren ribbon ghi nham \"Mat dung chinh\", da sua thanh \"Mat bang chinh\". - Tu dat ky hieu cua di, cua so (tham so type 9C01-KY HIEU CUA) theo quy tac HPCONS: nhom theo tien to ten type (D0, Df, Dr, Drf, De / W0, Ww, WL, WM, WF, WG, WCL; ten type khong co tien to thi lay o ten family), ma = tien to + so (D01, Df1...). Chi dat cho type chua co ky hieu dung dang; ky hieu dung dang duoc giu nguyen. - Ten type cua tu cap nhat theo ky hieu + kich thuoc: \u003cky hieu\u003e-\u003crong\u003ex\u003ccao\u003e (vd D01-3000x3000). Cac cua cung type ma khac"
 }
