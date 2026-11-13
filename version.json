@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.56",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.56/HPCONS-BIM-Setup-2.0.56.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.56.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Mo mot mat dung / mat cat (hoac sheet co dat cac view do) roi bam: addin tu trien khai dim truc, dim level (dau level 2D, elbow, che nen am, tach chu dim nho) va ky hieu vat lieu (tu dat ten ky hieu) trong 1 lan bam, 1 lan Undo. - Thanh phan da co trong view duoc giu nguyen, khong dat trung. Chua co: ky hieu do doc mai, tag cua, cao do diem. - Cac nhip nho (\u003c= 300 mm) ke nhau ma chu keo len se de len nhau: nhip duoi cung keo chu XUONG, nhip tren keo len. - Ban ve da dim bang ban truoc: chay lai Dim Level tren view do la chu tu tach. Chu da tu dat cho khac duoc giu nguyen."
+    "version":  "2.0.57",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.57/HPCONS-BIM-Setup-2.0.57.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.57.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Mo mot mat bang (hoac sheet co dat mat bang) roi bam: addin tu dat dim truc, tag phong, o cao do nen kem ky hieu vat lieu nen, ky hieu cua di / cua so va ky hieu vat lieu mai (mat bang mai) trong 1 lan bam, 1 lan Undo. - Cua co ky hieu ve san trong family (tham so 9C01-HienThi_KHCua_) khong dat tag trung; dang tat thi bat phia trong. - Thanh phan da co trong view duoc giu nguyen. Nen chua co ky hieu vat lieu: chi dat o cao do (dat ky hieu o nut Ghi chu vat lieu). - Chua co: ky hieu do doc mai, dim noi bo phong, o cao do kieu dung, chu ghi chu."
 }
