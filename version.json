@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.64",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.64/HPCONS-BIM-Setup-2.0.64.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.64.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Panel \"Trien khai chi tiet\" duoc tach thanh 2 panel: - Dung hinh: Copy tu Link, Kiem tra va cham, Mang xoi Diem mai, Room Tools, Fast Design, Tuong hoan thien, Chi Tiet Thang. - Trien khai: Ghi chu vat lieu, Thong tin khung ten, Mat bang chinh, Mat dung chinh, Chi Tiet Cua, Chi tiet dien hinh, Chi tiet vach kinh, Truc, Level. - Cac lenh giu nguyen ma lenh nen phim tat da gan khong mat."
+    "version":  "2.0.65",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.65/HPCONS-BIM-Setup-2.0.65.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.65.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Truoc day: lat hang muc co mai tick \"Giu\" + khoi in-place (mang xoi, diem mai...) bam canh mai thi bao loi \"Can\u0027t regenerate Family ...\" va \"Spot Dimension references are no longer valid\", khong lat duoc. - Nguyen nhan: net sketch mai bam vao mat tuong bien; khi 2 tuong doi dien doi cho thi 2 net mai cung bi keo doi cho. - Nay addin tu lat nguoc rieng mai va tra tung net sketch ve dung vi tri cu ngay trong luc lat -\u003e mai + khoi in-place giu nguyen vi tri, cot do doc o mat cat van dung."
 }
