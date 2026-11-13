@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.55",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.55/HPCONS-BIM-Setup-2.0.55.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.55.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Sau khi lat, ky hieu vat lieu (FG1, FG2...) nam trong khung cot cao do (o \"FG2 | +0.000\") giu nguyen vi tri tuong doi voi cot, khong con van ra ngoai khung. - Ky hieu vat lieu khong leader doc vat lieu tai diem dat: neu sau khi lat roi ra ngoai doi tuong gan (hien \"?\") thi tu doi ca cum cot + ky hieu vao trong."
+    "version":  "2.0.56",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.56/HPCONS-BIM-Setup-2.0.56.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.56.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Mo mot mat dung / mat cat (hoac sheet co dat cac view do) roi bam: addin tu trien khai dim truc, dim level (dau level 2D, elbow, che nen am, tach chu dim nho) va ky hieu vat lieu (tu dat ten ky hieu) trong 1 lan bam, 1 lan Undo. - Thanh phan da co trong view duoc giu nguyen, khong dat trung. Chua co: ky hieu do doc mai, tag cua, cao do diem. - Cac nhip nho (\u003c= 300 mm) ke nhau ma chu keo len se de len nhau: nhip duoi cung keo chu XUONG, nhip tren keo len. - Ban ve da dim bang ban truoc: chay lai Dim Level tren view do la chu tu tach. Chu da tu dat cho khac duoc giu nguyen."
 }
