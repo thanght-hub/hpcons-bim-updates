@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.67",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.67/HPCONS-BIM-Setup-2.0.67.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.67.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Bam lai Dim truc: xoa moi dim truc cu cua view (ke ca dim cu lan diem do vao cot) roi tao lai 1 chuoi + 1 dim tong moi cum truc, khong con chong nhieu hang. Cum truc tinh theo duong truc dang hien tren view. - Bam lai Mat bang chinh: xoa tag phong, ky hieu cua, o cao do tren san, ky hieu vat lieu nen, ky hieu do doc mai, tag vach kinh cu roi tao lai. Tag da keo chinh tay se ve vi tri mac dinh. - File thieu loai tag \"#TM-Material : 01KyHieu_NenSan_MB\" thi tu tao (o ben trai cao do khong con trong)."
+    "version":  "2.0.68",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.68/HPCONS-BIM-Setup-2.0.68.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.68.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Property Line cua 1 tang gom nhieu duong bao kin ROI NHAU (vi du 2 khoi nha 5x4 cach nhau) truoc day bao \"Phuc tap - kiem tra tay\"; nay tu tach tung duong bao, tinh rieng roi cong lai: \"S1: 54 + 54\". - Thu tu giu quy tac cu: dien tich giam dan tren toan bo cac manh; hinh bang nhau van ghi rieng tung hinh. Moi duong bao co the la hinh chu nhat hoac hinh ghep (chu L, chu T, bac thang...). - Van bao \"Phuc tap - kiem tra tay\" (khong tu bia cong thuc): duong bao ho, duong bao nam long trong duong bao"
 }
