@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.80",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.80/HPCONS-BIM-Setup-2.0.80.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.80.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nut \"Doi ve goc\" (tab HPCONS-DESIGNS, panel Trien khai chi tiet): doi toan bo mo hinh de giao cua 2 truc duoc chon ve dung goc toa do cua project (Internal Origin) hoac Project Base Point. - Doi: phan tu mo hinh, ky hieu mat cat va mat dung, ghi chu 2D trong cac view mo hinh. Giu nguyen: Level, diem goc, drafting view, legend, sheet. - Hop thoai hien toa do diem giao, khoang doi va so phan tu truoc khi bam; chon 2 truc song song thi khoa nut."
+    "version":  "2.0.81",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.81/HPCONS-BIM-Setup-2.0.81.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.81.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Level nay doi ngang cung mo hinh, nen duong level va dau level tren mat dung, mat cat chay theo cong trinh. Cao do cac level giu nguyen. Ban 2.0.80 de Level dung yen nen duong level bi lech khoi cong trinh. - Dim cao do bam level doi dung mot lan cung level. - File da doi bang ban 2.0.80: Ctrl+Z lenh doi roi doi lai bang ban nay, hoac keo duong level ve cong trinh bang tay. ---"
 }
