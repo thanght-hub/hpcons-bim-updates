@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.79",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.79/HPCONS-BIM-Setup-2.0.79.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.79.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Sua loi bam \"Ap dung vao model\" bao \"Da ghi 0 type\" ma noi dung khong vao model: o file mau moi, ghi chu Bao gia / BOQ cua type cua dang gan vao global parameter dung chung (vi du Cua-BGia_CuonNhom) nen tham so type bi khoa. - Khi sua noi dung cua dong dang gan global parameter, addin hoi 1 lan cho dong do: + Sua chung: ghi vao global parameter, moi type gan chung doi theo (luoi cap nhat ngay cac dong cung nhom). + Tach rieng: go lien ket global parameter cua rieng type do (noi dung va ban dich di cap) roi ghi gia tri rieng."
+    "version":  "2.0.80",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.80/HPCONS-BIM-Setup-2.0.80.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.80.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nut \"Doi ve goc\" (tab HPCONS-DESIGNS, panel Trien khai chi tiet): doi toan bo mo hinh de giao cua 2 truc duoc chon ve dung goc toa do cua project (Internal Origin) hoac Project Base Point. - Doi: phan tu mo hinh, ky hieu mat cat va mat dung, ghi chu 2D trong cac view mo hinh. Giu nguyen: Level, diem goc, drafting view, legend, sheet. - Hop thoai hien toa do diem giao, khoang doi va so phan tu truoc khi bam; chon 2 truc song song thi khoa nut."
 }
