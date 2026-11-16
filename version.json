@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.70",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.70/HPCONS-BIM-Setup-2.0.70.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.70.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Tham so moi 2QT_0KyHieuHM (chu) cho Property Lines va moc dinh vi (Data Devices): ghi ky hieu hang muc con (vi du B202) de file tong the tach dien tich, cong thuc, chieu cao theo tung hang muc ben trong 1 file link. De trong thi van lay ky hieu cua file nhu truoc. - Cong thuc san tang (chay trong file link): bang co them cot Ten va o nhap Ky hieu HM; buoc 1 co nut \"Ghi ky hieu HM\" (tu gan tham so neu file chua co). Buoc 5 cong tong dien tich theo tung hang muc con;"
+    "version":  "2.0.71",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.71/HPCONS-BIM-Setup-2.0.71.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.71.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Sua loi: ky hieu go vao cot \"Ky hieu HM\" khong duoc luu neu bam cac nut buoc 2 den 5 ma khong bam lai \"Ghi ky hieu HM\" (bang chi hien sau khi Quet nen nut o buoc 1 hay bi bam truoc khi go). Nay moi nut ghi (Ghi cong thuc, Ghi 9A01-DienTich_IT, Tao dim kich thuoc, Ghi 2QT_4TongS_San_Auto) tu luu ky hieu vua nhap truoc khi chay. - Nut \"Ghi ky hieu HM\" khi chua co ky hieu nao se bao ro can nhap vao cot \"Ky hieu HM\" roi bam lai."
 }
