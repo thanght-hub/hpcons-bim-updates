@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.74",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.74/HPCONS-BIM-Setup-2.0.74.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.74.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Lo cua (family / type co ten chua \"LoCua\", vi du 0D-LoCua_Loai1, 0CD-LoCua_IT): khong dat ky hieu, khong gan tag (het luc giac trong o lo cua). Chua bam nut that tren ribbon (moi kiem bo loc tren file that)."
+    "version":  "2.0.75",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.75/HPCONS-BIM-Setup-2.0.75.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.75.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Tham so 9T01-TextTenDiem cua moc tu cap nhat theo giao diem 2 truc gan moc nhat, dang \"truc so-truc chu\" (vi du 13-I). - Tu chay khi dat, copy, doi cho moc va khi them, xoa, doi ten, doi cho truc. Cac nut ghi cua Cong thuc san tang cung ra lai toan bo moc trong file de sua ten mau cu (99-A, 1-Z). - Moc cach giao diem gan nhat qua 500 mm thi giu nguyen ten. - Truoc day phai bam 2 lan thi ky hieu va Top Level moi duoc ghi vao moc, bam 1 lan thi bang chieu cao o file tong the"
 }
