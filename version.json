@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.77",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.77/HPCONS-BIM-Setup-2.0.77.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.77.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nut \"Ghi ky hieu HM\": hang muc con chua co moc MocDinhViHMuc_Links thi addin tu tao moc moi tai goc duong ranh cua hang muc (uu tien goc nam tren truc, chua co moc), khong lay bot 3 moc dinh vi cua nha chinh. - Moc chua co ky hieu thuoc ve hang muc co goc duong ranh trung vi tri moc. Dinh hang muc duoc ghi cho moi moc cung ky hieu. - Moc nam tren truc thi lay ten truc do; nam giua 2 truc thi lay ten 2 truc ke hai ben, vi du \"13-C,C\u0027\". - Bo quy tac cu \"cach giao diem qua 500 mm thi giu nguyen ten\"."
+    "version":  "2.0.78",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.78/HPCONS-BIM-Setup-2.0.78.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.78.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Sua loi bang chieu cao o file tong the con 1 dong trong ky hieu hang muc con (vi du P302): nut \"Ghi ky hieu HM\" nay gan ky hieu cho moi moc chua co ky hieu nam o goc duong ranh cua hang muc con, ke ca khi hang muc do da co moc khac. Dinh (Top Level, Top Offset) lay theo moc dang mang ky hieu do. Chua bam nut that tren ribbon."
 }
