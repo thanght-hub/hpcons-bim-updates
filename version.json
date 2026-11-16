@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.73",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.73/HPCONS-BIM-Setup-2.0.73.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.73.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Khung luoi (Curtain Wall co ten loai chua \"KhungLuoi\" / \"VachLuoi\") ky hieu VL1, VL2... danh so rieng voi vach kinh VK; ten loai doi duoi \"_VLn\". Loai chi mot vach dung thi doi ten tai cho, khong sinh loai thua. LUU Y: so VK tren ban ve cu se doi sau khi bam lai (khung luoi khong con chiem so VK). - Cua di, cua so nam trong vach kinh / vach luoi: khong dat ky hieu, khong gan tag (het luc giac trong). - Tag vach kinh / khung luoi tu tim cho trong: khong de len tag phong, text, o cao do, ky hieu cua va cac tag vach khac."
+    "version":  "2.0.74",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.74/HPCONS-BIM-Setup-2.0.74.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.74.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Lo cua (family / type co ten chua \"LoCua\", vi du 0D-LoCua_Loai1, 0CD-LoCua_IT): khong dat ky hieu, khong gan tag (het luc giac trong o lo cua). Chua bam nut that tren ribbon (moi kiem bo loc tren file that)."
 }
