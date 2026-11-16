@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.71",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.71/HPCONS-BIM-Setup-2.0.71.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.71.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Sua loi: ky hieu go vao cot \"Ky hieu HM\" khong duoc luu neu bam cac nut buoc 2 den 5 ma khong bam lai \"Ghi ky hieu HM\" (bang chi hien sau khi Quet nen nut o buoc 1 hay bi bam truoc khi go). Nay moi nut ghi (Ghi cong thuc, Ghi 9A01-DienTich_IT, Tao dim kich thuoc, Ghi 2QT_4TongS_San_Auto) tu luu ky hieu vua nhap truoc khi chay. - Nut \"Ghi ky hieu HM\" khi chua co ky hieu nao se bao ro can nhap vao cot \"Ky hieu HM\" roi bam lai."
+    "version":  "2.0.72",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.72/HPCONS-BIM-Setup-2.0.72.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.72.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Bang co them cot \"Dinh hang muc\" (chon Level + offset mm) va cot \"Chieu cao\" cho tung Property Line co ky hieu HM. Chu mau cam = chua ghi vao moc. - Goi y dinh: diem cao nhat cua mai nam trong duong ranh, quy ve Level gan nhat (khong co mai thi lay tuong, cot, dam, san). Day chi la goi y - kiem tra va sua dong sai truoc khi ghi. - Nut \"Ghi ky hieu HM\": lan bam dau ghi ky hieu va hien goi y; bam lan nua thi tu gan ky hieu + Top Level cho moc"
 }
