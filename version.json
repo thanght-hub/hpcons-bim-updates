@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.76",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.76/HPCONS-BIM-Setup-2.0.76.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.76.exe ben duoi, DONG Revit roi chay (can quyen Admin). - O cao do: neu vi tri mac dinh (duoi ten phong) de len ghi chu / ky hieu khac thi tu doi xuong, len tren ten phong hoac sang ngang. O cua phong nao luon nam trong phong do, tren dung mat san, ky hieu vat lieu khong roi vao tuong. - Ky hieu cua di, cua so: giu dung phia (cua di phia trong, cua so phia ngoai), truot trong pham vi be rong cua roi lui xa tuong dan. - Thu tu dat: tag phong -\u003e o cao do -\u003e ky hieu cua -\u003e tag vach; cai dat sau tranh cai dat truoc. - Phong nho kin chu (WC 4-5 m2) khong con cho trong: van dat o vi tri mac dinh va bao \"can keo tay\" trong bao cao."
+    "version":  "2.0.77",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.77/HPCONS-BIM-Setup-2.0.77.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.77.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nut \"Ghi ky hieu HM\": hang muc con chua co moc MocDinhViHMuc_Links thi addin tu tao moc moi tai goc duong ranh cua hang muc (uu tien goc nam tren truc, chua co moc), khong lay bot 3 moc dinh vi cua nha chinh. - Moc chua co ky hieu thuoc ve hang muc co goc duong ranh trung vi tri moc. Dinh hang muc duoc ghi cho moi moc cung ky hieu. - Moc nam tren truc thi lay ten truc do; nam giua 2 truc thi lay ten 2 truc ke hai ben, vi du \"13-C,C\u0027\". - Bo quy tac cu \"cach giao diem qua 500 mm thi giu nguyen ten\"."
 }
