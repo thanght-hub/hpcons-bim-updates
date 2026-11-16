@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.75",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.75/HPCONS-BIM-Setup-2.0.75.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.75.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Tham so 9T01-TextTenDiem cua moc tu cap nhat theo giao diem 2 truc gan moc nhat, dang \"truc so-truc chu\" (vi du 13-I). - Tu chay khi dat, copy, doi cho moc va khi them, xoa, doi ten, doi cho truc. Cac nut ghi cua Cong thuc san tang cung ra lai toan bo moc trong file de sua ten mau cu (99-A, 1-Z). - Moc cach giao diem gan nhat qua 500 mm thi giu nguyen ten. - Truoc day phai bam 2 lan thi ky hieu va Top Level moi duoc ghi vao moc, bam 1 lan thi bang chieu cao o file tong the"
+    "version":  "2.0.76",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.76/HPCONS-BIM-Setup-2.0.76.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.76.exe ben duoi, DONG Revit roi chay (can quyen Admin). - O cao do: neu vi tri mac dinh (duoi ten phong) de len ghi chu / ky hieu khac thi tu doi xuong, len tren ten phong hoac sang ngang. O cua phong nao luon nam trong phong do, tren dung mat san, ky hieu vat lieu khong roi vao tuong. - Ky hieu cua di, cua so: giu dung phia (cua di phia trong, cua so phia ngoai), truot trong pham vi be rong cua roi lui xa tuong dan. - Thu tu dat: tag phong -\u003e o cao do -\u003e ky hieu cua -\u003e tag vach; cai dat sau tranh cai dat truoc. - Phong nho kin chu (WC 4-5 m2) khong con cho trong: van dat o vi tri mac dinh va bao \"can keo tay\" trong bao cao."
 }
