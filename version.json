@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.81",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.81/HPCONS-BIM-Setup-2.0.81.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.81.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Level nay doi ngang cung mo hinh, nen duong level va dau level tren mat dung, mat cat chay theo cong trinh. Cao do cac level giu nguyen. Ban 2.0.80 de Level dung yen nen duong level bi lech khoi cong trinh. - Dim cao do bam level doi dung mot lan cung level. - File da doi bang ban 2.0.80: Ctrl+Z lenh doi roi doi lai bang ban nay, hoac keo duong level ve cong trinh bang tay. ---"
+    "version":  "2.0.82",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.82/HPCONS-BIM-Setup-2.0.82.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.82.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nut moi \"Dem xe 2 banh\" trong nhom Fast Design (va nut cam \"DEM XE TRONG VIEW DANG MO\" trong cua so Nha xe 2 banh, the \"Bo tri xe tren floor bat ky\"): tinh so xe dang bo tri trong view mat bang dang mo. - Dang mo sheet thi dem moi mat bang tren sheet; dang chon san mot so cum xe thi chi dem phan dang chon. - Dem Detail Item XeMay, family Planting XE-XeMay..., xe dap; so xe moi cum theo SL_Tong / 9I01-SoNguyen_IT. - Cum xe nam chong dung vi tri cum khac (copy de) chi tinh 1 lan va duoc bao rieng, co nut chon cac cum thua de xoa."
 }
