@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.82",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.82/HPCONS-BIM-Setup-2.0.82.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.82.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nut moi \"Dem xe 2 banh\" trong nhom Fast Design (va nut cam \"DEM XE TRONG VIEW DANG MO\" trong cua so Nha xe 2 banh, the \"Bo tri xe tren floor bat ky\"): tinh so xe dang bo tri trong view mat bang dang mo. - Dang mo sheet thi dem moi mat bang tren sheet; dang chon san mot so cum xe thi chi dem phan dang chon. - Dem Detail Item XeMay, family Planting XE-XeMay..., xe dap; so xe moi cum theo SL_Tong / 9I01-SoNguyen_IT. - Cum xe nam chong dung vi tri cum khac (copy de) chi tinh 1 lan va duoc bao rieng, co nut chon cac cum thua de xoa."
+    "version":  "2.0.83",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.83/HPCONS-BIM-Setup-2.0.83.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.83.exe ben duoi, DONG Revit roi chay (can quyen Admin). - File bo cai 2.0.82 bi hong luc dong goi: khi cai bao \"The source file is corrupted\" (XuatCadLogic.dll). Ai dang gap hop loi do: bam Cancel installation roi cai ban 2.0.83 nay. Ai da bam Skip cung cai lai ban nay. - Noi dung giong 2.0.82: lenh moi \"Dem xe 2 banh\" (nhom Fast Design + nut cam trong cua so Nha xe 2 banh) - tinh so xe dang bo tri trong view mat bang dang mo / moi mat bang tren sheet / phan dang chon; cum xe copy de chi tinh 1 lan va duoc bao rieng; tuy chon ghi so xe vao ten view dang \"MAT BANG TANG 2 ( 194 XE )\"."
 }
