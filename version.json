@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.83",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.83/HPCONS-BIM-Setup-2.0.83.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.83.exe ben duoi, DONG Revit roi chay (can quyen Admin). - File bo cai 2.0.82 bi hong luc dong goi: khi cai bao \"The source file is corrupted\" (XuatCadLogic.dll). Ai dang gap hop loi do: bam Cancel installation roi cai ban 2.0.83 nay. Ai da bam Skip cung cai lai ban nay. - Noi dung giong 2.0.82: lenh moi \"Dem xe 2 banh\" (nhom Fast Design + nut cam trong cua so Nha xe 2 banh) - tinh so xe dang bo tri trong view mat bang dang mo / moi mat bang tren sheet / phan dang chon; cum xe copy de chi tinh 1 lan va duoc bao rieng; tuy chon ghi so xe vao ten view dang \"MAT BANG TANG 2 ( 194 XE )\"."
+    "version":  "2.0.84",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.84/HPCONS-BIM-Setup-2.0.84.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.84.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nut \"Mat dung chinh\" doi ten thanh \"Mat dung, mat cat chinh\" (vi tri tren ribbon va phim tat giu nguyen). - Khi mat cat di ngang qua tran, bam nut se tu tao them: thanh treo tran (Repeating Detail ThanhTreoTran doc mat tren tran), dim cao do tran (tu Level toi mat duoi tran, vd 2600) va ky hieu vat lieu tran (tag co dau dan, treo phia duoi tran). - Thanh treo tu rut ngan o cho mai / san / dam phia tren thap hon chieu cao chuan (tu tao kieu ThanhTreoTran_650, _550...). - Luu y: du an phai co san it nhat 1 doan ThanhTreoTran (o view nao cung duoc, ke ca Legend) de addin sao chep;"
 }
