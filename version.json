@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.86",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.86/HPCONS-BIM-Setup-2.0.86.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.86.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Sua loi Revit bao \"The top of the Wall is lower than the base of the Wall\" lam huy ca lenh (mang vua hinh tam giac sat mai). - Khong con phu vua len cot, dam THEP / go / nhom. Truoc day canh cot I, canh dam phang mat tuong lam vung phu thanh mot bien dang rat lon, Revit khong dung duoc va mat luon lop vua cua tuong gach tren mat do. - Tuong hoan thien ngoai (co tick \"chi mat ngoai troi\"): xet ca hai mat tuong. Mat trong cua tuong chan mai, tuong buong thang ho, nha xe khong tuong bao (nam ngoai troi) nay duoc phu; truoc day khong lenh nao phu cac mat nay."
+    "version":  "2.0.87",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.87/HPCONS-BIM-Setup-2.0.87.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.87.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Tu ky hieu vat lieu tren mat dung, mat cat, mat bang mai (nut Ghi chu vat lieu, Mat dung mat cat chinh, Mat bang chinh) khong con dat tag len diem, mang xoi. - Nhan dang theo ten: ten vat lieu, ten loai hoac ten family co chua Diem / MangXoi / Mang xoi / Gutter / Fascia (vd vat lieu Tol-ToleDiem_MaMau_M1). Diem, mang xoi dat ten khac thi van bi tag - bao lai de bo sung. - Ky hieu (Mark) dang co cua vat lieu diem, mang xoi giu nguyen. Tag da dat tu truoc khong tu xoa - xoa tay neu khong can."
 }
