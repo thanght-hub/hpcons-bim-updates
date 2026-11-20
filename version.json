@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.84",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.84/HPCONS-BIM-Setup-2.0.84.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.84.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nut \"Mat dung chinh\" doi ten thanh \"Mat dung, mat cat chinh\" (vi tri tren ribbon va phim tat giu nguyen). - Khi mat cat di ngang qua tran, bam nut se tu tao them: thanh treo tran (Repeating Detail ThanhTreoTran doc mat tren tran), dim cao do tran (tu Level toi mat duoi tran, vd 2600) va ky hieu vat lieu tran (tag co dau dan, treo phia duoi tran). - Thanh treo tu rut ngan o cho mai / san / dam phia tren thap hon chieu cao chuan (tu tao kieu ThanhTreoTran_650, _550...). - Luu y: du an phai co san it nhat 1 doan ThanhTreoTran (o view nao cung duoc, ke ca Legend) de addin sao chep;"
+    "version":  "2.0.85",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.85/HPCONS-BIM-Setup-2.0.85.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.85.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nguyen tac moi: chieu nghi THONG THUY (da tru khe ho giua chieu nghi thep va tuong) khong hep hon be rong ve thang. Truoc day chieu nghi do tu mat tuong nen thuc te hep hon ve dung bang khe tuong (vd 1250 so voi ve 1350). Buong thang dung moi se dai them 1 - 2 lan khe tuong so voi ban cu. - Nhip truc khong du: truoc khi noi bat ky thong so nao, addin thu DON BAC VAO CAC VE GIUA (vd 8+9+9+9+8+8). Ve dau va ve cuoi cua moi tang ngan hon de khong lan vung san truoc cua; cac ve giua dai hon. Khong vi pham quy tac nao."
 }
