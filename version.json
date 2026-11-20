@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.88",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.88/HPCONS-BIM-Setup-2.0.88.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.88.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Truoc khi tu ky hieu vat lieu (nut Ghi chu vat lieu, nut Mat dung mat cat chinh), addin kiem tra cac vach tole trong view: vach nao dang quay MAT TRONG ra ngoai nha (vat lieu ten chua MatTrong nam phia ngoai troi) se duoc bao trong mot hop thoai. - Hop thoai cho chon \"Lat N vach cho dung chieu\" hoac \"Bo qua, giu nguyen\". Lat xong vach van o dung vi tri cu; vach nao lat lam lech mai thi addin giu nguyen vach do va bao de lat tay. Vach dang ghim hoac nam trong Group khong lat. - Vi sao can: vach dung nguoc lam mat dung thieu ky hieu vat lieu vach tole ngoai that va thong ke vat lieu bi dao mat."
+    "version":  "2.0.89",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.89/HPCONS-BIM-Setup-2.0.89.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.89.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Mat cat khong con cat qua tran (doi mat cat, xoa hoac thu ngan tran): bam nut se tu xoa thanh treo tran, dim cao do tran, ky hieu vat lieu tran khong con khop. Tran van bi cat nhung doi kich thuoc thi phan cu duoc tao lai theo doan cat moi. Luu y: thanh phan tran ve tay khong con khop cung bi xoa. - Tu ky hieu vat lieu nen, san hoan thien tren mat cat: moi nen / san bi mat cat cat qua (ke ca ram doc) nhan mot tag 02KyHieu_NenSan_MC cho vat lieu lop tren cung, ky hieu nam phia tren mat san. Moi vat lieu mot tag trong view;"
 }
