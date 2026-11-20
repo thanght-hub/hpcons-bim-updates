@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.89",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.89/HPCONS-BIM-Setup-2.0.89.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.89.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Mat cat khong con cat qua tran (doi mat cat, xoa hoac thu ngan tran): bam nut se tu xoa thanh treo tran, dim cao do tran, ky hieu vat lieu tran khong con khop. Tran van bi cat nhung doi kich thuoc thi phan cu duoc tao lai theo doan cat moi. Luu y: thanh phan tran ve tay khong con khop cung bi xoa. - Tu ky hieu vat lieu nen, san hoan thien tren mat cat: moi nen / san bi mat cat cat qua (ke ca ram doc) nhan mot tag 02KyHieu_NenSan_MC cho vat lieu lop tren cung, ky hieu nam phia tren mat san. Moi vat lieu mot tag trong view;"
+    "version":  "2.0.90",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.90/HPCONS-BIM-Setup-2.0.90.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.90.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nut \"Thang thep op da\" trong nhom Chi Tiet Thang (panel Dung hinh): chon thang da hoan thien da dung bang lenh Stair (ve thang), addin tu dung khung thep do ben duoi: con thang PL20x290, khay bac thep tam 5 chan, ke do L75x5 kem bu long, suon tren khay, ton + vien + xa + dam chieu nghi (thang chu U), ban de chan thang. - Khung thep suy ra tu mat da hoan thien nen doi kich thuoc bac, be rong ve thi chay lai la khung thep theo. Go khay, suon, vien chieu nghi dung o mat duoi tam da (thep khong cat qua da)."
 }
