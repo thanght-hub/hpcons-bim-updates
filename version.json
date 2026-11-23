@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.92",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.92/HPCONS-BIM-Setup-2.0.92.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.92.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Property Line co canh xien (truoc day bao \"Phuc tap - kiem tra tay\") nay duoc chia thanh cac dai giua cac dinh lien tiep, moi dai = be rong x trung binh 2 canh ben. Cong thuc van o dang tong cac tich 2 so nen buoc 3 \"Ghi 9A01-DienTich_IT\" doc duoc. - Tong theo cong thuc khop dien tich Area cua Revit: sai so lam tron duoc don vao so thu hai cua dai hinh thang lon nhat (so nay co the co 4 so le tro len). - Buoc 4 \"Tao dim kich thuoc\": hinh chia dai duoc ve net chia dai + dim canh ben tung dai + 1 chuoi dim be rong cac dai;"
+    "version":  "2.0.93",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.93/HPCONS-BIM-Setup-2.0.93.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.93.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Dai hinh thang nay duoc ghi thanh hinh chu nhat (phan chung 2 canh ben) cong tam giac (phan chenh, co \"/2\"), thay cho cach \"be rong x trung binh 2 canh ben\" cua ban 2.0.92. Moi so trong cong thuc deu do duoc tren hinh, ghi toi mm. - Buoc 3 \"Ghi 9A01-DienTich_IT\" doc duoc so hang co \"/2\". - Buoc 4 \"Tao dim kich thuoc\": canh ben cua dai hinh thang duoc tach dim tai moc phan chung (canh chu nhat va canh tam giac). - Khong con so bu lam tron: tong theo cong thuc co the lech Area vai phan nghin m2 khi dinh canh xien co toa do le duoi mm."
 }
