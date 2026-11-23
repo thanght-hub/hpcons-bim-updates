@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.91",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.91/HPCONS-BIM-Setup-2.0.91.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.91.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Cho ve tren cung gap san: addin tu tao dam I do dinh thang (cung tiet dien dam chieu nghi) ngay sau tam co bac cuoi, mat tren bang cao do dinh thang, dai het be ngang buong thang. - Dau con tai dinh thang doi hinh: mep tren theo duong mui bac len toi mat tren dam, chay ngang qua mep xa canh dam 50, ha dung xuong day dam roi chay ngang ve gap mep duoi con (dau con cao bang dam, truoc day thap hon san 150 va cao 290). - Hop thoai: hai o moi \"Mat tren dam dinh thap hon dinh thang\", \"Dau con keo qua mep xa dam dinh\" va o tick tao dam dinh."
+    "version":  "2.0.92",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.92/HPCONS-BIM-Setup-2.0.92.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.92.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Property Line co canh xien (truoc day bao \"Phuc tap - kiem tra tay\") nay duoc chia thanh cac dai giua cac dinh lien tiep, moi dai = be rong x trung binh 2 canh ben. Cong thuc van o dang tong cac tich 2 so nen buoc 3 \"Ghi 9A01-DienTich_IT\" doc duoc. - Tong theo cong thuc khop dien tich Area cua Revit: sai so lam tron duoc don vao so thu hai cua dai hinh thang lon nhat (so nay co the co 4 so le tro len). - Buoc 4 \"Tao dim kich thuoc\": hinh chia dai duoc ve net chia dai + dim canh ben tung dai + 1 chuoi dim be rong cac dai;"
 }
