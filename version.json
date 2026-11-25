@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.93",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.93/HPCONS-BIM-Setup-2.0.93.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.93.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Dai hinh thang nay duoc ghi thanh hinh chu nhat (phan chung 2 canh ben) cong tam giac (phan chenh, co \"/2\"), thay cho cach \"be rong x trung binh 2 canh ben\" cua ban 2.0.92. Moi so trong cong thuc deu do duoc tren hinh, ghi toi mm. - Buoc 3 \"Ghi 9A01-DienTich_IT\" doc duoc so hang co \"/2\". - Buoc 4 \"Tao dim kich thuoc\": canh ben cua dai hinh thang duoc tach dim tai moc phan chung (canh chu nhat va canh tam giac). - Khong con so bu lam tron: tong theo cong thuc co the lech Area vai phan nghin m2 khi dinh canh xien co toa do le duoi mm."
+    "version":  "2.0.94",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.94/HPCONS-BIM-Setup-2.0.94.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.94.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Mo cua so nhanh hon han: danh sach chi tiet hien ngay sau khi quet Legend, anh xem truoc duoc xuat chay nen va hien dan. Anh da xuat duoc giu lai giua cac lan luu file Revit (truoc day moi lan luu la phai xuat lai toan bo anh). Lan mo dau tien sau khi cai ban nay se xuat lai anh mot lan. - Giu Shift khi bam \"Lam moi\" de xuat lai toan bo anh xem truoc (dung khi sua noi dung chi tiet ma anh chua doi). - Khung \"Xem truoc\" lon gap doi va to theo khi phong to cua so."
 }
