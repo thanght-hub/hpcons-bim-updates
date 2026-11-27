@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.95",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.95/HPCONS-BIM-Setup-2.0.95.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.95.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nut moi \"Tinh thoat nuoc mua...\" trong hop thoai Mang xoi / Diem mai: tinh cho cac canh dang tick Mang, khong thay doi model. - Co so: TCVN 4474:1987 muc 9. Luu luong Q = K x F x q5 / 10000 (K = 2), cuong do mua q5 cua 47 dia phuong theo phu luc tieu chuan (dia phuong khong co trong danh muc thi chon dia phuong lan can). - Dien tich thu nuoc F duoc do tu dong theo tung mat mai do ve tung tuyen mang; co cot nhap them dien tich (tuong dung ke, mai tren do xuong). - Ong xoi: so ong moi tuyen theo luu luong (ong dung D80 / D100 / D150 / D200 = 10 / 20 / 50 / 80 l/s), theo khoang cach toi da va toi th..."
+    "version":  "2.0.96",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.96/HPCONS-BIM-Setup-2.0.96.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.96.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nut \"Cap thoat nuoc 3D\" (tab HPCONS-DESIGNS, panel Trien khai tong the). Chon file DWG / DXF mat bang thoat nuoc mua, thoat nuoc thai, cap nuoc. - Tu nhan tuyen cong / ong theo layer, ho ga va van / voi theo block; bang \"layer / block - vai tro\" sua duoc va luu lai cho du an sau. - Doc nhan duong kinh, do doc (D300,i=0.35%,L=24.0M) va cao do day cong (Dy-C:-0.850) de dat ong dung do doc, ho ga dung chieu sau. - File CAD ve 3 mat bang lech nhau (moi he mot ban sao mat bang): tu quy ve mot goc theo block ban nen chung. - Dung bang 3 family tham so dung lai duoc: HP-CTN-Ong (ong / cong rong, dat the..."
 }
