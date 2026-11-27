@@ -1,5 +1,5 @@
 {
-    "version":  "2.0.94",
-    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.94/HPCONS-BIM-Setup-2.0.94.exe",
-    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.94.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Mo cua so nhanh hon han: danh sach chi tiet hien ngay sau khi quet Legend, anh xem truoc duoc xuat chay nen va hien dan. Anh da xuat duoc giu lai giua cac lan luu file Revit (truoc day moi lan luu la phai xuat lai toan bo anh). Lan mo dau tien sau khi cai ban nay se xuat lai anh mot lan. - Giu Shift khi bam \"Lam moi\" de xuat lai toan bo anh xem truoc (dung khi sua noi dung chi tiet ma anh chua doi). - Khung \"Xem truoc\" lon gap doi va to theo khi phong to cua so."
+    "version":  "2.0.95",
+    "url":  "https://github.com/thanght-hub/hpcons-bim-updates/releases/download/bim-v2.0.95/HPCONS-BIM-Setup-2.0.95.exe",
+    "notes":  "Cai dat: tai file HPCONS-BIM-Setup-2.0.95.exe ben duoi, DONG Revit roi chay (can quyen Admin). - Nut moi \"Tinh thoat nuoc mua...\" trong hop thoai Mang xoi / Diem mai: tinh cho cac canh dang tick Mang, khong thay doi model. - Co so: TCVN 4474:1987 muc 9. Luu luong Q = K x F x q5 / 10000 (K = 2), cuong do mua q5 cua 47 dia phuong theo phu luc tieu chuan (dia phuong khong co trong danh muc thi chon dia phuong lan can). - Dien tich thu nuoc F duoc do tu dong theo tung mat mai do ve tung tuyen mang; co cot nhap them dien tich (tuong dung ke, mai tren do xuong). - Ong xoi: so ong moi tuyen theo luu luong (ong dung D80 / D100 / D150 / D200 = 10 / 20 / 50 / 80 l/s), theo khoang cach toi da va toi th..."
 }
